@@ -70,5 +70,29 @@
     "texto": "En la cima de tu esfuerzo, cada flexión y ejercicio nos acerca más al triunfo absoluto.",
     "categoria": "gym",
     "hash": "c1b82d0ac3a4131679d1154869be777bde74c4f94891c79f22d827aae1244d7b"
+  },
+  {
+    "id": "2cca8219-a596-4c77-a3dd-e5b1b4cbe6ce",
+    "texto": "Cada mirada entre nosotros es un verso de amor eterno que se canta en el corazón.",
+    "categoria": "amor",
+    "hash": "4f04e731cc04d7ca95348f9d1a8b18b1ef9c30164b6ed36d5c3abbe526c22d0d"
+  },
+  {
+    "id": "c452c0e5-0ad6-43f6-a7c4-536a1718e8ba",
+    "texto": "La amistad verdadera florece en la sinceridad y el apoyo incondicional.",
+    "categoria": "amistad",
+    "hash": "ceb45b0ea1ddfb6318179bf110af5bf18b55d40c677263cee72271fbf4137258"
+  },
+  {
+    "id": "49c9f1f2-5a44-4863-beb6-001cf37b2b46",
+    "texto": "El misterioso camino siempre conduce al hallazgo de lo desconocido y valeroso.",
+    "categoria": "motivacion",
+    "hash": "bf1f574a42fc5b7a78db7619deaf96e5c423c1a9b95aab78323b974988c9488a"
+  },
+  {
+    "id": "5cf5623e-2f85-4370-b1b2-79d61a623c63",
+    "texto": "El esfuerzo en el gimnasio trasciende la cuerda, convirtiéndose en un reflejo del corazón desafiante.",
+    "categoria": "gym",
+    "hash": "14aaf27bb43dd9444e9e46bc74303941c3ee78c6e0f218bd9ea4d00d29820927"
   }
 ]
