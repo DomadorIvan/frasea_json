@@ -106,5 +106,17 @@
     "texto": "La amistad verdadera se forja en el fuego del dolor y la ardiente pasión de amor propio.",
     "categoria": "amistad",
     "hash": "0e07a0975d302058ce3509776a71dacfa3100b40b02b7797ce2cbc39459f6b0d"
+  },
+  {
+    "id": "f9474ebd-327b-406c-b5c2-1d0d1ffc23bb",
+    "texto": "El ritmo de mi carrera no se detiene, por cada obstáculo me acerca más a la meta.",
+    "categoria": "motivacion",
+    "hash": "50c9d7e37acc08f5949beaf391084793027ab200d49f9a250add69f5b09a64d9"
+  },
+  {
+    "id": "b1abe2af-9b7f-482c-bef6-b3fb616096a4",
+    "texto": "Alcanzar tu potencia máxima, esforzarte con pasión en el entrenamiento y desafiar tus límites personales.",
+    "categoria": "gym",
+    "hash": "fab7d853a56735f2aa1d5bdba6a0d686dc0151d7e6bd141bfbcf50b6f36f4517"
   }
 ]
