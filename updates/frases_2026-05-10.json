@@ -1,0 +1,26 @@
+[
+  {
+    "Guid": "852fd4c7-7c52-4963-a4b0-a39ecd123a0d",
+    "Category": "amor",
+    "Text": "Solo en tu presencia, mi corazón late más fuerte como nunca antes.",
+    "Hash": "76047f216c92dada7b4205e862ae5c3757e6cdee094e5678a7ee3b86d88c5690"
+  },
+  {
+    "Guid": "6b67787b-3cec-4221-b20d-14f30260e67c",
+    "Category": "amistad",
+    "Text": "La verdadera amistad se forja en el calor del fuego compartido y la luz de nuestras risas.",
+    "Hash": "9939f21fb69555cf4ff8ec97b62a8789e067ad6b3b9129d932c2688e530041e9"
+  },
+  {
+    "Guid": "6f524679-98ba-4513-b6c1-4e8b12aaf528",
+    "Category": "motivacion",
+    "Text": "Cada pequeño paso es una victoria personal, un gesto de resistencia contra la inercia.",
+    "Hash": "4cfc04e796dcd50bda3b1c21a3748cbf02cd0934c85126fa1e386325b9531149"
+  },
+  {
+    "Guid": "be38051d-d4a4-44c1-8448-41b3f53bad15",
+    "Category": "gym",
+    "Text": "Con cada flexión, tu resistencia se fortalece. La disciplina es el arte del desafío personalizado.",
+    "Hash": "4bbf33f3f405acd94dbde0e647321cdb27c98e566d5bfcb07cecd7270fc009c4"
+  }
+]
