@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f22a60e4-a3eb-4ac7-abe0-b4cc66df9b80",
+    "texto": "Amándote, cada palabra se convierte en un beso eterno sobre mi corazón.",
+    "categoria": "amor",
+    "hash": "005e0b3c5d7624fda638d9193cbfb1ccb6d68ce25a8cde8f3a731e8f45a25610"
+  },
+  {
+    "id": "43092f01-e09a-451c-8766-76a821b81d1f",
+    "texto": "La amistad verdadera florece en el silencio de la confidencia compartida.",
+    "categoria": "amistad",
+    "hash": "8080a4dca30743d1e1774e426fef28ed01ae6f366c0500914d8983ac7e2099c4"
+  },
+  {
+    "id": "2a75f7f0-ac49-45f8-8c0c-a443f7d3840a",
+    "texto": "Despierta la fuerza dentro de ti y abre tu camino hacia tus sueños con valentía.",
+    "categoria": "motivacion",
+    "hash": "ec5062e023da5b5c6f474ceb95a58999a0c3edf0a1d1a963a09660ed8b1577d9"
+  },
+  {
+    "id": "e7d1af05-3038-4d28-b266-d2a0ff55d85b",
+    "texto": "Cada ejercicio nos acerca a nuestro máximo potencial, fortaleciendo no solo el cuerpo sino también la mente.",
+    "categoria": "gym",
+    "hash": "ba910d940650460acdffbce7fb874d655b13efe4b5fbc6d367522f8467ae032d"
+  }
+]
