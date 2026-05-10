@@ -76,5 +76,77 @@
     "Category": "otros",
     "Text": "La luz del sol deslumbró mi interior, iluminando mis sueños y pulsándome el corazón con un brillo dorado.",
     "Hash": "db7f1d3aff56169331ce11a7ad47fdb86db57f012586e84f334d95f5f33bd769"
+  },
+  {
+    "Guid": "097de325-6e1c-4504-b569-b6c485d42ece",
+    "Category": "tendencia",
+    "Text": "La familia unida refuerza el respeto, la gratitud y la lealtad que nos hacen vivir con esmero.",
+    "Hash": "94370a6d2b8aa79ad55d9f3cbfccf14dd12e5710ed4cdd119ba5b353bac41452"
+  },
+  {
+    "Guid": "3742b913-ab4e-4587-806b-b83b3e1b6701",
+    "Category": "amor",
+    "Text": "La familia nos une, nuestra dedicación fortalece el amor verdadero y la honestidad siempre mejora las relaciones.",
+    "Hash": "caab461b68847677959a65697082e86e3582d7879235a8dc437b2292aa1deb4c"
+  },
+  {
+    "Guid": "a60ab285-afa4-4705-91db-bf13db56c4aa",
+    "Category": "amistad",
+    "Text": "La familia que ama, apoya firmemente su trabajo honrado con esfuerzo y disciplina.",
+    "Hash": "b48042d60c5f492cbf80531f3c14001c591409d6e8a316e661ab566e60e73bc7"
+  },
+  {
+    "Guid": "be9c51a0-75df-4f08-b517-84064899171e",
+    "Category": "motivacion",
+    "Text": "La familia nos unifica, enfrentando desafíos con honestidad y disciplina siempre manteniendo la gratitud por cada día dado.",
+    "Hash": "a039be5ec720ef88579006dd4e38b11a9610fc9518df886c041295ba1db8490c"
+  },
+  {
+    "Guid": "2c7dfc6b-5616-407e-9ab1-00ecc6cf34ab",
+    "Category": "alegria",
+    "Text": "La familia junta siempre nos ayuda a enfrentar los retos con una promesa de apoyo incondicional.",
+    "Hash": "da13550510f2cbc7ce1523398a5909997948138fd3b0a1788c24f0ff77a4774e"
+  },
+  {
+    "Guid": "31f59917-9860-45e0-b119-35f890dd4d64",
+    "Category": "secreto",
+    "Text": "La familia es nuestra fortaleza, juntos enfrentamos desafíos con amor y trabajo duro.",
+    "Hash": "f056af4619055370f1a5f5e25fa58b155365c145f698eef06bf0d098ae873dca"
+  },
+  {
+    "Guid": "3cf4635c-1e38-4558-b7ed-146397ab5829",
+    "Category": "viaje",
+    "Text": "Recorriendo juntos, mi familia celebra cada momento compartiendo historias y aprendiendo sobre el mundo.",
+    "Hash": "ddd3c59ae6be50f26aac42beb482b65cbddd174bcec75d44b77edbc4c81f346b"
+  },
+  {
+    "Guid": "71b38d22-ede8-4312-95a6-ba5b5cd39ede",
+    "Category": "gym",
+    "Text": "Con cada repuesta, nuestra familia fortalece el tejado de la casa familiar con dedicación y trabajo honrado.",
+    "Hash": "84ee63eaa3930c4adfa4b4c1d48d49e7b567d780c0e225988469fedbef67051e"
+  },
+  {
+    "Guid": "7aa9a3a5-fe57-45ae-ad86-b3ea01fbbc5e",
+    "Category": "otros",
+    "Text": "La familia se junta para cocinar, compartiendo el esfuerzo y la responsabilidad con un abrazo fraterno.",
+    "Hash": "08337957153829d31bfc597b616c3e50381fa8d82892007642764e473949d911"
+  },
+  {
+    "Guid": "73aa637c-b71d-4263-a5bd-5aef2cd7cf72",
+    "Category": "morning",
+    "Text": "Feliz desayuno, que hoy queremos celebrar juntos como un equipo fuerte y con el mayor respeto mutuo.",
+    "Hash": "2a6f6cd28cc0d14be0d659a187148a55404ad11fde2538abae6409648b31b05f"
+  },
+  {
+    "Guid": "b0cc0cb3-cc40-4feb-bfe2-31be9faeeda7",
+    "Category": "late",
+    "Text": "La familia nos une, la responsabilidad personal es nuestro faro hacia un futuro sabio y brillante.",
+    "Hash": "6c1e3782fa95abab381d1435b066e38c1073921b32c932971f7a9b0c47f77e08"
+  },
+  {
+    "Guid": "8efb7934-fa23-426c-8bd7-514bee46b25e",
+    "Category": "night",
+    "Text": "Buenas noches, queridos serenos; alégrense de sus familias unidas y recuérdense a brindar amor con honestidad.",
+    "Hash": "198fcb01bceee835c045af460359eafaa01774ac8bd016ad20213f9a471504b9"
   }
 ]
