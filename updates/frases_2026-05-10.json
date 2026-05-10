@@ -22,5 +22,59 @@
     "Category": "gym",
     "Text": "Con cada flexión, tu resistencia se fortalece. La disciplina es el arte del desafío personalizado.",
     "Hash": "4bbf33f3f405acd94dbde0e647321cdb27c98e566d5bfcb07cecd7270fc009c4"
+  },
+  {
+    "Guid": "2581c208-64b8-4b04-9ddd-e8e980724338",
+    "Category": "tendencia",
+    "Text": "El cambio climático es nuestra culpa, un presente y futuro que nos responsabiliza.",
+    "Hash": "fc34e994328ebabc85f711916b75913b2b6993e5bed044d7bc6c54716e24780c"
+  },
+  {
+    "Guid": "5285e300-f926-465b-a7c4-6984c96c4afe",
+    "Category": "amor",
+    "Text": "En cada mirada, tu amor se vuelve mi cinta invisible que me ata al corazón.",
+    "Hash": "14aea5593dcaa61840230e253589dee2ec18d56d6283f9c4a9989d143dbb0085"
+  },
+  {
+    "Guid": "ac434859-0116-4a5e-b342-fc99bd976114",
+    "Category": "amistad",
+    "Text": "La verdadera amistad, como el mar profundo y oscuro, alberga secretos eternamente guardados en su misteriosa profundidad.",
+    "Hash": "f704328f5e8af386c1bfbdb36e6211dd3f7767590c894f46eb9e6b93c72befab"
+  },
+  {
+    "Guid": "d9c83b4e-59ba-49d2-bbb3-e0dcce775f11",
+    "Category": "motivacion",
+    "Text": "Cada desafío es una oportunidad para superarte.",
+    "Hash": "8b76b50c7aef932aa99b6c2b5409f6655f8398b9f19e357c50430d464847e298"
+  },
+  {
+    "Guid": "22cb50f3-3f78-45f3-8a4d-41eb85c8cfba",
+    "Category": "alegria",
+    "Text": "La risa es la mejor medicina, y juntos somos un equipo invencible que siempre celebra pequeños logros.",
+    "Hash": "2e2231db01c2918068bc365658f8b356f3309f47de2f78816fa6e5c8a7066322"
+  },
+  {
+    "Guid": "fb2daaa0-6646-4a2b-b045-97210dac2924",
+    "Category": "secreto",
+    "Text": "La verdad es mi compañera silenciosa, testigo de los secretos más profundos que ocultan mis sueños y temores.",
+    "Hash": "0df9ce5ca0ace0aa3462010bd123d82633e7ec70e23b93d8bb806ac789a995e1"
+  },
+  {
+    "Guid": "19a6b524-94f4-43f7-b085-ff7face4f2f6",
+    "Category": "viaje",
+    "Text": "El mar susurra historias antiguas bajo el sol, prometiendo viajes eternos.",
+    "Hash": "6ee21644240c7353dcdb4b7cff85456c0a97a04a5fb2c5a1564030bbd5f2555a"
+  },
+  {
+    "Guid": "744d82a1-6c65-4ff0-9526-b96cbe905eb1",
+    "Category": "gym",
+    "Text": "En el gimnasio, cada esfuerzo y sacrificio te lleva más cerca de tu máximo potencial.",
+    "Hash": "b1c5f5e112aa46eb21d09e390974dee7c20f56a70da9474e9ac8ffb20be0f580"
+  },
+  {
+    "Guid": "07a4d502-bdcd-499b-b918-94dfcacb349e",
+    "Category": "otros",
+    "Text": "La luz del sol deslumbró mi interior, iluminando mis sueños y pulsándome el corazón con un brillo dorado.",
+    "Hash": "db7f1d3aff56169331ce11a7ad47fdb86db57f012586e84f334d95f5f33bd769"
   }
 ]
