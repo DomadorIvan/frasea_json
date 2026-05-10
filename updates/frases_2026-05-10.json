@@ -94,5 +94,17 @@
     "texto": "El esfuerzo en el gimnasio trasciende la cuerda, convirtiéndose en un reflejo del corazón desafiante.",
     "categoria": "gym",
     "hash": "14aaf27bb43dd9444e9e46bc74303941c3ee78c6e0f218bd9ea4d00d29820927"
+  },
+  {
+    "id": "c83dbd3b-66bd-4d5f-a930-3cfcc05d7d6f",
+    "texto": "El corazón brilla más que todos los diamantes cuando enfrento la presencia de ti.",
+    "categoria": "amor",
+    "hash": "b723b427266e533a1943abf6fe9831123113761def2423a16be4341603cdc19c"
+  },
+  {
+    "id": "4bbad9f8-f86e-4598-9c99-35716d14363e",
+    "texto": "La amistad verdadera se forja en el fuego del dolor y la ardiente pasión de amor propio.",
+    "categoria": "amistad",
+    "hash": "0e07a0975d302058ce3509776a71dacfa3100b40b02b7797ce2cbc39459f6b0d"
   }
 ]
