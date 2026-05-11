@@ -1444,5 +1444,65 @@
     "Category": "alegria",
     "Text": "Cada pequeño esfuerzo cuenta para hacer lo que amamos más despaentiente.",
     "Hash": "e91fc0fdf182b1a0088fbdd2e787162fba0768efae576702e8aff41600886d74"
+  },
+  {
+    "Guid": "26b69138-9d6f-48f3-841a-66fe52a2de63",
+    "Category": "amor",
+    "Text": "Solo contar tu historia de amor nos hace más fuertes y felices.",
+    "Hash": "b468c6438d70e13ca662c128364c47010a34182c5137493df654bced3b8b5884"
+  },
+  {
+    "Guid": "1f52f8e8-e64d-4ddb-ae9b-3e652e1bf782",
+    "Category": "amor",
+    "Text": "En el esfuerzo por mejorar día a día se halla la verdadera alegría.",
+    "Hash": "a01e952850af9a2e4df82b967128aecbf43eb80e8187b7f7c603f5e44a9ecf4d"
+  },
+  {
+    "Guid": "e9d997aa-12ce-4e9b-ac07-3c760840eea6",
+    "Category": "amor",
+    "Text": "Cada día que superamos algo nos convierten en mayores y eso me hace feliz.",
+    "Hash": "776046cd76fbad8d3b07fc77df2eb543bdb04a48e08b136471505cfe573216fc"
+  },
+  {
+    "Guid": "16cd70a0-01aa-4773-8c60-a229d1fcfeeb",
+    "Category": "amistad",
+    "Text": "Cada vez que te apoyamos mutuamente, siento una hermosa sensación de unión.",
+    "Hash": "8d92e0fe3b24bc8354e28f2646d4c524d5be81101718bda832d933b9c2715f3a"
+  },
+  {
+    "Guid": "309e5f22-f14e-42ef-bcfa-17b138f2a116",
+    "Category": "motivacion",
+    "Text": "Cada día que superas tu miedo se convierte en un pasto fértil para el crecimiento personal.",
+    "Hash": "2769f4f63a13744a2e3030065a0f3c134a0779427dca96e0a8432a6d63453646"
+  },
+  {
+    "Guid": "1fde6e47-3361-4c36-a1ab-6461171cdf56",
+    "Category": "alegria",
+    "Text": "En cada pequeño esfuerzo encontramos la fuerza de un nuevo comienzo.",
+    "Hash": "42a17741e6a3d054513bbb6036c9e23b7ab4f51e14f012213b350b00ba8bbdb1"
+  },
+  {
+    "Guid": "2e46067b-6535-4643-bd56-8de02dc134a8",
+    "Category": "alegria",
+    "Text": "Cada pequeño esfuerzo lleva a grandes logros; así que sigamos siendo optimistas y dando lo mejor de nosotros.",
+    "Hash": "1ceecfa79aa030035760c063fdf31c1bb0a28b13ddc04f113f6d1abdc94169c6"
+  },
+  {
+    "Guid": "aad107d6-e31c-446b-95d9-cff313b2f4ee",
+    "Category": "alegria",
+    "Text": "Cada paso que dan hacia la meta nos hace más fuertes.",
+    "Hash": "d87dc246cbb7c115dd8ce9f3ea4e7c789d3b6e7b0eb9ccc524b5dadea8f292b2"
+  },
+  {
+    "Guid": "3b1f5eeb-8002-49a5-bfe3-83a34dae7dbb",
+    "Category": "alegria",
+    "Text": "Cada nuevo día es una oportunidad para triunfar y encontrar alegría en las pequeñas cosas.",
+    "Hash": "078e7fa3f7e20bdc2b9a0414acb89a2f9df2f72e7df5e8975d21744b90271622"
+  },
+  {
+    "Guid": "22ddb131-3eeb-48e3-a410-81f7b664ddee",
+    "Category": "secreto",
+    "Text": "Cada paso que dan hacia el éxito nos enseñan humildad y respeto por los demás.",
+    "Hash": "25d8661b6d6ae1c2e0ca18c30e13087cb460d7e9a93a17afe37b164aff240f3d"
   }
 ]
