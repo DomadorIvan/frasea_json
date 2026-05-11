@@ -3004,5 +3004,77 @@
     "Category": "night",
     "Text": "Buenas noches, la paz mental me trae una sonrisa suave y un sueño tranquilo.",
     "Hash": "f8a323c7605cfdf0846cc686f3fa8cf236cc39de0fa34815e63cc5d2731dea6a"
+  },
+  {
+    "Guid": "43ace71d-2d10-4b98-9479-b30c1481d7b3",
+    "Category": "tendencia",
+    "Text": "Cada pequeño esfuerzo nos lleva más cerca de nuestros sueños.",
+    "Hash": "f06db3cbd673e759d561336be5520046f667ad2ea476b306140c7f0064f8f15e"
+  },
+  {
+    "Guid": "b3671300-7bda-4a6d-9334-26aa1aff9dcf",
+    "Category": "amor",
+    "Text": "Cada pequeño esfuerzo en mejorar nos lleva a lugares llenos de belleza y gratitud.",
+    "Hash": "940b8e58ad5d178881bd9374ed6a27b1c6f12d1af783f28c33c5389908e1554e"
+  },
+  {
+    "Guid": "9b0b316e-5830-4547-b7e0-244a7dafeb7a",
+    "Category": "amistad",
+    "Text": "Cada pequeño esfuerzo juntos nos acercamos más a nuestras metas.",
+    "Hash": "95e21c5eb69408993e0e60222c84e8073a4b03872285ee92a7245090e502ebac"
+  },
+  {
+    "Guid": "ce69dcf3-321a-404a-8e0c-974d608d17d4",
+    "Category": "motivacion",
+    "Text": "Cada pequeño esfuerzo en el día mejora la calidad de vida cotidiana.",
+    "Hash": "ead095956fc28917171f4972151dfd0fd46e95ad96384e062efa40f7976985c4"
+  },
+  {
+    "Guid": "3197bc9c-638a-4776-bf3b-6e7c337b820a",
+    "Category": "alegria",
+    "Text": "El día nuevo me levanto con ganas de triunfar y dar lo mejor de mí al mundo.",
+    "Hash": "2a7a25f0e4c0bb12e497c78e552a06ff65bd3880036a3a5f58448bfac7081fec"
+  },
+  {
+    "Guid": "9421901b-e6bc-42be-8840-f6418a9b2269",
+    "Category": "secreto",
+    "Text": "Descubriendo pequeños secretos en cada día nos trae alegría y esperanza.",
+    "Hash": "1a08c34ce77e8ffd14d0a549bf91da459b8e936e625159c923d5abc22d2cb249"
+  },
+  {
+    "Guid": "436941b1-c8b8-4564-8ae5-213294891099",
+    "Category": "viaje",
+    "Text": "Cada vuelo es un nuevo inicio para aventuras y descubrimientos que enriquecen nuestra existencia.",
+    "Hash": "10e6383873e3f5536902eb010ee0c247f067bdd2c699485d45a24d070769d796"
+  },
+  {
+    "Guid": "afdafd57-ab6c-456c-87df-dfbf088227de",
+    "Category": "gym",
+    "Text": "¡El ejercicio es como una danza para mi mente y corazón! Mejora el estado de ánimo cada día.",
+    "Hash": "80f08be518dfd5fda5ccf46ac17981acf04ea878fab941a0a2ee8092f94a9ed4"
+  },
+  {
+    "Guid": "c83e537d-f310-48d7-945e-eb8cf919472c",
+    "Category": "otros",
+    "Text": "Con cada paso que dices feliz, haces el universo más lindo para mí.",
+    "Hash": "cbeb5d58d936dd52f46b7bd1553f4d7edcea4ccd119e200fdd70cb00a5bd1726"
+  },
+  {
+    "Guid": "35483a72-d939-44cd-88cb-1091669c9e3b",
+    "Category": "morning",
+    "Text": "Buenos días hermoso mundo, luz del amanecer te ilumina con energía para el día que tenemos adelante.",
+    "Hash": "f3ebb73e5e7917c5cec291a6388f685c24f2706da3ee147dd4e3e89534e470dc"
+  },
+  {
+    "Guid": "65235117-69e0-496b-8f17-1c25e8824b51",
+    "Category": "late",
+    "Text": "Es tranquilo dejar el teléfono por un momento para conversar con la naturaleza y disfrutar del sol.",
+    "Hash": "08f83283f9ad1b2e2b359120972079f39b1bfc94de1dc8298b512d5e4b51d28e"
+  },
+  {
+    "Guid": "731daa65-e839-45c5-980e-f5a3acf762c3",
+    "Category": "night",
+    "Text": "Buenas noches y que tu corazón sea un refugio de paz.",
+    "Hash": "23f33cc5b8486fb1c742f62d8f4e1a0344e7e7dc6c84e9be9271e5b6dd00c962"
   }
 ]
