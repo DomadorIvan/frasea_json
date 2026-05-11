@@ -4984,5 +4984,77 @@
     "Category": "night",
     "Text": "Buenas noches, la paz mental nos acerca a nuestras amistades y el amor sincero resuena en cada esfuerzo.",
     "Hash": "2a2e33448afd67fbb5a753807e2431640123ca990e9217a8fb0723275abb3876"
+  },
+  {
+    "Guid": "02a5204f-8bce-412c-a2ed-0aac705e53a2",
+    "Category": "tendencia",
+    "Text": "Fueron los jóvenes que abrieron la puerta a un futuro brillante juntos.",
+    "Hash": "fd485f177c1af804523a6d534391a576acb02da25bb3aabbf9ddf485a2df7551"
+  },
+  {
+    "Guid": "52889e4b-bce5-45e1-818a-dcf9b542aadb",
+    "Category": "amor",
+    "Text": "En cada pequeño esfuerzo por mejorar nos acercamos más a ser nuestros mejores amigos.",
+    "Hash": "230b2d5f180eb8762f9941b65b258942b94c67ef04de0504d4a16fee52d77091"
+  },
+  {
+    "Guid": "28bf874c-02d1-409e-96b6-56e2becbc1a9",
+    "Category": "amistad",
+    "Text": "Aprecio más que todo mis amigos por ser constantes en el tiempo y la diversión.",
+    "Hash": "bb250ee2797bf38bf6e7b5d198aa3274eb6f489fb23b877bb13b1eae0089b9be"
+  },
+  {
+    "Guid": "94936184-5e25-45cf-9e0e-d2543eba0d07",
+    "Category": "motivacion",
+    "Text": "Cada pequeño esfuerzo cuenta y a veces lo extraordinario proviene de la rutina.",
+    "Hash": "fe3b3ed7c8562b534c9d19f0619f8745f2d2e68586eea2d07554b33743f1b609"
+  },
+  {
+    "Guid": "9ae0b5d8-3969-493c-8657-b9b223a2b587",
+    "Category": "alegria",
+    "Text": "Cada pequeño esfuerzo nos lleva a grandes logros y juntos podemos superarnos cada día.",
+    "Hash": "deb45bc75d398ac744584055a765b74aab56a5d24c4078e5e5d33ba1021fd2ba"
+  },
+  {
+    "Guid": "73138805-0aa9-41fc-924a-d524194bc7fe",
+    "Category": "secreto",
+    "Text": "Cada día es una oportunidad para crecer y compartir alegría con los que nos rodean.",
+    "Hash": "41b8526e352691ac2b5323325969afb8c9b61706682e371deb86c54a1c3711ab"
+  },
+  {
+    "Guid": "f02a622b-1810-4a48-8ec4-825860893859",
+    "Category": "viaje",
+    "Text": "¡Esta aventura nos traerá recuerdos que durarán toda la vida!",
+    "Hash": "ac80c25328f1a3541416072793c6f65cd5112d7735a548f5d7d376376c67fa75"
+  },
+  {
+    "Guid": "501ed104-7136-415d-8fa4-4da0c38a1dc3",
+    "Category": "gym",
+    "Text": "Cada ejercicio es un paso adelante en nuestra caminata hacia la felicidad y el bienestar.",
+    "Hash": "202144a744d24e0361f80678415929fa8d3ab8e74de7e1e111047dc556fd494f"
+  },
+  {
+    "Guid": "1679313d-8205-49c2-aef0-dbe2b860c1e9",
+    "Category": "otros",
+    "Text": "Cada pequeño esfuerzo en el camino nos acerca a nuestras metas más grandes.",
+    "Hash": "cfad4f84207d8d8065f6a1e8d0d3cc26fb0c9ec661cafc4588a70b551d6aae49"
+  },
+  {
+    "Guid": "abdf2a6e-6794-4e54-88b8-65cc46982e95",
+    "Category": "morning",
+    "Text": "Sonrisa al levantarte con valentía para un nuevo día lleno de posibilidades.",
+    "Hash": "4da8186bfe4247ead8a0c00b4bded43bdf3fa7e8869bb356ea9f9350b31327d5"
+  },
+  {
+    "Guid": "5d46f331-51bf-4fb7-872d-a735ac6d4362",
+    "Category": "late",
+    "Text": "Cada mañana despierta con el sol y siempre encuentra energía para disfrutar de la vida.",
+    "Hash": "e7fabf3af876c1188ef9fbefddc4cbbd451fc6a713934444d0d37676b862dc6f"
+  },
+  {
+    "Guid": "60eb5f14-3daf-4470-94a1-3fa7e43971fb",
+    "Category": "night",
+    "Text": "Buenas noches serenidad, cada dormida promesa de descanso y tranquilidad mental.",
+    "Hash": "dd2d5d15d4ae267a368020d410d54ac229f9182794f4fd54bf6317b8bf031624"
   }
 ]
