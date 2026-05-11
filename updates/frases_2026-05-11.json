@@ -1390,5 +1390,59 @@
     "Category": "night",
     "Text": "Buenas noches hermosa vida, disfruta cada sonrisa que encuentres y sé fuerte en lo que puedas.",
     "Hash": "76ffef7dc29e4cbf395dd88203302a3160441c0d545f387df5bc55632b7d6a3f"
+  },
+  {
+    "Guid": "b0178221-e43d-4e86-8415-b018bc4915f1",
+    "Category": "tendencia",
+    "Text": "Aprecio el pequeño éxito en mis rutinas diarias que hacen de mi día una alegría.",
+    "Hash": "6d47c46171b1423bfa874bad5eaa1aa170eeea1367d078ef640447afb3dd2df5"
+  },
+  {
+    "Guid": "a484e9ab-d40c-4769-9c99-e3b4ce4520bf",
+    "Category": "amor",
+    "Text": "Aprecio cada día que pasa y lo viviré con amor.",
+    "Hash": "209c401ac12f2a3ee539fd2414de7aa32a36a315b4212119a2912bade7e59a42"
+  },
+  {
+    "Guid": "c738a276-c6d9-4366-8717-58a8860977aa",
+    "Category": "amor",
+    "Text": "Con cada pequeño esfuerzo en nuestro camino juntos nos fortalecemos y aprendemos a amar con más fuerza.",
+    "Hash": "4046d88e022b58575a3c143a3b7e1a6a7b8765563607106a164a4bf5b723d960"
+  },
+  {
+    "Guid": "f27b02bd-438f-4785-a33d-db7cc702b648",
+    "Category": "amor",
+    "Text": "El esfuerzo por ser amable puede hacerse un homenaje a la vida.",
+    "Hash": "afc1533272a861a5943ac3d73c083a0fdda83b9ecf2c11d51869517b04a13dc3"
+  },
+  {
+    "Guid": "c9e130dc-1106-4a2f-bc37-f83f913e4545",
+    "Category": "amor",
+    "Text": "Cada día que correremos juntos es un piso de amor adicional en nuestra caminata por la vida.",
+    "Hash": "6c4044ddde00482d5c8039cb58b4c486f175c865fc4ac2f3b8c12ba709433a17"
+  },
+  {
+    "Guid": "900e12fb-efa7-4a59-841a-5f8feee1d365",
+    "Category": "amor",
+    "Text": "Cada pequeño esfuerzo en nuestras vidas puede ser una flor de amor que florece constantemente.",
+    "Hash": "d69c27dd79653ed1e2f0b59ed8d901484b8c8551464a7aa14825c55353c26b38"
+  },
+  {
+    "Guid": "8e99d770-2117-46ed-9457-a2671840037d",
+    "Category": "amistad",
+    "Text": "Solo con un abrazo y una sonrisa podemos asegurarnos de que nunca seamos solos en nuestro camino.",
+    "Hash": "7c1feac3623674097465bcee79d920eda8c6b34fe347d223ea49b4d12606a128"
+  },
+  {
+    "Guid": "4d4f6449-e7a7-4f9c-9df1-8fab481981b2",
+    "Category": "motivacion",
+    "Text": "Cada pequeño esfuerzo lleva al siguiente gran paso en la vida.",
+    "Hash": "7773e7cd36a30fdca0b55c86fb458139ad0911d1c1d00b8dcbda74c738023c16"
+  },
+  {
+    "Guid": "67aacc85-26eb-46d1-8f90-7f6d2233b462",
+    "Category": "alegria",
+    "Text": "Cada pequeño esfuerzo cuenta para hacer lo que amamos más despaentiente.",
+    "Hash": "e91fc0fdf182b1a0088fbdd2e787162fba0768efae576702e8aff41600886d74"
   }
 ]
