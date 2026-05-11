@@ -2716,5 +2716,149 @@
     "Category": "tendencia",
     "Text": "Cada día que terminamos nuestras tareas nos sientimos más en control y orgullosos de lo logrado.",
     "Hash": "d1696220bd22985740421b130a15599736553be9d07e10e7e997e2c4360df7e1"
+  },
+  {
+    "Guid": "2e622e9c-8730-4d47-82d8-790b6072b868",
+    "Category": "amistad",
+    "Text": "El esfuerzo constante en el amor y la amistad nos lleva a cruces hermosas que siempre merecen celebrar.",
+    "Hash": "31e11970f39340cf94d7d2e7a83807470584a68a36255f0a0e91ebc25a7df87e"
+  },
+  {
+    "Guid": "8afc4c09-b8fd-4497-9eb1-4a33ee733040",
+    "Category": "amistad",
+    "Text": "El esfuerzo y la sinceridad enfrenta los obstáculos juntos.",
+    "Hash": "b3b182e275d9516b9ac26ae985cfa58453a1b5b2d07b196b3ef76ef36f000019"
+  },
+  {
+    "Guid": "d0a71f5c-da62-4b1e-81d7-9744cd38cca6",
+    "Category": "amistad",
+    "Text": "Cada día es un nuevo comienzo para mejorar y enriquecer nuestra amistad.",
+    "Hash": "0ad81f8ae9bb187190ba31c596e843cc8a8277599d65bcdb85db0d1511f6c935"
+  },
+  {
+    "Guid": "31f72702-b568-4a95-92c1-bec7ef7b7a0d",
+    "Category": "amistad",
+    "Text": "Aprendemos juntos y nos apoyamos mutuamente; nuestra amistad es un tesoro invaluable.",
+    "Hash": "3cbe60847f0372dddb0328e55b56f3940314db7540ca83aa3b3fe867d4ae2a8a"
+  },
+  {
+    "Guid": "d9670427-c0c4-47c8-a50f-9724ebf47293",
+    "Category": "amistad",
+    "Text": "Hagamos un esfuerzo para celebrar el amanecer juntos y compartir risas genuinas.",
+    "Hash": "b4f38a3ad4fc1f259404d6caa3445606c69588de1513cfd5b346adde8dfcf91b"
+  },
+  {
+    "Guid": "af19241f-18c3-4139-8d79-2c8aa685fad0",
+    "Category": "motivacion",
+    "Text": "Cada pequeño esfuerzo suma a la gran obra del día.",
+    "Hash": "af0b7d6728f0b6b7530d3d7b9b8cb0f04a47210e43a970bd9a225c0a5fbd80e8"
+  },
+  {
+    "Guid": "fa9f4754-845c-4488-b4cd-3b7de5dd01d7",
+    "Category": "motivacion",
+    "Text": "Esfuerzo constante es la clave para superar los obstáculos y crecer personalmente.",
+    "Hash": "21792fe86cb52401c58b86da0d403795407208d16d4db8d5e35780b867cd7c79"
+  },
+  {
+    "Guid": "a365b1f0-3010-4075-b5c8-dd3714b8c407",
+    "Category": "motivacion",
+    "Text": "Cada pequeño esfuerzo en la mañana me lleva a mi mejor yo.",
+    "Hash": "01b109375643c1b4dbf9ada21f335a003511d6674b8d6d9f4a90347f613144ae"
+  },
+  {
+    "Guid": "53955dad-4f15-420c-b019-80dd26a5a5e0",
+    "Category": "motivacion",
+    "Text": "Cada día que superas un obstáculo es como añadir una nota más en la sinfonía de tu vida.",
+    "Hash": "9f02c7fb433cf643b532dd633a1c344c2c1f712d63adb3a59ef16e22b44c9d41"
+  },
+  {
+    "Guid": "447bec0f-4449-45bd-a0a7-add74ec8bee9",
+    "Category": "motivacion",
+    "Text": "El esfuerzo semanal lleva a grandes logros; confío en mis capacidades cada día.",
+    "Hash": "b8c62f7d326fad1a1733324abb9a80c13903cd8f0ade1787f2189be423bc978e"
+  },
+  {
+    "Guid": "9d0d581a-c15a-4953-9a48-0ee8e3f57191",
+    "Category": "alegria",
+    "Text": "¡Estarías de su lado! El esfuerzo por mejorar cada día nos hace más fuertes y contentos.",
+    "Hash": "53c66b6c348601d0e4d1a81676be45aec9fcc7423b5f8b6d8e91de415cb225e2"
+  },
+  {
+    "Guid": "c2c3d726-e808-47b2-99f2-6d8eba098391",
+    "Category": "secreto",
+    "Text": "El esfuerzo por ser mejor a menudo revela el verdadero espíritu de corazón.",
+    "Hash": "f832f89e01b51a714a2eae7ae71d7cd552e60fac8e76445872d76a2e0047e2d6"
+  },
+  {
+    "Guid": "1b732a9f-a405-415b-a881-7dd7fa6e227c",
+    "Category": "secreto",
+    "Text": "Cada día que superamos algo nos pone más cerca de la felicidad interior.",
+    "Hash": "aa761198a55196a17ee3d06c1ef392c03cf36c85b65d29cecc8e7f21cfe0219d"
+  },
+  {
+    "Guid": "fa366b3e-5e13-4e55-bd14-52141d416e4d",
+    "Category": "viaje",
+    "Text": "Cada aventura nos lleva más cerca de nuestras propias almas y fortalece los lazos con aquellos que caminamos.",
+    "Hash": "701256ada07093ccc523bdc4d5517da78889ed0e8dd718105696094bbd64b8a3"
+  },
+  {
+    "Guid": "68dd7911-db2a-4b95-b4ae-b0e5f833af3c",
+    "Category": "gym",
+    "Text": "Cada levantamiento es un gesto hacia el futuro y nuestro mejor yo.",
+    "Hash": "d4d1c488ba92a00a1fa3497aed30b90a3ecc274481bb162565cb04bb72a5f492"
+  },
+  {
+    "Guid": "986e2999-2f92-4034-911b-16fd26bb1be1",
+    "Category": "gym",
+    "Text": "Cada república es un pequeño gimnasio para fortalecer el alma y los músculos.",
+    "Hash": "6c33da7bc19ca6e1148603efad0cd6fd699301ece538ef6bed110e0675f2727a"
+  },
+  {
+    "Guid": "0e8276d4-e6a1-4332-bc40-21ace057b640",
+    "Category": "gym",
+    "Text": "Cada ejercicio nos enseña disciplina y la alegría de seres humanos es compartir nuestras hazañas.",
+    "Hash": "77c3985278d72bb0f1fb3c97b6017f595bf09a0a6a26ca7678538e5a39a70cd4"
+  },
+  {
+    "Guid": "4d59dc8c-33f0-4f7c-a4f9-23b0300d35d0",
+    "Category": "gym",
+    "Text": "Cada set que terminemos hace nuestra pequeña contribución a la fuerza del mundo.",
+    "Hash": "d04baf6fb56109f8d2cc8a4d7a416f1dab36fdd4cddb0ac1e3b4f8942e78c7d5"
+  },
+  {
+    "Guid": "122fee9a-2be7-4f33-9c14-a6ea2110b62c",
+    "Category": "gym",
+    "Text": "Con cada flexión y salto en la cinta de correr se sienten más fuertes y libres.",
+    "Hash": "5cd46ac7cb66bd3eab678b59181fe6f7524a2bb044be0ec6d0465263353b59b2"
+  },
+  {
+    "Guid": "d9466e99-c6d2-4978-bb0c-59958fc736cd",
+    "Category": "gym",
+    "Text": "Cada repetición en el gimnasio es un paso más hacia tu camino de crecimiento personal.",
+    "Hash": "a18359a10a254230e8b1fb705b9eb03e0e0495ce48f878f923df3bb9ed50eba4"
+  },
+  {
+    "Guid": "7bf5a18f-2813-42bb-9993-51d7e8907f29",
+    "Category": "otros",
+    "Text": "Con cada paso que da mi abuelo en el parque, celebro la pequeña victoria del día.",
+    "Hash": "2a52c19cfb9ad3f32b55933e054922f0fc1d91143e1c0f3ddbe1889d17d0513c"
+  },
+  {
+    "Guid": "9524f031-6ad5-4948-9dfb-9f269149c8f5",
+    "Category": "morning",
+    "Text": "Con cada nueva mañana que abraza la vida con energía y optimismo.",
+    "Hash": "d033d92054004d199993126631907736a8e00d9568d1c87ee350864d3e9ec6b0"
+  },
+  {
+    "Guid": "32b2a4de-e478-4f70-9da4-3d5330fd90b3",
+    "Category": "late",
+    "Text": "Encuentro paz en mi jardín mientras plantamos flores juntos; cada semilla promete el placer de un nuevo hermano.",
+    "Hash": "7c13383e47947d9ab8aa1ae3bbb50e0b466eec0f5fc802c2e5fd74272146f7aa"
+  },
+  {
+    "Guid": "9f58e6bb-868b-4f81-92a1-39f04b5a1b63",
+    "Category": "night",
+    "Text": "Buenas noches querida alma gemela; tu sonrisa calma la noche y anima mi sueño pacífico.",
+    "Hash": "4df3ccae4c24831c35931d4f9257c64c3f642c4f44efa717009479115d281eb6"
   }
 ]
