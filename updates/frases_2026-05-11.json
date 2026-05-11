@@ -1288,5 +1288,107 @@
     "Category": "gym",
     "Text": "Haz ejercicio por placer y te sentirás como un campeón de ti mismo.",
     "Hash": "34600dd6925df333b468c08bf40f92bdf40219d2f1f8e4d2ead276d27bc0f758"
+  },
+  {
+    "Guid": "d07524b1-bff5-4b3c-98e3-a779d3fb0f95",
+    "Category": "tendencia",
+    "Text": "Cada día que pasa es un nuevo adiós a algo viejo y cada amistad nos une más fuerte.",
+    "Hash": "b7d83fbbe893e5ab876151fa2764005b404e58de0b6f6348197cf7e634f7c5f5"
+  },
+  {
+    "Guid": "58b09527-7e44-4b79-8af0-42bb79f03cd0",
+    "Category": "amor",
+    "Text": "Cada día que superamos nuestros obstáculos nos acercamos más a un amor verdadero y significativo.",
+    "Hash": "0c8b952fe86c44c4be01cac74c9bef6ab0a6787f9dec1028cdfa680f1dabf1e4"
+  },
+  {
+    "Guid": "f161f7fa-4cce-432c-a74a-016557c380b2",
+    "Category": "amor",
+    "Text": "Escribir cartas de amor es un acto que fortalece el corazón y anima la esperanza.",
+    "Hash": "386e8cdfcd6e4961354e2c25377fce85edd606d0290bc3e3cc55bd8bec655f05"
+  },
+  {
+    "Guid": "72ac0cfa-e391-49f4-a356-03790eb170b8",
+    "Category": "amor",
+    "Text": "El corazón que siento por ti me hace ver el sol en la nube más claro.",
+    "Hash": "3197c95235535f0fdf5edaeaacf494519331c1b315c600ed0b2a6643a6937195"
+  },
+  {
+    "Guid": "6eca7352-876f-4da5-9490-e627d250bdd4",
+    "Category": "amor",
+    "Text": "Dentro de nosotros hay un amor que no conoce la falta.",
+    "Hash": "20cbf6e71119fe8ad9dadad3ab3ac6124f320628be855a7a7330ed27aa55c14c"
+  },
+  {
+    "Guid": "d1276f7a-a515-4aaf-b7db-3fc6612e9892",
+    "Category": "amor",
+    "Text": "Cada paso que doblamos juntos marca un milagro en nuestro camino.",
+    "Hash": "079ccc7b557837da4ab99a9254862c5868eca87d983eb3fbebb05a45b3dc0ac1"
+  },
+  {
+    "Guid": "1adc0166-fbb3-4854-9d27-d0f566cce04e",
+    "Category": "amistad",
+    "Text": "Siempre encontrarás amigos que te cuidan y apoyan en los días difíclobas.",
+    "Hash": "0c7292b30141dce1f04e1ac1868cbda0067abb78a239145c4eedde729d38a997"
+  },
+  {
+    "Guid": "87b4cd00-d378-4d36-879e-dff70678bcdf",
+    "Category": "amistad",
+    "Text": "Cada amigo es un regalo para la vida; disfruta compartiendo alegremente cada día con ellos.",
+    "Hash": "ddee1bbf24f1521726db4a7918f66f7bd85cc7efb737e4fd90c9a2ea7be3a5d3"
+  },
+  {
+    "Guid": "ae4dbb3b-e366-4e7c-a3e2-05bbdd6c5532",
+    "Category": "motivacion",
+    "Text": "Cada pequeño esfuerzo en la mañana me abre el camino al éxito",
+    "Hash": "a13058d14627d616124d02f7f7952aca3c9f5e60acb1db188c35019589306376"
+  },
+  {
+    "Guid": "d9b623c7-d83f-4e1c-879b-2829dfecae6a",
+    "Category": "motivacion",
+    "Text": "En cada esfuerzo, se halla la alegría; el trabajo duro y dedicado siempre trae recompensa",
+    "Hash": "6da07253c826ceafdd4e1c4829de20a75574f8372383ea5836d14e6bea90581b"
+  },
+  {
+    "Guid": "a31acff9-c8f9-43ec-a0b4-d17f7ce31ae9",
+    "Category": "alegria",
+    "Text": "Cada pequeño esfuerzo nos acerca más a los sueños que soñamos.",
+    "Hash": "b2e224301158a31709918919184c51a86886d7c3f749cb49a31933cf9a702b88"
+  },
+  {
+    "Guid": "a4fcef07-4685-4878-8982-33bc5666e35e",
+    "Category": "alegria",
+    "Text": "Cada pequeño esfuerzo cuenta y juntos formamos un equipo de victorias que solo nos hace más fuertes.",
+    "Hash": "afc7064d421c97def27d101508089a727b448a3faef3a61a176eb8a791fe8af3"
+  },
+  {
+    "Guid": "22c0d741-65e6-495c-b501-6b12ad33b3ab",
+    "Category": "alegria",
+    "Text": "En cada esfuerzo pequeño, encontramos la fuerza para grandes triunfos.",
+    "Hash": "6376485a74762f3450bc60809174c0e2351b5599391c9d7bf5e2385818268931"
+  },
+  {
+    "Guid": "05d7b7ec-f578-4320-921e-f11eeeb7def4",
+    "Category": "gym",
+    "Text": "Cada república de los músculos es una victoria personal; celebra su lucha y disfruta el entrenamiento.",
+    "Hash": "44051f9e011000e01f8ccf89ccabf1f16ed557d3b701f6c56a2d4e5d744491db"
+  },
+  {
+    "Guid": "8b163763-1387-46ef-95b6-e0fe65af7611",
+    "Category": "morning",
+    "Text": "Empecé el día con pasión y cada rincón de la mañana llena un corazón contento.",
+    "Hash": "918ae3837bb997a1b664554a9deeab662d230f161008b50ffbc83c750c663ef6"
+  },
+  {
+    "Guid": "be6fe543-8d26-479f-a941-272cfa0d88ad",
+    "Category": "late",
+    "Text": "Esa tarde soleada me hace pensar en los pequeños momentos de felicidad que nos brindan nuestros amigos.",
+    "Hash": "2067d7b10931025048a9bc512a611ec57d003591b84e755a146be42dbe548da7"
+  },
+  {
+    "Guid": "453f5ce3-7c31-43be-a19e-795e5dfbbebe",
+    "Category": "night",
+    "Text": "Buenas noches hermosa vida, disfruta cada sonrisa que encuentres y sé fuerte en lo que puedas.",
+    "Hash": "76ffef7dc29e4cbf395dd88203302a3160441c0d545f387df5bc55632b7d6a3f"
   }
 ]
