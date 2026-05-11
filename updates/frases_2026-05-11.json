@@ -142,5 +142,365 @@
     "Category": "night",
     "Text": "Buenas noches para un descanso tranquilo y una paz mental refrescante que trae la noche.",
     "Hash": "f4171b83c47382534e94c0695d639a40416537b4e41ed5c30ccbf4bcc53f9e09"
+  },
+  {
+    "Guid": "0d8468b4-7f6a-4007-8c1a-02737ab971e4",
+    "Category": "tendencia",
+    "Text": "Cada pequeño esfuerzo cuenta y juntos podemos superar cualquier desafío.",
+    "Hash": "5305fdb343575f18eb403568e8bf1b224992117e8afbb9082aaa52f414631616"
+  },
+  {
+    "Guid": "f9a56f0a-f84d-43ff-98f7-4e1f185d935e",
+    "Category": "tendencia",
+    "Text": "Cada pequeño esfuerzo cuenta y me hace feliz conocer nuevos amigos.",
+    "Hash": "7da3a5d63db89ba578167494ddb5cb36899c96b359b69da3c9a4c8e9ffdbc8e1"
+  },
+  {
+    "Guid": "19595fea-90a8-4af3-9f69-d3b7e1618eaf",
+    "Category": "tendencia",
+    "Text": "Cada día que superamos pequeñas dificultades es una victoria personal y un gran regalo para nuestra vida.",
+    "Hash": "f5655df5805dcd84c9744f94a7105ccee7790ca6d4dcb43e4f2390101038b1ff"
+  },
+  {
+    "Guid": "a2ff607b-5f05-4012-b394-981afa65960e",
+    "Category": "tendencia",
+    "Text": "Cada paso del camino es un pequeño triunfo que nos lleva a la felicidad.",
+    "Hash": "c4981f6ca89ecba06fa8af058ea7bdb929154f0bb5032d0d29fbb48ac64c87ba"
+  },
+  {
+    "Guid": "1b1ddd49-c66d-4999-89e7-b0334e72b768",
+    "Category": "tendencia",
+    "Text": "Cada día que superamos nos fortalecemos y aprendemos a amar el presente.",
+    "Hash": "042097f93700062fdb53333f6946f86c5e1acfdbb39622d95b9f9ba535f2c926"
+  },
+  {
+    "Guid": "9d41ae03-ca72-45d0-9f6d-e23b17589895",
+    "Category": "amor",
+    "Text": "Cada paso que me llevan es un gesto de amor por mi ser.",
+    "Hash": "1c8fa0f510c71a94f468196a346aecd52aabc2423691b9b2d37e02aa8422ef6c"
+  },
+  {
+    "Guid": "01be57f1-f2ee-4beb-bcae-d85ec7bb4677",
+    "Category": "amor",
+    "Text": "El afecto verdadero no necesita palabras para expresarse.",
+    "Hash": "9e50da3107e8fe24b343d97eb3ae1a293951c38695a493c52cc7c4197a241dff"
+  },
+  {
+    "Guid": "90b2db91-d612-4eb3-8ed3-c60d62ead185",
+    "Category": "amor",
+    "Text": "Cada pequeño esfuerzo en el camino de la disciplina nos lleva más cerca del éxito y merecimiento.",
+    "Hash": "9a7933d3a13c6662654e28323e8ba8071d22b243a6fbc8e5ae4dc280c8648c29"
+  },
+  {
+    "Guid": "15ea223a-edb9-4f5c-844a-6a346864db48",
+    "Category": "amor",
+    "Text": "Cada paso que damos juntos es un hermoso trote hacia la felicidad.",
+    "Hash": "8931ba1d41111d4404605b846cf01b8ce03f24b4d39c3b3e75ead963b12823bd"
+  },
+  {
+    "Guid": "e35b7b03-c248-473d-a74a-3fbe2fcc7357",
+    "Category": "amor",
+    "Text": "El esfuerzo por amar no tiene límites y siempre se siente el calor de la gratitud.",
+    "Hash": "6df26ce1e9b2dc34c4fccf21c1026e32e1736a662d836514787ec4ea39f1ec0f"
+  },
+  {
+    "Guid": "5fcdb0d5-2731-4138-a6eb-fb66fc0d6435",
+    "Category": "amistad",
+    "Text": "Cada día que pasa es un nuevo hermano en la vida.",
+    "Hash": "41447d90224c415773246bd1c147a7e74bca0102975438b1cdcaea7643e3db56"
+  },
+  {
+    "Guid": "d15db609-225c-4dbc-aaa4-325ab7e40b60",
+    "Category": "amistad",
+    "Text": "El esfuerzo para mejorar siempre tiene un amigo más leal que nosotros mismos.",
+    "Hash": "4841a11273556d8331f949045737dbce860a5a251751cffb673d5f57a4adca1a"
+  },
+  {
+    "Guid": "7bea1fbe-25c0-45d8-b2e7-3f7f2774b0a9",
+    "Category": "amistad",
+    "Text": "¡Cada día juntos es una nueva oportunidad para compartir risas y amor!",
+    "Hash": "7829fd4acfc8724cf05f30d9f1c0d32e8b9d77c5a43b33603c2bfa734aff089e"
+  },
+  {
+    "Guid": "c4245133-26aa-44c3-b50b-eb6e97260373",
+    "Category": "amistad",
+    "Text": "Aprendemos de nuestros amigos y nos sumergimos en el calor del aprecio.",
+    "Hash": "8bfe042260f171a6b1b781f160d880d9c5707b7b895eebd69c0457b595043f0f"
+  },
+  {
+    "Guid": "c85e8e91-bcac-4295-9581-85f97b938962",
+    "Category": "amistad",
+    "Text": "Siempre encuentro algo en lo que aprecio la compañía de mis amigos.",
+    "Hash": "9f09825bfc8525a872a3c2a5a5d47e5e48ba3d7f02519bed09b51b16d9ba5ec0"
+  },
+  {
+    "Guid": "0caf7c81-dea9-439c-be94-49ff39d76fe2",
+    "Category": "motivacion",
+    "Text": "Cada paso pequeño cuenta y al lado de un amigo es más fácil la caminata.",
+    "Hash": "5477a670cb21b47ebe9aa2bd3975f1741c85182d7b9b163856159322989bfea9"
+  },
+  {
+    "Guid": "ef19f74c-c4c6-4e99-a3ab-78666fa6455d",
+    "Category": "motivacion",
+    "Text": "Dedicarme al arte es mi forma de escapar y celebrar cada día con ilusión.",
+    "Hash": "b0684f7cf021f4fcf50fa0c6e0a39f621d2bb36216c82a21fd8195eb5e4defba"
+  },
+  {
+    "Guid": "be5786fd-b8ef-4266-bad2-fe8eb6e1b49f",
+    "Category": "motivacion",
+    "Text": "Dedicarme a aprender cada día es como abrir una llave que siempre está en mi poder.",
+    "Hash": "a8da07b71b97c9a1dcc8a2270033640336ec120bc4c2f96c061ebfc936e01f11"
+  },
+  {
+    "Guid": "3da29a6d-cdfb-4b5a-9cbe-4ae3eb0d5fe6",
+    "Category": "motivacion",
+    "Text": "Con cada paso que dame hacia mi objetivo, se abre una puerta para el crecimiento.",
+    "Hash": "58833d414eb27dfbae5c69f47db8e31bba22a69458eb3cac1b6d0da5e2f08835"
+  },
+  {
+    "Guid": "31ab7b78-e327-43e1-8832-49444a6dfcaa",
+    "Category": "motivacion",
+    "Text": "Cada día es un nuevo comienzo para aprender y crecer.",
+    "Hash": "e3b63365c3692cead2719fe159934b1ef49a165b2f0e7b58c2061dbe10745b0d"
+  },
+  {
+    "Guid": "6eff995f-7dd8-44b9-bf6f-f2e25a2a9eff",
+    "Category": "alegria",
+    "Text": "Cada pequeño esfuerzo mejora la calidad de vida y hace el mundo un lugar mejor para todos.",
+    "Hash": "3dba8d0c88435f06a12a59354296d895417634c2832a48a4ab36c93585543382"
+  },
+  {
+    "Guid": "72512f38-2103-452d-bb35-646db7ffddc0",
+    "Category": "alegria",
+    "Text": "A veces enfrentarás desafíos, pero cada paso que bajas es una victoria personal y un motivo para celebrar.",
+    "Hash": "fff7c9b37221c3dac8b543a72868438c435e738cd60908f5ee9b50c73fe4a536"
+  },
+  {
+    "Guid": "b071346c-7577-4e55-b368-72fe67b20efa",
+    "Category": "alegria",
+    "Text": "Hoy celebré un pequeño logro en mis clases y eso me hace feliz.",
+    "Hash": "4003d1461f6b6bb68b60435093dcfe078d9bf5477dd8190d3bea698eca2577b9"
+  },
+  {
+    "Guid": "25c36587-d69c-4221-865b-1969874c13fe",
+    "Category": "alegria",
+    "Text": "Cada paso que dan hacia el bien es una victoria pequeña en la maravillosa aventura de nuestras vidas.",
+    "Hash": "2be8178d292d1aad3e5932ea9fca25995ca0b1b8138e64a912523d1f860c09fd"
+  },
+  {
+    "Guid": "eb86159e-c769-4246-9dfa-c778a00cd047",
+    "Category": "alegria",
+    "Text": "Al final del día, cada pequeño triunfo en nuestro camino nos lleva más cerca de la alegría interior.",
+    "Hash": "2f1aa8c60e20af31c1471aa87463826eba58b4457f65563fed636182357c3b26"
+  },
+  {
+    "Guid": "af394b91-a76a-4621-9a70-c8cc66b1841a",
+    "Category": "secreto",
+    "Text": "Cada paso que tomamos nos acerca un poco más a nuestros sueños secretos de felicidad.",
+    "Hash": "11f9d89dd0f18fcfbe9da7a4ec798569bbbe5eca64f2c90a742c561fb6b196d5"
+  },
+  {
+    "Guid": "e88dde62-c266-415a-bfc9-20c06100ab90",
+    "Category": "secreto",
+    "Text": "Cada pequeño esfuerzo adelantado hoy se convierte en un brillo dorado para mañana.",
+    "Hash": "25aa7874010b96873821c571f35d155871e0947074225279945f78c0b0f4cd6e"
+  },
+  {
+    "Guid": "07dfaaa7-6500-424c-9b09-d4c8c8d7b696",
+    "Category": "secreto",
+    "Text": "A cada esfuerzo nos enseña una lección y aprecio para el próximo.",
+    "Hash": "6749c2ee773db20f5c751812b17a9946a02dffce072594475b2fd00876f5c3bb"
+  },
+  {
+    "Guid": "08eddd2c-e320-4993-8e24-95523521c432",
+    "Category": "secreto",
+    "Text": "Aprecio estos momentos tranquilos con los que puedo desconectarme del mundo y vivir el presente.",
+    "Hash": "ba73480298a4f2cdf25d9401525b2dced6d206cba88a8d91851ed4f216b63e9d"
+  },
+  {
+    "Guid": "771cd6d6-6246-4ee7-a969-ed61a7a072cd",
+    "Category": "secreto",
+    "Text": "Aprendiendo constantemente me siento más fuerte y aligerado.",
+    "Hash": "e932f962f0ded99e7a9762b5fdf7b84795dac7c0684c9e96e8fa90c4443141dc"
+  },
+  {
+    "Guid": "7ddf1792-eb5c-416f-9963-ee80fb7d5043",
+    "Category": "viaje",
+    "Text": "Cada caminata nos enseña más acerca de quienes somos y qué buscamos.",
+    "Hash": "d90fa24b5452339e2de593454de4c07561ca9fc58b4533369bf12b09cae9b206"
+  },
+  {
+    "Guid": "90d0b9bb-3a9f-4d2d-8a39-03590e928551",
+    "Category": "viaje",
+    "Text": "Cada ruta lleva a descubrimientos maravillosos y siempre hay algo nuevo que sorprender.",
+    "Hash": "da4ba5b51a595ab8128e135f766d506ccfbeb48d602980e82f7fc32b7dc2bebb"
+  },
+  {
+    "Guid": "85f69a28-8938-4255-b7a8-8babb14eaf7e",
+    "Category": "viaje",
+    "Text": "El amanecer en la playa es un nuevo comienzo que nos invita a descansar y ser felices.",
+    "Hash": "76932f7b80085adafa80be1ea725e4ebbad731abda2880d0e4ec5b80d261678f"
+  },
+  {
+    "Guid": "0ab9f6d7-e68e-4cad-af3b-7300b70681cb",
+    "Category": "viaje",
+    "Text": "Cada mañana es una nueva oportunidad para empezar con energía y encontrarse a gusto en nuestro viaje diario.",
+    "Hash": "42ccb693651b807c9a2cafdc90561d90c35cef0f891cd906d29c1746a66b626c"
+  },
+  {
+    "Guid": "8bdf8557-044d-4498-92c7-04e31198a5f4",
+    "Category": "viaje",
+    "Text": "Cada amanecer en la playa es un recordatorio de que el mundo está lleno de belleza y esperanza.",
+    "Hash": "618ae13d67d360edbcbbad7489341569ba0fd60e922ca7667f26334f7c3eb83d"
+  },
+  {
+    "Guid": "1ffc87b9-14d4-4495-9c5b-6e5f0d6bbd08",
+    "Category": "gym",
+    "Text": "Cada sesión en el gimnasio es un nuevo comienzo; me siento fuerte y renovado por cada ejercicio.",
+    "Hash": "42de010b744af6de533af78c84eda1959069c675be67e2668c5b60953283b1d1"
+  },
+  {
+    "Guid": "56296f3c-ccec-4230-be66-5ca53a66374c",
+    "Category": "gym",
+    "Text": "Cada entrenamiento es un pequeño milagro que nos acerca a nuestro mejor yo.",
+    "Hash": "f250aae5e52bd42eab3d41c5a25b2a4b536f4a9643c91fcac77d63f816062f50"
+  },
+  {
+    "Guid": "687a91e2-a7ec-43a7-940c-b519c7e15bca",
+    "Category": "gym",
+    "Text": "Cada rutina en el gimnasio es una victoria personal y un paso hacia tu mejor versión.",
+    "Hash": "8d8bb2fead57bc7136309fed9a1dbe7437147f24a5ab13be000ff823dce378d1"
+  },
+  {
+    "Guid": "0f944f58-35f8-4f2e-ba42-3ddf10571108",
+    "Category": "gym",
+    "Text": "El esfuerzo en la cinta y el apoyo de un buen amigo nos hacen ganar fuerzas.",
+    "Hash": "6585a4e7cd0754a661446fdb3ba768ef6ce2becd4a571253c09b56d9e2d59509"
+  },
+  {
+    "Guid": "6761de5e-5983-47fa-a745-6fa198c852f6",
+    "Category": "gym",
+    "Text": "Cada día que entrenamos es una victoria sobre nuestros límites personales y un acto de amistad solidaria.",
+    "Hash": "08c92f65d9a60ea7e06917d3b99ada327b1d6ec65419aaecaf91f07c27923f7d"
+  },
+  {
+    "Guid": "4a2f95b3-de43-4bb5-aa25-572e0188b99f",
+    "Category": "otros",
+    "Text": "¡Sonríe siempre y no olvides celebrar cada pequeño logro del día!",
+    "Hash": "75ee6159dd9a50831172c42382a913e25cfc90ba1a08eb29044f7e716d255fcf"
+  },
+  {
+    "Guid": "2886b266-d39e-4239-91d0-088bc835f6a5",
+    "Category": "otros",
+    "Text": "Cada pequeño esfuerzo te lleva un paso más hacia tu meta personal.",
+    "Hash": "3be320f6804351c9962d743a04077b295d1b0521abb2c0a2d92be6a98d816239"
+  },
+  {
+    "Guid": "29cdb6f6-22d8-46e0-a309-45ac1d625842",
+    "Category": "otros",
+    "Text": "Pero cuando alguien nos apoya en nuestras hazañas o celebran el pequeño logro que cada día merecemos",
+    "Hash": "00434ccc1d567b65060dd3feeb584b99f88ace2f81ec488686f845d8898edad2"
+  },
+  {
+    "Guid": "e4447c08-7855-4660-a551-f774af863f35",
+    "Category": "otros",
+    "Text": "En la mañana soleada del día siguiente a mi victoria personal, sentí una oportunidad para un nuevo comienzo.",
+    "Hash": "7b72ab6cf7e80b2197d29913b0f639aa04f474d0c1da48a6efad0c90d4df9454"
+  },
+  {
+    "Guid": "008a80cf-b83d-40a2-b801-9e4fb07d3781",
+    "Category": "otros",
+    "Text": "Cada paso hacia el éxito es solo un pequeño trote de la maravillosa caminata que tiene por delante.",
+    "Hash": "59a96e527fdd91c5247975ad3a7c9c94416936950b1a620c740a4d6531fc85c2"
+  },
+  {
+    "Guid": "2e266dd7-3af0-4088-abfe-bbcd47ffe4e5",
+    "Category": "morning",
+    "Text": "Con cada día que vamos adquiriendo experiencias únicas y belleza natural.",
+    "Hash": "0ca1dd6d5136788b819dd71b699bc9d23417deba088f09057dbfd2bd4f346b23"
+  },
+  {
+    "Guid": "966be508-f17d-41bc-8659-5c146120a74c",
+    "Category": "morning",
+    "Text": "Dedicar el día al autoconocimiento y a los pequeños logros diarios nos motiva más allá de lo evidente.",
+    "Hash": "3aac9991c720adfa0d3ab9083d7146647d4f37b1798709fd4158df01b1717815"
+  },
+  {
+    "Guid": "d5bfefb0-c1e7-43c4-8b95-7cfb16dbacdc",
+    "Category": "morning",
+    "Text": "¡Buenos días! Hoy es un día para celebrar pequeños triunfos y compartir alegría con los que nos rodean.",
+    "Hash": "2bab96371c745286de412e506137bea21e95d4e98a0df939273e1792fc6fa674"
+  },
+  {
+    "Guid": "52bf584e-eda0-4ead-883f-69026105d7d9",
+    "Category": "morning",
+    "Text": "Bienvenida al día nuevo y hermoso; en cada pequeño esfuerzo encontramos nuevas oportunidades para crecer.",
+    "Hash": "ba41a35cc7869d7e18dab6964bdf69c425efce0f9c47edb5acc599408e53afc7"
+  },
+  {
+    "Guid": "d1cc7f16-bc5e-4bd5-a3a3-d7c05eb3ddee",
+    "Category": "morning",
+    "Text": "Hoy es un nuevo día lleno de posibilidades y oportunidades para superarnos mismos.",
+    "Hash": "8d63b424e15b6601c3d3ef752bd8783cb279fbcdd1489558244db34ba388d087"
+  },
+  {
+    "Guid": "c8967e53-ec8f-4ccc-8e25-c0713f39a5bf",
+    "Category": "late",
+    "Text": "Cada dedo cuenta una historia en la maravillosa obra de arte que es el camino.",
+    "Hash": "d814cfc25af44f31bd21dcc26fb682b6bb6544745bb7882b0fc9a8215e7c162f"
+  },
+  {
+    "Guid": "85b40114-0577-41d7-b890-8a69f10e55ac",
+    "Category": "late",
+    "Text": "En esta tarde, sentiré una gran gratitud por los pequeños placeres que aún podemos disfrutar juntos.",
+    "Hash": "9250214a0fffac2d4f1e9282facd2caa9647be93b97600bce046e370bd6e3230"
+  },
+  {
+    "Guid": "724be1d5-bd12-46dc-8224-92577ae41049",
+    "Category": "late",
+    "Text": "Amanecer lento y cálido nos llena de esperanza para un nuevo día.",
+    "Hash": "1e308c06ad6b5a560ba37985411580e63250b971e80fbc3e2d406988d8bcd800"
+  },
+  {
+    "Guid": "1c050c64-6f54-4ddd-a0fa-08cc991d8d6b",
+    "Category": "late",
+    "Text": "Esta tarde he disfrutado la melodía suave del viento mientras caminaba por el parque.",
+    "Hash": "74ee53cedff8bd8c821253e0b57e5570b23c94cebf661e7242afdce02845aaf7"
+  },
+  {
+    "Guid": "de0489db-a02e-48ad-bac7-c773f43294e5",
+    "Category": "late",
+    "Text": "A mediodía, disfruto de un reloj despertador porque me da una sonrisa anticipada a cada mañana nueva.",
+    "Hash": "ad141846426c0903b372dd0467d66c1ccc21a1468bc0717ed1ed34fd584e9867"
+  },
+  {
+    "Guid": "9381796a-c23e-4bc3-9a76-cea7dd788095",
+    "Category": "night",
+    "Text": "Buenas noches hermosa noche de descanso y reflexión.",
+    "Hash": "3dd2269a0fe9f6f269aac8e5652af5f3481bf7862433cfc92f58a2649f605713"
+  },
+  {
+    "Guid": "484861fd-e337-43d5-9049-0630395a0f30",
+    "Category": "night",
+    "Text": "Cada noche que descansa, te sientes más fuerte y con energías renovadas para comenzar el día fresco.",
+    "Hash": "8d8667beadbf3956195efe85c47885b1ee20ed99a0010a240ca5ec41cfc59b1f"
+  },
+  {
+    "Guid": "eafc3c6e-3712-4c72-b3b1-b0582b861aad",
+    "Category": "night",
+    "Text": "Buenas noches, mi sueño esta lleno de calma y paz que me dan las estrellas.",
+    "Hash": "5db58dde6f09d3253c94c456896fbdfd0d9ae78536485b349f62cdf270cb0543"
+  },
+  {
+    "Guid": "35ff5ea0-71bb-470f-8053-5392cfd06dbe",
+    "Category": "night",
+    "Text": "Buenas noches y recuerda que cada esfuerzo pequeño te acerca a ser más fuerte.",
+    "Hash": "b77e919f5820a791fe6d247683bfad92fda5dc639e9d7a613a69d172d3d91955"
+  },
+  {
+    "Guid": "bf735b49-518d-4b1d-bae1-a60070ffd63d",
+    "Category": "night",
+    "Text": "Buenas noches; recuerda que cada dificultad superada es un pequeño triunfo personal y merece celebrar con una sonrisa.",
+    "Hash": "20e4fd8061154c34344f828ee1066dc858a7857ba2114ada250fe04b51f2d9a1"
   }
 ]
