@@ -1594,5 +1594,119 @@
     "Category": "alegria",
     "Text": "Cada día que superamos un obstáculo es como ver el horizclas del amanecer: lleno de posibilidades y esperanza.",
     "Hash": "30496ab53f9ba90f779c9065937615573424f8db49c1365143636da6878d99a3"
+  },
+  {
+    "Guid": "049b1335-6ce4-4634-8b15-4b2080832c02",
+    "Category": "tendencia",
+    "Text": "Cada paso que dan en mi camino es un gran hallazgo y una nueva alegría para el corazón.",
+    "Hash": "2fda008c730633134caced6c130c109b26e973dbc422dc99d4dfc4e8c4c8f734"
+  },
+  {
+    "Guid": "b142a5fb-7496-4514-9118-411e4db86de3",
+    "Category": "tendencia",
+    "Text": "El coraje de enfrentarse al día con optimismo siempre me hace sentir más fuerte.",
+    "Hash": "7272a4288c091a952bcfc1fd13a7026b7b5e312f071b867176995dac4bff4bc8"
+  },
+  {
+    "Guid": "9ae0421c-11bf-4d5a-a9bb-e9ff61793c42",
+    "Category": "amor",
+    "Text": "Cada paso que tomamos en la vida nos enseña algo nuevo y maravilloso sobre el amor.",
+    "Hash": "7118fa7205cb679c07ad5d0f66ff4f36ccb7f022f6e7ef775b5faf9138cb2d42"
+  },
+  {
+    "Guid": "4a1c20cc-f046-4f2e-803f-6c71b987d140",
+    "Category": "amor",
+    "Text": "Cada día que superamos nuestras inseguridades juntos nos acercamos más a un amor sin barreras.",
+    "Hash": "5e71c27bc39fed9298735b473b6c0c7dc59a196f8792f86d471e3b2f17383a1e"
+  },
+  {
+    "Guid": "c8042b96-076d-4d41-bec6-0c646c69b89f",
+    "Category": "amor",
+    "Text": "El amor verdadero es como un jardín; con cuidado y dedicación se revela su belleza sin fin.",
+    "Hash": "64d7d8e2eff1cec58d0462dfc3897585d399049fdebc1a6f574605994827c99f"
+  },
+  {
+    "Guid": "a35e9f61-22e9-4909-968a-f9a288ba8b16",
+    "Category": "amor",
+    "Text": "Compartir un abrazo puede ser tan reconfortante como escuchar los mejores momentos de nuestras vidas.",
+    "Hash": "25835b7a284142cee211198fec08c4344ed177748518884e0deeaadcce77d247"
+  },
+  {
+    "Guid": "1bb0cd4b-85ee-4ba0-a0dc-e802156fb853",
+    "Category": "amor",
+    "Text": "El amor verdadero es como el sol; constante y brillante incluso en días difíc extranjera.",
+    "Hash": "dca99075b4eda729adc90f589ceb5c8a084cd82a48309814fa9b8d4426d7da32"
+  },
+  {
+    "Guid": "a9e23553-b9a4-481c-b513-91feac659f35",
+    "Category": "amistad",
+    "Text": "¡Es tan especiales nuestros momentos juntos! Cada día que pasamos es un regalo más para amigos como nosotros.",
+    "Hash": "1af5933ba4a4834cbcbb0c709b9284b563bcbdf39beaf8ffe4c4ac323a1c0608"
+  },
+  {
+    "Guid": "d3112d10-434e-4817-be4f-33e407dc00a6",
+    "Category": "amistad",
+    "Text": "Compartir una pizza siempre hace que el día sea mejor.",
+    "Hash": "6c606a6cf8b6ade16db79ff3f49dc4506f33d8ab46f362ea92e10fe8082d7029"
+  },
+  {
+    "Guid": "c787d691-086f-4713-a7e5-b577935b92be",
+    "Category": "amistad",
+    "Text": "Estar cerca de alguien es especial; compartimos risas y llanto sin límites.",
+    "Hash": "962223372161f660148a5e9dd547ca08b73fda1133ab421b205c05b6fafda6e8"
+  },
+  {
+    "Guid": "94f9fc9f-1344-49ea-b78f-31066086bf17",
+    "Category": "motivacion",
+    "Text": "A cada pequeño paso hacia nuestro objetivo se acerca una victoria más grande.",
+    "Hash": "814e6c2339272586fa70a2d221e634b6d167821c6e359eddc0b69821dd4af97e"
+  },
+  {
+    "Guid": "e4215b2b-e1de-4fd0-b068-a23fa5a51a60",
+    "Category": "alegria",
+    "Text": "Cada pequeño esfuerzo adelante me llena de alegría y orgullo.",
+    "Hash": "9f2a18da202fc993f5e3ee4b96a8a2ea083521d160b1656b9a501426bab3bb45"
+  },
+  {
+    "Guid": "72220cb5-4778-4c88-9cba-c9d17f7dfcb8",
+    "Category": "viaje",
+    "Text": "El amanecer en las montañas siempre me deja con ganas de explorar y conocer nuevos horizontes.",
+    "Hash": "396a3cac5170dbbc399f49d95e5a661c6ffb24b4d70c742510a97aea5811bb55"
+  },
+  {
+    "Guid": "62192173-3ca4-42f3-bbcd-5a1e142b6e2d",
+    "Category": "gym",
+    "Text": "En el gimnasio nuestro esfuerzo se convierte en victorias personales y la amistad que nos unen cada día.",
+    "Hash": "b078c01c0b002c77ce6792f99d8cd1d0c13499d9951288cc2260bdfb15ce25ce"
+  },
+  {
+    "Guid": "9ff418d4-0bfd-4ccc-bce2-51481f749087",
+    "Category": "gym",
+    "Text": "Cada repetición en la máquina crea músculos más fuertes y conéctate a tus amigos para compartir victorias.",
+    "Hash": "27c9ce34496304e63b9fb9be905ca2797054fffe30e1286bee073cd54f1936d9"
+  },
+  {
+    "Guid": "43e3cd4f-2ee9-465b-acc6-7b986744a619",
+    "Category": "otros",
+    "Text": "El simple acto de amar a alguien sin condiciones nos enseña la verdadera belleza del corazón.",
+    "Hash": "4c8c0cab0da8883ff3d9ad6e799fab93327e73b9eda85f3f8e6bce3cbeda0f30"
+  },
+  {
+    "Guid": "f0df2561-ddc1-4ba8-abc7-ad11f5ea49cd",
+    "Category": "morning",
+    "Text": "Bienvenido al día nuevo; vamos a vivirlo con energía y optimismo.",
+    "Hash": "d4c5a043fd6d88997f69ad83ed58a49eb6e2face7a19e19f170e89042e05d212"
+  },
+  {
+    "Guid": "c06e6330-b0c4-47e4-926d-ba599ba6912a",
+    "Category": "late",
+    "Text": "Pero ahora que ha pasado la madrugada y nuestro sueño tiene una cara feliz.",
+    "Hash": "3046462dc3f1d2c46abf180aa93e9019f7ba44c8ffc5bd0e5f894fad8def4198"
+  },
+  {
+    "Guid": "281f0241-3d9b-4e64-ab36-8180a8d827ec",
+    "Category": "night",
+    "Text": "Buenas noches hermosa, enfrentemos el día con esmero y gratitud pequeña.",
+    "Hash": "ef395ded1dc99596ce25781a1bb2a06800ca2717f966f054929ed80d589c244b"
   }
 ]
