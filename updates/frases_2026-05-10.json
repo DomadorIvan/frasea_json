@@ -148,5 +148,725 @@
     "Category": "night",
     "Text": "Buenas noches, queridos serenos; alégrense de sus familias unidas y recuérdense a brindar amor con honestidad.",
     "Hash": "198fcb01bceee835c045af460359eafaa01774ac8bd016ad20213f9a471504b9"
+  },
+  {
+    "Guid": "a9af5c8b-a7e0-4d3e-91a2-14b2f1e17d2d",
+    "Category": "tendencia",
+    "Text": "La familia brilla cuando todos apoyan, responsabilizándose uno del otro y celebrando cada pequeño logro.",
+    "Hash": "5581261ea45ba5d5fff9e2628e817008caabebc2e5b6e1abcf48a747414f41c4"
+  },
+  {
+    "Guid": "44876e8b-a048-4a6e-a445-e6bf9e4b71bd",
+    "Category": "tendencia",
+    "Text": "La familia es el corazón que me da fuerza para enfrentar desafíos con responsabilidad y honestidad.",
+    "Hash": "6bb45f309d2775833b09f5effb245ceb5bd0d953251eb1b47c96c97a23ed44d0"
+  },
+  {
+    "Guid": "bc51f36d-4a6e-4958-90ac-46da38a27a0f",
+    "Category": "tendencia",
+    "Text": "El esfuerzo constante en la familia fortalece nuestras responsabilidades y nos enseña a ser honestos, leales e independientes.",
+    "Hash": "eedf9d6de7a74db571691545cc2f6918c0ed2674b2f858cf48da8212671228e7"
+  },
+  {
+    "Guid": "91aa1c62-6b47-46ed-962c-1515b3d9c256",
+    "Category": "tendencia",
+    "Text": "La familia brinda consuelo, el esfuerzo honra la vida y la gratitud aclara cada día.",
+    "Hash": "752ab2bde4ba6da5047c25483804aabfef94c0bccddec6ed16b693e97fab43ff"
+  },
+  {
+    "Guid": "63415cb9-e646-4768-a6f4-c024e951af8d",
+    "Category": "tendencia",
+    "Text": "La familia nos enseña el amor, la responsabilidad personal es nuestra herramienta para construir un futuro brillante.",
+    "Hash": "0be36fd8efa043195d178748e65252e91fe451dbfe2045b1adafcbb43b0abe45"
+  },
+  {
+    "Guid": "8daba192-d6ee-49aa-a8ca-b8010fc61645",
+    "Category": "tendencia",
+    "Text": "La familia siempre ha sido mi faro, guiando a cada uno con amor y disciplina.",
+    "Hash": "3de21b33ea4e81f9d5e4e1ceae2a5b29ba198107f3b8363473028fc462e9f5fc"
+  },
+  {
+    "Guid": "4191f801-4bc5-4fd7-8f57-e80fcf87ec68",
+    "Category": "tendencia",
+    "Text": "La familia se reúne para compartir un sándwich casero y sonrisas sinceras.",
+    "Hash": "7b21215e5f172d1f0a6537b6e8efcd9a18cbd60ae5b09588d052c78fb5eeab27"
+  },
+  {
+    "Guid": "4e4dd238-165a-4b98-80fb-964c0a3159cb",
+    "Category": "tendencia",
+    "Text": "La familia es un refugio en la tormenta, donde se aprenden valores fundamentales de responsabilidad y disciplina.",
+    "Hash": "2b94a087df6c8750bb43bb976feacb8dcbacf2e48d0637c158052a50900ea825"
+  },
+  {
+    "Guid": "be323077-9ecf-4e0f-b49c-22f8a0cbc63c",
+    "Category": "tendencia",
+    "Text": "La familia siempre unió nuestras energías, nos mantenemos firmes y honrados en cada acción.",
+    "Hash": "075cd5348a24fe3f24703603ac0b6021c2e3edbaee3470a6d9b243c11b401d61"
+  },
+  {
+    "Guid": "806a47ae-e42c-41dd-966a-1bc8d56dcd8e",
+    "Category": "tendencia",
+    "Text": "En familia, nuestra dedicación diaria fortalece el hogar con esfuerzo y honestidad.",
+    "Hash": "4771772f939e63cb45ae927d201c8af84b1df97693a668a68f55acfe67b79641"
+  },
+  {
+    "Guid": "ef67cdfe-0ed5-41f1-a253-410e2c57b518",
+    "Category": "amor",
+    "Text": "La familia nos une en el amor que cada uno siente por los demás.",
+    "Hash": "a52b4aa0f59152e9c8d95afc550b71d690a4a45d9a0c37ac14c371ab2f293379"
+  },
+  {
+    "Guid": "139b554a-144e-4d0d-ac4b-d9fb3d8db94d",
+    "Category": "amor",
+    "Text": "Celebrando la familia, el amor es como un hogar que nunca deja tus brazos.",
+    "Hash": "069d614932766d2481261b2a8a9318258e379d7de5fe8ce977965b22b262ccd8"
+  },
+  {
+    "Guid": "173a0429-0c1b-45c7-9ec0-cd8cc266fe83",
+    "Category": "amor",
+    "Text": "El amor verdadero fortalece, respeta e inspira la familia con gratitud y honradez.",
+    "Hash": "0b6c8dbd1253698ff36e0d43a3d0ab2417a6778ca8e78838c30a7a5515c9a0a7"
+  },
+  {
+    "Guid": "bd616fda-b828-4e3d-92c5-3845a239a7d2",
+    "Category": "amor",
+    "Text": "La familia, el esfuerzo constante y la gratitud nos unen en una danza de amor simple.",
+    "Hash": "6880b5db6f14a8969e23741205cb591c257922103ced2f490d1c5b710e115eab"
+  },
+  {
+    "Guid": "4475a03d-4a62-4d06-bbdd-252ac026a75d",
+    "Category": "amor",
+    "Text": "Nuestro amor es un tesoro familiar que fortalece y nutre la lealtad de cada persona.",
+    "Hash": "c1365a4d2789e19440ed67afe6f0f7008951bfa1176f377353097add07ce81f0"
+  },
+  {
+    "Guid": "e7c2108c-2a3b-422f-bb6d-b3531cc148c2",
+    "Category": "amor",
+    "Text": "La familia es el corazón que mantiene unidos, con amor y lealtad cada miembro se apoya mutuamente.",
+    "Hash": "a0ee3fb07af644f0495abf0582184138ab0353bc135006551c0b4b26dc92b21d"
+  },
+  {
+    "Guid": "30ff181e-ae4e-44e7-b98b-bc0bf209cd20",
+    "Category": "amor",
+    "Text": "La familia es nuestro refugio, donde el amor sincero y la lealtad fortalecen los lazos más fuertes.",
+    "Hash": "61f44abd4ec037f6fbc2da80df52b6bb32a62255cdec014a6d685070fee93aee"
+  },
+  {
+    "Guid": "44c25f56-9872-49d1-9d11-e8170c8f8781",
+    "Category": "amor",
+    "Text": "La familia es nuestra base, compartiendo responsabilidades fortalece lazos y mostrando disciplina aporta honor al amor.",
+    "Hash": "e8415cfcee8f0dd55554b8c482509535504c44b16911d3cbe8b8325ed78c4a35"
+  },
+  {
+    "Guid": "28afbb82-ccb5-4e8b-8b86-0a973ba5650e",
+    "Category": "amor",
+    "Text": "La familia reunida, enfrenta el día con un cariño contagioso que solo la sinceridad del corazón puede darle.",
+    "Hash": "0549568b2cf6786946147631145b6fb5eb8f8475baac6c2383d2b5e9f9f599e7"
+  },
+  {
+    "Guid": "4554aa72-54b1-4cc8-b86b-744e278e6052",
+    "Category": "amor",
+    "Text": "El amor verdadero fortalece la familia, reafirma nuestras responsabilidades y nos anima a esforzarnos con dedicación.",
+    "Hash": "6b612061b89071b6f030b9d55666ddf959c5dd98c78669edebc3ff69c43587d8"
+  },
+  {
+    "Guid": "5d1aa121-3b29-495f-9555-be2949e73cb4",
+    "Category": "amistad",
+    "Text": "La verdadera amistad se alimenta de elogios, respeto y valentía para enfrentar los momentos más oscuros juntos.",
+    "Hash": "b161b9b1185b936ceada6744762ab5e4b8d0d2abf10f0f440aefe491d889914e"
+  },
+  {
+    "Guid": "604a77a7-919f-44d9-ae18-928fa7dbc348",
+    "Category": "amistad",
+    "Text": "La familia fortalece nuestra amistad, compartiendo responsabilidades y celebrando la honestidad y el esfuerzo.",
+    "Hash": "f206d730c3c0b7591987d0f368caf027c15bbebbcc34af98dd6a133f6daddc23"
+  },
+  {
+    "Guid": "613c0c75-7002-4181-bc63-baff584bb7a7",
+    "Category": "amistad",
+    "Text": "Nuestra amistad florece en cada pequeña victoria diaria y estamos unidos por la fuerza de nuestros vínculos familiares.",
+    "Hash": "83bb9bfa79a525c4325b81891739a296624bae5d10d4f0f76671c312d640932e"
+  },
+  {
+    "Guid": "4a78b5bc-4ecd-4131-a20d-289a0cac8a50",
+    "Category": "amistad",
+    "Text": "La familia es el corazón que brinda amor incondicional, mientras la honestidad y lealtad fortalecen nuestras amistades.",
+    "Hash": "4bc504670a01b91ef1fb299b916e01dcdffd423d733fd93c112c8feeea73a619"
+  },
+  {
+    "Guid": "2d2453ea-3cea-458a-9b2d-a47161b73e51",
+    "Category": "amistad",
+    "Text": "En la familia, nuestros esfuerzos disciplinados y gratitud demuestran verdadera lealtad y amor.",
+    "Hash": "fa5e6c053aa11f8333e932c08b3c96dd85a8537bce9ceecd2ebb170e80cc0500"
+  },
+  {
+    "Guid": "8f0df09b-9673-4165-8c0d-99b6207d1a15",
+    "Category": "amistad",
+    "Text": "La verdadera amistad se forja en el calor del corazón, no solo por los lazos de sangre.",
+    "Hash": "a29f7f5292b0d5706d34cd133b55b6432aa053d38606f0cfebf4cca9cbc673be"
+  },
+  {
+    "Guid": "b92015c4-4529-4407-ad59-97feb5e49fc4",
+    "Category": "amistad",
+    "Text": "La familia es el tesoro más preciado; la lealtad, nuestra fortaleza. Trabajamos hermanos y juntos nos honramos.",
+    "Hash": "e21750b3c01af109b617d6f336fcb21f8db57991ce6e8a14cce09fa6f05f3861"
+  },
+  {
+    "Guid": "a9b528be-992a-4cce-b064-2da9e20fb7fc",
+    "Category": "amistad",
+    "Text": "La verdadera amistad se fortalece al compartir momentos, honrando la vida con cada risa y lágrima.",
+    "Hash": "d8aee263d82aa1dbe71675e0983e810df595c05921b4fb75468a2dd14064b8f6"
+  },
+  {
+    "Guid": "0cf5d937-c0f1-4904-9754-ca53a7ebb1c7",
+    "Category": "amistad",
+    "Text": "La verdadera amistad radica en apoyarnos mutuamente y celebrar nuestras alegrías compartidas.",
+    "Hash": "e2cbfe794256c1694dc20795d9e85bcabe696d407576ee3377c85b7742f5ca61"
+  },
+  {
+    "Guid": "b86447d0-c676-453b-a1ed-07869a526da6",
+    "Category": "amistad",
+    "Text": "La familia es el corazón donde la amistad florece y los valores se cultivan con dedicación.",
+    "Hash": "61928a89d33fec3a8348f9eed6a3afa89f2c912a2070fd64e3acd5986bb1ddf4"
+  },
+  {
+    "Guid": "dfebe5ba-cab9-4d8c-b95c-6bc2bfe0dc1c",
+    "Category": "motivacion",
+    "Text": "La familia es el verdadero tesoro, fomenta la responsabilidad y disciplina en nuestras vidas.",
+    "Hash": "a59ac8b89c413a55910631f8ad2ec5c39bba49d3f7b35616c8c0d513754d05d4"
+  },
+  {
+    "Guid": "fb23b611-ef89-410a-8fa0-1c495f6a65cc",
+    "Category": "motivacion",
+    "Text": "La familia es nuestro fortaleza, juntos hagamos más y mejor; gracias por cada pequeño triunfo.",
+    "Hash": "4f45c834a9dab6a11c6869c8cc1b26688b1d33367f9b318bcce31178d9f1c7cc"
+  },
+  {
+    "Guid": "a15e942b-d684-4b77-9d82-ec5edc5912d2",
+    "Category": "motivacion",
+    "Text": "Siempre es posible lograr grandes cosas cuando se trabaja duro y con honestidad en familia.",
+    "Hash": "abbf55ffefed0ff4d9c81fcdc045c81775eb11cc18d367f5328fe0de9d26163a"
+  },
+  {
+    "Guid": "a34a24e0-980a-4fb6-9258-9d41e0406d26",
+    "Category": "motivacion",
+    "Text": "La familia nos sostiene, el esfuerzo valora nuestra vida y la honestidad nutre un corazón de oro.",
+    "Hash": "fee2c56a8991163c7c8f1425079e3f4bb83b05928ed0dfd6e172e793cc11a214"
+  },
+  {
+    "Guid": "6338d8ae-2d04-4c2c-8c43-2b3e1a22bbb1",
+    "Category": "motivacion",
+    "Text": "La familia fortalece nuestra bendición, unidos por la honestidad y el coraje.",
+    "Hash": "90685d11bd9c046fe04284cebf893100d27e9e83072155d0b5687c4e5dc250f4"
+  },
+  {
+    "Guid": "567da81f-98bf-4d36-91af-4b7b49f603e0",
+    "Category": "motivacion",
+    "Text": "Con amor familiar, esfuerzo constante y disciplina se cosechan logros simples pero significativos.",
+    "Hash": "81aae690b4a4e980ef02e4b9ef80811aafffe00587c98a807fceac9592292d06"
+  },
+  {
+    "Guid": "0cd9a4ef-e026-419a-ad9d-73a856dacf87",
+    "Category": "motivacion",
+    "Text": "La familia nos brinda un hogar seguro donde podemos ser responsables, disciplinados y trabajamos duro para sostenernos.",
+    "Hash": "a4813f0f9d8fde5b529c82f4b186540b8348ce1bfb1138a3ed225a05ec9a144e"
+  },
+  {
+    "Guid": "d624b731-8f26-4ab7-b113-9a7cbeda667d",
+    "Category": "motivacion",
+    "Text": "Con amor, responsabilidad y esfuerzo en cada acto, la familia se fortalece día a día.",
+    "Hash": "d031835a66d55d6f8a15aebea10bf094b5a99ca1f454be211627131e159dfa7a"
+  },
+  {
+    "Guid": "501eba5c-eab3-46ba-b103-482d360643bd",
+    "Category": "motivacion",
+    "Text": "La familia es nuestra cuna de valores, fortaleciendo la responsabilidad y el amor que guían mi cada día.",
+    "Hash": "fed1d8317a97be9b2c7a53319cb433585392e80de196d82f4fa74ee6875eaaa4"
+  },
+  {
+    "Guid": "b72d734d-ccce-4924-a068-0f943a1dec91",
+    "Category": "motivacion",
+    "Text": "La familia es nuestro refugio, la responsabilidad y el trabajo duro son los pilares de una vida plena.",
+    "Hash": "c8b00e2d9a96def3e1f800f4cc85bf6cf0ffab9a283c10593b2a0606008593c0"
+  },
+  {
+    "Guid": "53c21e42-e1b0-41dc-af0c-6d0f7f9535db",
+    "Category": "alegria",
+    "Text": "Aunque la vida ponga pruebas, en familia siempre hay amor para compartir y superar juntos.",
+    "Hash": "927a2c16faf0ee3dc6e0d91e8fbb44a2ed3abdb7248285504193f461e575fd12"
+  },
+  {
+    "Guid": "7d72b809-d105-45b9-bc87-9347380efa66",
+    "Category": "alegria",
+    "Text": "La familia reunida es un regalo de la vida; juntos, celebramos los pequeños triunfos y las grandes alegrías.",
+    "Hash": "1f6be7c4753788d9884d00e1125595efbba8a63c8c53f3f9b669445a9cc68eed"
+  },
+  {
+    "Guid": "c40bcddc-d6c2-4cc1-8481-32b5cce6c817",
+    "Category": "alegria",
+    "Text": "La familia reunida en una sola habitainb, compartiendo historias y alimentos caseros es un momento de amor incondicional.",
+    "Hash": "0380adea2f30423ee012e372b1c82bc7f1f364582f01518bd8836a7520d2d5e1"
+  },
+  {
+    "Guid": "71da1d8f-0c98-4833-a3a1-4946b6cc7818",
+    "Category": "alegria",
+    "Text": "La familia nos brinda un amor tan abrumador que incluso el más pequeño esforzarse siempre parece fácil.",
+    "Hash": "1355ccde5330b7dd70e18df8aa436a84b8cd64805bf0aa08c9493dc6c512cb16"
+  },
+  {
+    "Guid": "6d55cd4c-3bb6-412c-80a4-600516eda28e",
+    "Category": "alegria",
+    "Text": "La familia reunida brinda calidez, trabajo duro asegura el sustento y cada esfuerzo cuenta.",
+    "Hash": "e6b9198cb7c4dafabd08347ff28f7a6225e8ebc46485f7e08d444162f0fb1a43"
+  },
+  {
+    "Guid": "f09c2560-64a9-4a51-af3c-db4786e3e952",
+    "Category": "alegria",
+    "Text": "Cada día que vivimos juntos, aprendemos el valor de trabajar duro y honrar a nuestras familias.",
+    "Hash": "e03275a171bd24afd0be9df2f1afeabf7bc4cd43d33e2cc93f3fd9b42a06a44c"
+  },
+  {
+    "Guid": "45a9b7cd-7f29-4d6e-b530-e3df91e427a6",
+    "Category": "alegria",
+    "Text": "En familia, el amor es tan grande que hace milagroses de felicidad y sufrimiento.",
+    "Hash": "650bb7e94eba45974486aac4f4f6c5b3748181ec76681c138aab87fe04930df9"
+  },
+  {
+    "Guid": "2599dc63-7ce9-42e6-902d-af3119172d0e",
+    "Category": "alegria",
+    "Text": "En nuestra casa, cada acción cuenta; con amor sencillo por el hogar y la familia que nos rodea.",
+    "Hash": "359b9f20bb58a1af733fdb96013cecb013768be1daff1f80fdc276f94e7cae43"
+  },
+  {
+    "Guid": "70add3eb-3e07-4925-bccb-7f0a5da90b86",
+    "Category": "alegria",
+    "Text": "La familia reunida, trabajando duro pero con calidez y amor en cada hombro.",
+    "Hash": "3cb9eb16afec4d2806b861bb77f2dc2ec718f5b1e99a0c0a3157cd9985da240a"
+  },
+  {
+    "Guid": "bb89ef8e-d18f-4d7e-af1e-4b57aa776581",
+    "Category": "alegria",
+    "Text": "Cada risa compartida fortalece el hogar, fomentando un amor irrepetible y una vida plena.",
+    "Hash": "d0d822b6b382a8aff3efc77b2ce6177cd32dcca4bddde10f2ebfbc4f03e6c049"
+  },
+  {
+    "Guid": "0bc447db-e7b7-4392-bc81-597a36a794ac",
+    "Category": "secreto",
+    "Text": "La vida es como un abrazo, sencillo pero poderoso y profundo.",
+    "Hash": "41351cd3c680d0ff11a5f4b8c3d10bd146dafd4cbeccfa51cfa5f92ea8001803"
+  },
+  {
+    "Guid": "fb58ba0c-f38c-4b64-9eb0-8e936a8eeb4d",
+    "Category": "secreto",
+    "Text": "La verdad es como el hogar familiar; cálida, fundada en la honestidad y siempre bien merecida.",
+    "Hash": "4e0b43de6bc57c81faae3e01b86117b19a9cf3cc4dfced6d561fad97b7978d19"
+  },
+  {
+    "Guid": "f5517319-4a56-40f1-a1c4-ae4ecf052476",
+    "Category": "secreto",
+    "Text": "Cada pequeño esfuerzo en nuestro hogar construye un futuro sólido y lleno de amor.",
+    "Hash": "5763c90841365ee822d804637f56f69763a13d035c478ca7df503bebc3dd1f44"
+  },
+  {
+    "Guid": "53e96f10-c4c2-4e9c-a155-51dbcacb813b",
+    "Category": "secreto",
+    "Text": "La familia que trabaja duro, se sabe honestos y cumple con sus responsabilidades es un verdadero tesoro.",
+    "Hash": "d206b8b0ebd13f334691a7ccb74fb09dfb73e059a69e456bf173a20fa1d4905b"
+  },
+  {
+    "Guid": "8aba4106-1c6b-45b0-a685-ab46798a93cc",
+    "Category": "secreto",
+    "Text": "Cada día, al trabajar con dedicación y honestidad, aprendemos el verdadero valor del esfuerzo personal y la responsabilidad.",
+    "Hash": "832f2127028cb7d6efd1ff85600c1773debea830993c19285781e45ec2f130f8"
+  },
+  {
+    "Guid": "5d86b6e6-c101-454d-b122-5fec863a0adb",
+    "Category": "secreto",
+    "Text": "Nuestra familia se junta a menudo para compartir historias y risas, celebrando nuestras pequeñas victorias diarias.",
+    "Hash": "bf108f48c1789943f353aa516b15cd6c3bdc02f7b805f674f11f2cfd6156b2cb"
+  },
+  {
+    "Guid": "07efb53b-1c7a-47d0-b7b2-eca42934f233",
+    "Category": "secreto",
+    "Text": "La familia que celebra con cariño los logros pequeños se fortalece y aprende a valorar cada día.",
+    "Hash": "07a9f10546d08ec90a672db627ff940dbe970f996156af67cf9fda71ed6b929a"
+  },
+  {
+    "Guid": "056003a7-41f4-44e5-8c5c-443afed8bfdb",
+    "Category": "secreto",
+    "Text": "La familia siempre está por el lado de la honestidad, lealtad y esfuerzo en pequeñas cosas.",
+    "Hash": "b5b11f129fbfe87203d7b793297dc5aa483c9c820ad484e574324d932c4c0026"
+  },
+  {
+    "Guid": "fbba78f1-050f-44fd-8031-57f99caae0be",
+    "Category": "secreto",
+    "Text": "En nuestra familia, la verdad siempre viene acompañada de un abrazo cálido y amor.",
+    "Hash": "5f945aa4af18fbe4b7dca0d6f1570f10d889d0b96b3d72d6029412df1dcf6b88"
+  },
+  {
+    "Guid": "285ad723-8975-4007-866c-2fa45e325e60",
+    "Category": "secreto",
+    "Text": "La familia es un tesoro que enriquece nuestras vidas, fomentando la responsabilidad y el amor verdadero.",
+    "Hash": "c8bc8cc610c8b9e32d5f8dac7ba39e5dc958d0535a097391619c8f8150476955"
+  },
+  {
+    "Guid": "c1bde640-ee2a-437a-9124-7d3998f60cd1",
+    "Category": "viaje",
+    "Text": "El viaje familiar, donde cada paso se tomaba con responsabilidad y honestidad, nos unía más fuerte que nunca.",
+    "Hash": "a1a33c684f6f675c71c58e9f9d57244622d7a90f4177a94bcf943b01fc63b245"
+  },
+  {
+    "Guid": "25b1768d-fec8-4788-a92a-ccbe3c01dce4",
+    "Category": "viaje",
+    "Text": "En nuestro viaje familiar, cada paso que dadimos juntos fortalece lazos y fomenta el amor verdaderamente auténtico.",
+    "Hash": "27971b0856598c0e7c182671023157d5735ae99a19c7f39d8dc6c3f8f5ead987"
+  },
+  {
+    "Guid": "0d46776b-4745-4d28-b862-af0d3295fab9",
+    "Category": "viaje",
+    "Text": "Pasar el verano en familia reforzando nuestras responsabilidades y celebrando las pequeñas maravillas del día a día.",
+    "Hash": "8ad995c3ff43510cc8b65953a2e7e6cf277e06506eedb5f70d16b3ed6cb3118b"
+  },
+  {
+    "Guid": "9b6ca7f2-1eed-4a4b-983d-e3d3c2b45a96",
+    "Category": "viaje",
+    "Text": "Admiren juntos el trayecto de nuestros sueños, fortalecidos por la dedicación y la unión familiar.",
+    "Hash": "0f9ecf53edaaf7a64e73ebd98d113ed2709885ada9ac9ca6f549cf15bf960fdd"
+  },
+  {
+    "Guid": "23076e49-e4ae-4882-a1b4-a84ed2d2e0a4",
+    "Category": "viaje",
+    "Text": "Recorrí un largo viaje familiar, manteniendo el respeto y la camaradería, descubriendo hermosas ciudades que fortalecieron mi valentía.",
+    "Hash": "34135ac1d16b500f0cbc188508167d4ff40ae0901e13204a91368507307f2b3c"
+  },
+  {
+    "Guid": "7dbc8ddf-d1fc-44b0-b386-90066adfb3c9",
+    "Category": "viaje",
+    "Text": "La luz del sol mejora mi día, prometiendo recorridos hermosos y momentos familiares en el viaje.",
+    "Hash": "d64fe3c90fc041090670f6c49c99af2123dd94134566bd55518740703f1d43aa"
+  },
+  {
+    "Guid": "82393f48-4aaf-4fa1-9e9e-b50a5a124413",
+    "Category": "viaje",
+    "Text": "La familia se junta para un viaje de recuerdos, celebrando cada destino como un hito personal y familiar.",
+    "Hash": "69e88010ab41fa1bbace0d4129b93297e1bb7d861cd93e4afba45faa1eeca098"
+  },
+  {
+    "Guid": "f67cda63-d553-446b-b0b6-e1dddfdfd452",
+    "Category": "viaje",
+    "Text": "El viaje familiar, pegajoso como la masa de pan que juntamos todos los domingos para hornear en casa.",
+    "Hash": "85ade8432c482c856e14f06e883a5bb9800037f13d19c95c29907871591f5259"
+  },
+  {
+    "Guid": "ea596ed7-1b88-4c6f-96f5-1c6b01af7065",
+    "Category": "viaje",
+    "Text": "En la aventura familiar, reforzamos el vínculo y aprendemos sobre nuestras responsabilidades compartidas con un gran esfuerzo.",
+    "Hash": "b3e1dcfb84fe8a2b84c6aa6aa8054cd77fe55cf7be00099e6c8194c875911579"
+  },
+  {
+    "Guid": "b80a7854-b813-4d6a-8b73-827e0d42c33e",
+    "Category": "viaje",
+    "Text": "La familia siempre viajó juntas, disfrutando del amor y la caminata al aire libre como su verdadero tesoro.",
+    "Hash": "9cd5af151f75118383fb19717a0440be917a8e4127b1215d10efed3a232c897f"
+  },
+  {
+    "Guid": "57520749-6a30-4194-965a-73f7dba60f1a",
+    "Category": "gym",
+    "Text": "Con esfuerzo constante, la familia se dedica a mejorar el físico y compartir momentos de fortalecimiento.",
+    "Hash": "2b0653f24149e2722b14500b83d0590436f95848a01a54ef9142c38ef04dc954"
+  },
+  {
+    "Guid": "03195a41-294f-4a5e-8ad4-c7cf3f452646",
+    "Category": "gym",
+    "Text": "Con esfuerzo constante, la familia se mantiene fuerte y unida en el gimnasio.",
+    "Hash": "7841427cfa837598a4e0d0b9c216c2f2d44f295693ef871269f23638f5813096"
+  },
+  {
+    "Guid": "c6028c49-05cd-4823-ae0d-387595023c5f",
+    "Category": "gym",
+    "Text": "La familia nos mantiene unidos en la disciplina del gimnasio, donde cada ejercicio es sencillo y verdadero.",
+    "Hash": "b1dfaf429c425090d3c621c7c53cd600cc4b9fd1e4303f9de90c663081b0e910"
+  },
+  {
+    "Guid": "0767a4e3-1125-42b0-9efd-c9f31fafa89c",
+    "Category": "gym",
+    "Text": "Cada entrenamiento es una pequeña victoria para el futuro, nutriendo la familia con disciplina y orgullo.",
+    "Hash": "22de6cd35b17bd1ba241de0f301e3081d33930df18d5a7f205561a62d075098f"
+  },
+  {
+    "Guid": "90394cdd-14aa-4070-aeee-cea60b7bd47e",
+    "Category": "gym",
+    "Text": "Cada día en la gimnasia, nos comprometemos a mejorar juntos y honrar nuestras raíces familiares.",
+    "Hash": "3d5c38e31df343a796bf94e6751ec4875d6eac31b61c22c0ff60992117a52a66"
+  },
+  {
+    "Guid": "9bf886d4-0ca6-420a-aeb7-f47442c16bb9",
+    "Category": "gym",
+    "Text": "En la sincera familia, cada repentino esfuerzo y disciplina en el gimnasio nos acerca más que las palabras.",
+    "Hash": "b5339376a5c64df9eefedffd209fd648ceada44498baabaa8eebc57587ae3cc9"
+  },
+  {
+    "Guid": "a0087bd1-218c-4c00-8152-2a28a1cd4378",
+    "Category": "gym",
+    "Text": "Vivir la vida al ritmo de nuestros pasos en el gimnasio nos enseña humildad y lealtad.",
+    "Hash": "35bee6569544b05dec0bf3fa03019b0adef51eb8ecfd7909fdef2c40578c0e40"
+  },
+  {
+    "Guid": "dc7fd244-bf2f-4e1c-bc4b-517befbac0cc",
+    "Category": "gym",
+    "Text": "La familia se reúne para entrenar juntos, fortaleciendo nuestro amor y respeto mutuamente a través del esfuerzo físico.",
+    "Hash": "958fb7cf178f21710d3adbb7c9e726289e604469cdd48a12d0b1323936753373"
+  },
+  {
+    "Guid": "16ca9d00-d601-4e4f-b845-db62665ceda1",
+    "Category": "gym",
+    "Text": "Fuiste disciplinado en la cinta eléctrica y ahora eres un ejemplo para tu familia, ¡vaya!",
+    "Hash": "afd12d5b2d3cac19ce06c4fc1d13bdf047ba47ba3efd3d868f4c572cb0671b70"
+  },
+  {
+    "Guid": "16228eff-b31d-4bed-8c48-167c1568df04",
+    "Category": "gym",
+    "Text": "La familia se ejercita juntas, fortaleciendo nuestro amor y respeto mutuamente con un esfuerzo humilde pero firme.",
+    "Hash": "81646bea775075a20ee5e713d36f77020520f4fe7f98920d97c41585630b76d7"
+  },
+  {
+    "Guid": "3bc74210-593b-41f2-a848-2db3ba6a312f",
+    "Category": "otros",
+    "Text": "La familia siempre nos brinda amor incondicional, fortaleciendo nuestro esfuerzo y disciplina. Gracias por ser quienes somos.",
+    "Hash": "25bcdfecd35c00e27f89f74c70b4ef266ad8fb5e8c57034625a7d058d2712ffa"
+  },
+  {
+    "Guid": "48fdc1db-3d16-45fb-b431-16049a8ec972",
+    "Category": "otros",
+    "Text": "Con cada tarea terminada, aprecio la disciplina que adquiero y el camino hacia una vida mejor.",
+    "Hash": "c450f971fb9b985143f53a88cd1dde139151e6df5a45655afe403e8e945c65bf"
+  },
+  {
+    "Guid": "3d33c78a-0d0f-4661-8fe5-e0e0876038a4",
+    "Category": "otros",
+    "Text": "La familia se junta para compartir un día especial, reafirmando nuestra gratitud y el valor de ser sincero.",
+    "Hash": "7e30e90706c8b7fa6aedba8ffee2a182e437f43fc2c934bde6e039fce9375934"
+  },
+  {
+    "Guid": "a207ac53-4fff-45b5-adb1-8797ca20de29",
+    "Category": "otros",
+    "Text": "La familia nos enseña humildad, honestidad y valor nuestras responsabilidades con amor.",
+    "Hash": "6a5f795a299cf1b1c83b41a7c72aff46913bbfd5a506cfb5a287071be00fae10"
+  },
+  {
+    "Guid": "f164c0cf-82a8-4743-b0f7-2a1b5ff1511e",
+    "Category": "otros",
+    "Text": "La familia reunida fortalece nuestras raíces, reforzando el amor y la responsabilidad que nos unen.",
+    "Hash": "ebb94f3189755678d515f9653a8fa8d2e89ae725a708ef168411f8fdc33ab15c"
+  },
+  {
+    "Guid": "8ffa691a-db26-46ed-b122-14b444fa3a0d",
+    "Category": "otros",
+    "Text": "En familia, la responsabilidad es un gran tesoro que enriquecemos con disciplina y sacrificio.",
+    "Hash": "30b949793ab1e8de15a10d84a828f420353a20eb13ad0cdb56a546ab84f3966f"
+  },
+  {
+    "Guid": "249afeec-7449-4477-ba1a-88854bdfa691",
+    "Category": "otros",
+    "Text": "La familia nos une como la cesta, compartiendo el trabajo honrado y celebración.",
+    "Hash": "bab8a95cf45af640663c36e7fc2cf4bbdf72325ab0a8ce33bb4858f78e3d645b"
+  },
+  {
+    "Guid": "0e08b182-9414-4412-85e1-eef6537a3fdf",
+    "Category": "otros",
+    "Text": "La familia siempre encuentra alegría en reunirse para compartir un buen comedor y respetar los esfuerzos del otro.",
+    "Hash": "a499a50b42ad71ae9c9587e17a71f71960a917490abf406d83f0dce72d3659f5"
+  },
+  {
+    "Guid": "f4a466c8-9aad-4a3c-8415-8b14505728bc",
+    "Category": "otros",
+    "Text": "La familia reunida con amor, fortalecidos por la responsabilidad y el esfuerzo en cada miembro.",
+    "Hash": "4bc87a87496e68f193c896b40b30ea81157a655243bf5804d22a413965be86f9"
+  },
+  {
+    "Guid": "154f36f6-bf8c-408f-8756-7e44131b6567",
+    "Category": "otros",
+    "Text": "La familia reúne fuerza en el amor verdadero y la humildad compartida.",
+    "Hash": "7597ffd09a7eafccf5df58275b21aa3ae45f80b5e459c9857a59e25692a5f257"
+  },
+  {
+    "Guid": "37bef4bc-75d1-438d-8f7b-f62515761173",
+    "Category": "morning",
+    "Text": "Buenos días, hermano de mi corazón; aquí estoy para apoyar tu día con responsabilidad y amor.",
+    "Hash": "20101bdc21f8463f196e086533e0af1044eecdad2c9a24294ca843ff90e5b996"
+  },
+  {
+    "Guid": "f1c4d3ee-5d28-4873-be56-086d6be749a1",
+    "Category": "morning",
+    "Text": "Feliz mañana, a todos aquellos que están dispuestos a esforzarse y honrar nuestra familia con responsabilidad.",
+    "Hash": "ff29c92ad381b59299cd8702b52278d065a57d332e17f95a2c8d08ef09802fac"
+  },
+  {
+    "Guid": "7be5156b-6b28-403d-a791-3b2779a6c9ea",
+    "Category": "morning",
+    "Text": "¡Buenos días, hermano! Comienza el día con un esfuerzo dedicado y una gratitud sincera hacia esta familia especial.",
+    "Hash": "0b16889269250a1815ff4f298e9e58630aea0697308be8ef18003f770d399e5d"
+  },
+  {
+    "Guid": "7b5a9547-74a2-4bc1-ab6e-51bce6f32e4d",
+    "Category": "morning",
+    "Text": "¡Buenos días, familia! Hoy estamos todos listos para enfrentar nuestros desafíos con responsabilidad y lealtad.",
+    "Hash": "0f76f5d431598dc8e755d0535af7efe9374989408f408bbbb8f280420ac4a647"
+  },
+  {
+    "Guid": "c9d1d8c6-697c-4c67-bcd6-64833502f0e3",
+    "Category": "morning",
+    "Text": "Buenos días, hoy es un nuevo día para hacer las cosas con responsabilidad y honestidad.",
+    "Hash": "46cd7b2ae34afc5a101414b3e82cc85599a2e23d82477138b74402ff2072ddc3"
+  },
+  {
+    "Guid": "381ec565-6b79-4c3b-b347-f504628179d1",
+    "Category": "morning",
+    "Text": "Dormimos bien, despertamos fuerte para honrar nuestras familias y cumplir responsabilidades. Gracias por el día nuevo que traemos.",
+    "Hash": "aae67cb65288eb70b2967f3d9e6dacac995264d6c61fd3f88804779937194de9"
+  },
+  {
+    "Guid": "82ef5d68-9839-4d7f-ad46-9ca904dd2155",
+    "Category": "morning",
+    "Text": "Despertad, familia valiente que se levanta con responsabilidad y esfuerzo.",
+    "Hash": "5efa04d7b99f5a76f381518280058671c3e03fbed1a995d132d14189004b631b"
+  },
+  {
+    "Guid": "dc4c19b9-72d1-4890-a8d9-113085e65073",
+    "Category": "morning",
+    "Text": "Feliz mañana, compañeros de familia; juntos enfrentemos el día con esfuerzo y honestidad.",
+    "Hash": "c0de2f62d53ba357ac04fe7da30eb02dd8d1054b496d4bb04c2fa9d62c3a2dd9"
+  },
+  {
+    "Guid": "6b566ede-07c9-4901-bab8-f180f70290fa",
+    "Category": "morning",
+    "Text": "¡Buenos días, hermana! Hoy tenemos la oportunidad de celebrar nuestras diferencias unidas por amor y el trabajo duro.",
+    "Hash": "bcb3a2efd89e81bbdd93bac961c6d591b3200b0ed7c441d333d681c720c3d373"
+  },
+  {
+    "Guid": "31479934-6bc6-4fde-a315-df4c7ad66ab8",
+    "Category": "morning",
+    "Text": "Feliz mañana, aquí está disfrutando de la vida y las pequeñas maravillas que nuestro hogar nos brinda.",
+    "Hash": "51335e2a4e1454fc1c94207af17efe00585db74f37b2a6a1c97d0cb57e0fd1ab"
+  },
+  {
+    "Guid": "a1cf5fdc-753e-46e0-a055-9f76212d3b2e",
+    "Category": "late",
+    "Text": "La tarde es un regalo que nos permite cocinar con la familia y compartir momentos de bondad.",
+    "Hash": "d8e25e5a4b21df104a8e202b17d085c9a052df2ae4bfcfe18e7b62b83f47ed09"
+  },
+  {
+    "Guid": "8f58b7b4-6a6f-4e15-9698-3a910d50dc80",
+    "Category": "late",
+    "Text": "Pasea un domingo en familia al parque, disfruta de cada risa y compartición.",
+    "Hash": "0cc4fc2b4f92a33b3287a3345bfac4caa94b1cd9446c29a60259f3636056202d"
+  },
+  {
+    "Guid": "36426327-0dd4-4e75-9c13-27bd1d3409c9",
+    "Category": "late",
+    "Text": "Cada tarde, en familia nos unimos para compartir pequeñas alegrías y el esfuerzo de nuestras labores diarias.",
+    "Hash": "b9c8a61296e8b1cc745a00cddd51dae130de300aa815e774bbaae6fd86b0b1a5"
+  },
+  {
+    "Guid": "ad171a2d-3732-401d-9a4b-93ec4ea8dd21",
+    "Category": "late",
+    "Text": "La familia reunida en la tarde, jugando con cariño mientras compartimos risas y disfrutamos de nuestro amor común.",
+    "Hash": "baff4b302218a839fcd6010465bf321101a995847530ce5a04cae3ad258ce3ac"
+  },
+  {
+    "Guid": "347dbc38-bfaf-4371-97ae-a2ce86b6932c",
+    "Category": "late",
+    "Text": "La luz diaria nos lleva a un mundo de sonrisas casuales y familias cariñosas que disfrutamos juntos.",
+    "Hash": "e5076237e220df0778bf6672ee9b546956ecf0f3bbb0722a955fb3b4b03d5565"
+  },
+  {
+    "Guid": "1437c998-3b0e-4e7f-bba7-a3187bf3ae99",
+    "Category": "late",
+    "Text": "Mientras disfrutamos de un descanso tranquilo, honrando nuestros esfuerzos diarios y celebrando la familia que nos rodea.",
+    "Hash": "9c13eb6ff64dc44ecf59dd1a5fd40d424db1f5a77d4388afc977e81fbdbf9e02"
+  },
+  {
+    "Guid": "ac3fbda8-e91e-48ea-bcbc-7fc53257a448",
+    "Category": "late",
+    "Text": "Con cada tarde que pasa, disfruto enseñándoselo a mis hijos sobre el valor del esfuerzo y la disciplina.",
+    "Hash": "b1202a48bbeb553fa24cb1952754dea3d50981ff98cd1d3200972814ec070ee3"
+  },
+  {
+    "Guid": "f2351746-6560-435b-8578-4d39e58eda76",
+    "Category": "late",
+    "Text": "Cierra los ojos, escucha la brisa de tarde que calma y nutre al corazón familiar.",
+    "Hash": "151d5ddec723d71a6a4cb140196848d17fecebbded85ca20c907da3d202e3d3b"
+  },
+  {
+    "Guid": "f6f7b23a-2482-4a11-98f3-8799a8df457d",
+    "Category": "late",
+    "Text": "Después de un día laboralmente fructífero, disfruto simplemente relajándome con mi familia y celebrando nuestras pequeñas victorias.",
+    "Hash": "95b858c70816cf82703bce9c18568d819016ee39fe8f3762ae8bfca0494bc47f"
+  },
+  {
+    "Guid": "489a9ea6-7c8d-4ff0-b890-11af71d32191",
+    "Category": "late",
+    "Text": "Mientras jugueteo con el sol, mis pequeños dedos aprenden la gratitud y valen sus esfuerzos.",
+    "Hash": "41fcf794e5b1352a1b02b757833b2f6857640e319513a8adbeb9dde358356f70"
+  },
+  {
+    "Guid": "5f59c743-afac-4bbe-8554-cc8303a647a4",
+    "Category": "night",
+    "Text": "Buenas noches, familia querida; paz mental en tu corazón y suave sonrisa antes de dormir.",
+    "Hash": "8af26d90866f9ba87272752cc10a899ae3c5dc32a614b957486aa5de786d8688"
+  },
+  {
+    "Guid": "451e4a06-71a7-4f17-a5d9-8c85ac5589b8",
+    "Category": "night",
+    "Text": "Buenas noches, descansa tu mente en un letargo sereno que nutra la familia y el corazón.",
+    "Hash": "c9bb67c30aa80ae53a8dad18e09cfa876132391a360782cce5cd6a497334693c"
+  },
+  {
+    "Guid": "5960368e-2dfb-4e00-9301-97a2b0334ba5",
+    "Category": "night",
+    "Text": "Buenas noches, en esta tranquila noche te traemos la paz del cerebro y el contento de tu corazón.",
+    "Hash": "b3e57585a70613d750242d1fbc828860ed08134e491849b2a5f98d7d2c32c6ea"
+  },
+  {
+    "Guid": "0bb08379-cc7a-4cf2-ae9d-2de6783145d2",
+    "Category": "night",
+    "Text": "Buenas noches, encuentra paz dentro de tu ser mientras brindas un apoyo fraterno y el esfuerzo honesto.",
+    "Hash": "1e45ac6f58b9d559bfeff1287a6a414ec89e80e7b8922e1a7ae17dc5b24a35c4"
+  },
+  {
+    "Guid": "30b515d7-c49a-4799-9afb-9c60199d6eaa",
+    "Category": "night",
+    "Text": "Buenas noches, que el sueño te acompañe con paz y fuerza para cada día nuevo.",
+    "Hash": "8c56f51834ceec86e72508943f43f1f6aa43f04e84f46d58cd6a9b32b4820e72"
+  },
+  {
+    "Guid": "6ae1201d-fa91-4a6e-a470-e1ce6b8088d9",
+    "Category": "night",
+    "Text": "Buenas noches, hermano pequeño. Encuentra paz en nuestras uniones y dulce sueños con cada tarea biencachorrada.",
+    "Hash": "d160e9683b19c4fcee5838f3668fc846d61ce0f0cb149663f0327ec665f3c825"
+  },
+  {
+    "Guid": "0e8ba893-e40a-418a-9610-37edb8bc7116",
+    "Category": "night",
+    "Text": "Buenas noches, hijos queridos. Que tengáis paz mental y sueñen felices con la familia unida por amor.",
+    "Hash": "934a7d24330863cc6dab376690282d510ece04c2c827d9aeba86890d32abdedb"
+  },
+  {
+    "Guid": "d71e28f5-75ee-46ed-98a3-2a3adcfc55c6",
+    "Category": "night",
+    "Text": "Buenas noches, este será un sueño tranquilo y pazoso donde podrás recordar con gratitud el día afrontado.",
+    "Hash": "de429400761710d27e62ac662115ffc7b5ff6a8ab2a1af0c5eba9be9c03cc106"
+  },
+  {
+    "Guid": "485b3c5b-a012-4f63-a9b7-7da10b275d3f",
+    "Category": "night",
+    "Text": "Buenas noches, hermanos queridos, enfrentemos esta noche con valentía y amor. Dormid tranquilo sabiendo que cada esfuerzo cuenta.",
+    "Hash": "92af63a25ce5cca697a8136d29fbc8ee9c3ea6af2716319bf6ec4b56e604543b"
+  },
+  {
+    "Guid": "f8af7509-66d2-417a-bafa-776b092deda6",
+    "Category": "night",
+    "Text": "Buenas noches, recordemos con gratitud los pequeños logros del día y enfrentes el descanso tranquilo.",
+    "Hash": "b650d8e1082ab1b8f39475d20bba03752879e42be13e3a7d39a9a5422be2f0b3"
   }
 ]
