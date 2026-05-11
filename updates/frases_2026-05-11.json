@@ -1504,5 +1504,95 @@
     "Category": "secreto",
     "Text": "Cada paso que dan hacia el éxito nos enseñan humildad y respeto por los demás.",
     "Hash": "25d8661b6d6ae1c2e0ca18c30e13087cb460d7e9a93a17afe37b164aff240f3d"
+  },
+  {
+    "Guid": "e9fd96d7-92de-443b-a220-c39ee22ec1ff",
+    "Category": "tendencia",
+    "Text": "El esfuerzo por mejorar nos lleva a través de obstáculos y hacia un mañana lleno de oportunidades.",
+    "Hash": "f9fa9b3fc660d7bba8d31a267f8257238b3ca0cd2ae772e6f15bf7237dd5982b"
+  },
+  {
+    "Guid": "17f83697-34fd-46f6-8ee7-733b2252c216",
+    "Category": "amor",
+    "Text": "Cada pequeño esfuerzo nos lleva a nuevas alturas y fortalece nuestro corazón.",
+    "Hash": "cd22c82d65c4b7580a73629e0cb0bb28fb9b1579a0946b376dbad77f17b39637"
+  },
+  {
+    "Guid": "5c673655-a22a-4ba9-a1b8-4de41a7b8dbe",
+    "Category": "amor",
+    "Text": "En este viaje llamado vida, cada paso valiente es un amor por mí mismo.",
+    "Hash": "23737791401d12d13f0e28844b8efaaafd4f8ace0d292d81727935155cf0e17b"
+  },
+  {
+    "Guid": "311d075c-b1de-481f-98a2-8170a1347ce4",
+    "Category": "amor",
+    "Text": "Disfruta cada rincón de la vida; en el acto pequeño del amor y respeto encontrarás grandes emociones.",
+    "Hash": "e8b4572b5f008a061486300a5e14d349d0a440901050b6861e996b890402f0a9"
+  },
+  {
+    "Guid": "6eccfb92-f31a-4598-a7bc-bc2c8a9a11fe",
+    "Category": "amor",
+    "Text": "Desde el inicio de nuestras caminatas juntos hasta donde lleguen las estrellas.",
+    "Hash": "f8b98fe8edc4b84e4298d2372ce7d5653b0b21bd7057771a70e3437e673f77a1"
+  },
+  {
+    "Guid": "e08fff66-760f-45c4-a2c0-02dd001ace26",
+    "Category": "amor",
+    "Text": "Cada paso que camino es una promesa de aprecio y un acercamiento más cerca del amor verdadero.",
+    "Hash": "c5d74a4b3c835f4bfbadb0097f718207cf3a45db0183d0739a48eb16e4889d0d"
+  },
+  {
+    "Guid": "9ccac282-9041-4c47-89bc-5cccfa7fa02e",
+    "Category": "amor",
+    "Text": "Desde hoy, cada paso en el camino es un nuevo amanecer para mí.",
+    "Hash": "0748a083187c97260ba6bdf53862fbbb2860f69dd2e65fbbcdf03e7d0b4b4b94"
+  },
+  {
+    "Guid": "72d87974-14c3-4f94-b433-4637625b4736",
+    "Category": "amor",
+    "Text": "Cada paso que dan juntos es un nuevo amanecer para mi corazón.",
+    "Hash": "72662e880a38beafc4d073299f2f7e4cf487e18406a7483f8dd8ed58db864219"
+  },
+  {
+    "Guid": "f4b4baf2-9681-4db7-9e6d-be1316954287",
+    "Category": "amor",
+    "Text": "Cada paso que dan juntos nos llena de alegría.",
+    "Hash": "df0d46d38e30631b5ffb7803801119f9803db707e14df58de2ed3e39419adbd6"
+  },
+  {
+    "Guid": "e30505d5-029a-4c74-aed2-9d0dbd5d0258",
+    "Category": "amistad",
+    "Text": "Celebrando nuestros amigos es celebrar a cada uno de nosotros.",
+    "Hash": "211b493968e075d99725e2acb6a57b099e99500ce622aedf7d778f8133588eaf"
+  },
+  {
+    "Guid": "1cc97ad0-b1c6-4cbe-a668-115b06dcd3bb",
+    "Category": "amistad",
+    "Text": "Cada día con amigos buenos es como descansar en la playa sin pagar el boleto.",
+    "Hash": "5ce714df65b6eca1fc7b324c65110afdc989cce75291578f6dacadc45756c199"
+  },
+  {
+    "Guid": "34632d20-b6c1-4bdf-929f-0c7186e2df09",
+    "Category": "amistad",
+    "Text": "En cada amigo encontramos un refugio en momentos difícries; supresión es lo que no podemos esperar.",
+    "Hash": "75e5373da350854a5f05fc2b5c7b1822c145ba4b4e9e7902cf8832a789636f4b"
+  },
+  {
+    "Guid": "d0dbd124-9e04-48f8-b860-79cebb1efdbb",
+    "Category": "amistad",
+    "Text": "En cada pequeña victoria compartida con un amigo es como encontrar una joya oculta en el camino.",
+    "Hash": "ed8fa7de4713b4adbc1fd8872b32c9f40bb77f9d2ea7e83f7d85a3a1f596bffc"
+  },
+  {
+    "Guid": "512d09a9-cf3b-4308-8cca-0f7edcc2300a",
+    "Category": "motivacion",
+    "Text": "Cada paso que tomamos en este viaje de la vida es un momento para celebrar y disfrutar.",
+    "Hash": "220d07a1aa4890eb31df6cea92a957095146e6fd4b43d12a6dfa9f0e13fc8667"
+  },
+  {
+    "Guid": "e7a2f1a4-8bd8-44d9-8959-425601987e9f",
+    "Category": "alegria",
+    "Text": "Cada día que superamos un obstáculo es como ver el horizclas del amanecer: lleno de posibilidades y esperanza.",
+    "Hash": "30496ab53f9ba90f779c9065937615573424f8db49c1365143636da6878d99a3"
   }
 ]
