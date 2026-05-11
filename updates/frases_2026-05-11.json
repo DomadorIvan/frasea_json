@@ -1708,5 +1708,53 @@
     "Category": "night",
     "Text": "Buenas noches hermosa, enfrentemos el día con esmero y gratitud pequeña.",
     "Hash": "ef395ded1dc99596ce25781a1bb2a06800ca2717f966f054929ed80d589c244b"
+  },
+  {
+    "Guid": "4e5a7211-2e9f-44b2-9ef7-eb90c5a337c3",
+    "Category": "tendencia",
+    "Text": "Aprecio la pequeña victoria de hoy y el cariño que me has brindado en cada día.",
+    "Hash": "b59d21d5ab25dc0bc599698ecaa47b69ac05b94ff67792d56d3a4c028369829e"
+  },
+  {
+    "Guid": "3ea6ae78-8283-43ac-b36e-d3574a2d270f",
+    "Category": "tendencia",
+    "Text": "Superando desafíos diarios con confianza y gratitud sincera.",
+    "Hash": "55d9551e741b677c096d523b60c362c74d34cf1710154b556aff945ed17c524c"
+  },
+  {
+    "Guid": "5f633ce1-283d-4d8f-b510-88c8817ba0b9",
+    "Category": "tendencia",
+    "Text": "Cada día enfrenta nuevas dificultades con valentía y siempre hallo algo que me hace sonreír.",
+    "Hash": "a55f73d39e3ca0db03ada1ca3261cc69a98181ea5cec6fda267c844cf256dc58"
+  },
+  {
+    "Guid": "29da3d43-b180-4785-91fe-7114c3675870",
+    "Category": "tendencia",
+    "Text": "Cada paso que camino es un dibujo en mi mapa personal de superación.",
+    "Hash": "54db8f6b915197f7e71eb0cc91f6ac771a929d7aa1ca7d683e8e4848124ac2d4"
+  },
+  {
+    "Guid": "4af5432c-c3cc-48b7-a5c8-e9864d9cb7ea",
+    "Category": "tendencia",
+    "Text": "El esfuerzo personal siempre revela el amor más puro hacia uno mismo y para quienes nos rodean.",
+    "Hash": "1fffa9f8dfe97a13c5ce2dd982c371f34e4e75d8e71a5447107c8b1c92409861"
+  },
+  {
+    "Guid": "93c87852-121b-41ff-8ac3-a5afcfc43985",
+    "Category": "tendencia",
+    "Text": "Cada pequeño esfuerzo cuenta y juntos podemos alcanzar grandes cosas.",
+    "Hash": "f086ef5b4be51d51366a156d534383e175d23afe4d460d4597462aa3b147507d"
+  },
+  {
+    "Guid": "703e0c95-1480-4701-ab11-0aa3ea108507",
+    "Category": "tendencia",
+    "Text": "Aprecio el esfuerzo de mis amigos y siento mucho gratitud por sus pequeños gestos.",
+    "Hash": "1a79d45591536e913d88896ec1373f5f03a03946cc5d574d705ffe303c95746a"
+  },
+  {
+    "Guid": "0f2352bb-5a7b-4114-b302-01e616776e0e",
+    "Category": "tendencia",
+    "Text": "Cada paso pequeño hacia nuestro objetivo nos da una alegría sutil pero contagiosa.",
+    "Hash": "4a8660ceb9e4b38125f0ac9f2846a255a1507ed2a74727c08206f7431106e7ac"
   }
 ]
