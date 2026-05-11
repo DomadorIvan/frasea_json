@@ -1222,5 +1222,71 @@
     "Category": "night",
     "Text": "Buenas noches, séena con calma y en paz interior.",
     "Hash": "40ef592753b0f2d75e02f75d49279d2698aca57be12ee89b81544b960c0507ca"
+  },
+  {
+    "Guid": "7897d3fe-67bb-45c7-8775-bab1bf52add6",
+    "Category": "tendencia",
+    "Text": "Cada pequeño esfuerzo cuenta y la amistad nos fortalece el alma.",
+    "Hash": "b7a153bc74498994786f894b3c3ece91b5d82211f06d3d102cec6c16ecd25c4c"
+  },
+  {
+    "Guid": "41cf2e9f-a584-427e-ac53-5cd7591ad3d8",
+    "Category": "amor",
+    "Text": "Cada día que superamos nuestros propios miedos es una victoria personal y un regalo para el corazón.",
+    "Hash": "a6227e43bf0e799d31811cfafb13c2be63903062da52567615228e885d9c684e"
+  },
+  {
+    "Guid": "343d5a85-aa31-4ff1-a61e-807a7a9674c0",
+    "Category": "amistad",
+    "Text": "Cada día que pasamos juntos nos acercamos más a ser amigos verdaderos.",
+    "Hash": "38e49af92c4c4efa079ae653d4bd51d557351a1a41138785b08bba7ed560db9d"
+  },
+  {
+    "Guid": "b65dbe62-971d-4c38-b4a5-815f6a4a8dab",
+    "Category": "motivacion",
+    "Text": "Despierta con ganas de superarte y disfruta cada momento.",
+    "Hash": "38766fc74340a28206f69ea5d50c3cc292fc5799303d67657f38daa2d6202ca0"
+  },
+  {
+    "Guid": "f35a9fdc-d03b-4ce2-909c-4b0f6ac2d78d",
+    "Category": "motivacion",
+    "Text": "Cada día que superas una dificultad es un triunfo personal y muestra de tu fuerza interior.",
+    "Hash": "93389d00bd38d8304517616bafcedf0e39d7b1ccbc1c8c45d0c74355a74453fa"
+  },
+  {
+    "Guid": "81beb93a-792a-4671-9f72-3b820d281409",
+    "Category": "alegria",
+    "Text": "Cada día que paso es una victoria pequeña en el gran juego de la vida.",
+    "Hash": "b0743c0613c1ff0cdbe9b3cef62038dabc62f322a95bed5b8fa8fd27a7240a61"
+  },
+  {
+    "Guid": "0a428227-7a78-48b8-9a9a-b0aed87459e2",
+    "Category": "secreto",
+    "Text": "El secreto del verdadero gozo es encontrarlo en pequeñas cosas diariamente y compartirlo con amigos fieles.",
+    "Hash": "843c730a66ecd024dfc95c78dd2559c9caf52e6a1794142698c4e93f73b11693"
+  },
+  {
+    "Guid": "c3462c21-6d95-47af-a489-815dd3b61637",
+    "Category": "viaje",
+    "Text": "El viaje solo promete unas memorias eternamente gratificantes.",
+    "Hash": "714129b718ac0fd1a9e1a2f0d7348c87cfcc5f19c4d06746282fc81c2fab933f"
+  },
+  {
+    "Guid": "59d3879f-cde2-466f-9088-e84359d813cb",
+    "Category": "viaje",
+    "Text": "Aprendiendo a caminar por tierras desconocidas me siento más libre y conectado al mundo.",
+    "Hash": "cec803c229eba7e8303154fdccaf784c2c6c4804048508e02b05a0e876d687c1"
+  },
+  {
+    "Guid": "bdbb2ef7-631b-4f6f-93eb-1242b7a6c223",
+    "Category": "viaje",
+    "Text": "Cada viaje nos enseña a crecer y encontrar risa entre las dificultades.",
+    "Hash": "a5cf856569d83ce2ff3e4970c27507540c129c410f5441a9a1ffeeb3888c5db0"
+  },
+  {
+    "Guid": "312e5d60-ab2c-499c-863d-0716c630d2a7",
+    "Category": "gym",
+    "Text": "Haz ejercicio por placer y te sentirás como un campeón de ti mismo.",
+    "Hash": "34600dd6925df333b468c08bf40f92bdf40219d2f1f8e4d2ead276d27bc0f758"
   }
 ]
