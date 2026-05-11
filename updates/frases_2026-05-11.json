@@ -2860,5 +2860,149 @@
     "Category": "night",
     "Text": "Buenas noches querida alma gemela; tu sonrisa calma la noche y anima mi sueño pacífico.",
     "Hash": "4df3ccae4c24831c35931d4f9257c64c3f642c4f44efa717009479115d281eb6"
+  },
+  {
+    "Guid": "0bf6ffbb-600c-4658-a3f2-48dc2fe820a4",
+    "Category": "tendencia",
+    "Text": "A cada pequeño paso se acerca la victoria.",
+    "Hash": "910591a6566499e70da7467a8ed700ce4372f83b95c0c9fa10505d9cdc5ea6bc"
+  },
+  {
+    "Guid": "22567380-16b2-4dfc-a4e3-ed93b449a2a8",
+    "Category": "tendencia",
+    "Text": "¡El pequeño esfuerzo puede llevar a grandes logros y mejores amistades!",
+    "Hash": "8b3620b33fb7024976480e782f8963c78f1de7bd14cd25dbd1f69265e067b1ac"
+  },
+  {
+    "Guid": "1bafdf5d-f98f-43b3-b981-cf53281cb8b0",
+    "Category": "amor",
+    "Text": "El esfuerzo por mejorar nos lleva a la alegría de superarnos y celebrar el día hoy.",
+    "Hash": "4ccc3849ec8f02d3e3717366e1694aed58d3d6004f63b017e2cc5c67beadd1ec"
+  },
+  {
+    "Guid": "5db028d1-7e99-4ff9-a092-5d816bf86911",
+    "Category": "amor",
+    "Text": "El esfuerzo por ayudar a los demás ilumina nuestras almas y fortalece lazos de amor.",
+    "Hash": "0b9649365dcbe9e28c8278d0d5eae9308d1a5856ca24f0afe6701622eb164f6f"
+  },
+  {
+    "Guid": "4dd26cce-b58b-4047-b1c4-3c53969716ec",
+    "Category": "amistad",
+    "Text": "Cada día que pasamos juntos hace de mi vida más hermosa.",
+    "Hash": "cf408a14ed3bcc09ad4165a4019c043001ee1ec06a8d400532292e35dea097cf"
+  },
+  {
+    "Guid": "aa9fde47-007c-4bf7-8304-2d2285c49cb9",
+    "Category": "amistad",
+    "Text": "El esfuerzo de los amigos para superarse juntos hace que la vida sea tan maravillosa",
+    "Hash": "d1e00e29f462a2b90fc9589ee30a2e1d048adee357eb5dafb8f593fe0b7da674"
+  },
+  {
+    "Guid": "54f52a09-4934-4e4c-beee-facb7102398e",
+    "Category": "motivacion",
+    "Text": "Cada pequeño esfuerzo compensa con la alegría de un corazón lleno.",
+    "Hash": "1d3c474098cbb913f79f95b2892f405c51ac73f6762f24f62a8195622dccb6b4"
+  },
+  {
+    "Guid": "04a0cfee-5079-4c0b-8fff-b589997d8038",
+    "Category": "motivacion",
+    "Text": "Cada paso que dices lleva a más alegría y comprensión en el camino del corazón.",
+    "Hash": "b43398c7ac31d8ca4074d2c991239230a4fe2b51b8b41c0922c2e316606e4a54"
+  },
+  {
+    "Guid": "bacf4764-25ae-4855-8f70-dd5f5ea18847",
+    "Category": "alegria",
+    "Text": "Enfrentando el día con energía y una sonrisa en los labios siempre siento que puedo superar cualquier desafío.",
+    "Hash": "14db98f53aa0ca3d9513ed2c7dc3d795d48b48e4f5024c47c63c77b2da44c278"
+  },
+  {
+    "Guid": "e200b0ee-802e-4234-accd-be17ed9fb422",
+    "Category": "alegria",
+    "Text": "Cada pequeño esfuerzo nos acerca a nuestras metas y maravillosas experiencias.",
+    "Hash": "723e7caec5682ca9122a0784232e33e37a9eac91ce67529621efb7d4afe27022"
+  },
+  {
+    "Guid": "7911c209-16c5-4643-b093-fae5e4a7e883",
+    "Category": "secreto",
+    "Text": "Cada paso que tomamos es un gesto de gratitud hacia la vida y a quienes nos rodean.",
+    "Hash": "9be3c4f1b355694d9f295951841ae39e0520dab46e8d2da76019080a5edf29ec"
+  },
+  {
+    "Guid": "0a0a4bec-0c9e-47e4-82c7-0a74b31aeb00",
+    "Category": "secreto",
+    "Text": "El secreto más hermoso es que nunca hacemos nada sin esperanza de algún fruto dulce.",
+    "Hash": "ee70ea192ce18c21373c7eafee88ad28b03ab45a4f587f44b9feddb6ef4a02cf"
+  },
+  {
+    "Guid": "c1b51824-f4d4-4586-8a50-b32291c3218b",
+    "Category": "viaje",
+    "Text": "Cada paso que dan en nuestros senderos revela maravillas nuevas y oportunidades de aprendizaje.",
+    "Hash": "646f0f154dd00dfd98b4a1e069b624b0b4f4a1a0cbb4a3edf6f3473bb46c784a"
+  },
+  {
+    "Guid": "e179266b-13d1-4042-bb66-7aebd50a5637",
+    "Category": "viaje",
+    "Text": "Cada parada nueva nos lleva a un descubrimiento maravilloso y nos da más razón para sonreír.",
+    "Hash": "cdbe41a2a65d265a42dd5b0e78beb711515ddc9c7ffad51267a5eac6e4a26575"
+  },
+  {
+    "Guid": "e9d59ca6-4cc9-4ac1-b024-312ef17d3410",
+    "Category": "gym",
+    "Text": "Cada milla que corres en el gimnasio te lleva un paso más hacia tu mejor versión.",
+    "Hash": "9d323e34f3444517ee66da464268e5c920628f8af21ad681c9a1548771ee649f"
+  },
+  {
+    "Guid": "aabe6198-1a50-4a90-9c20-7747a3c032f9",
+    "Category": "gym",
+    "Text": "Esfuerzo constante en el gimnasio es un símbolo de fuerza interior y determinación.",
+    "Hash": "f0cd3d2b3d380a9b52b9c03611de793b5c36a980ef62048156a831b7b9b3ecef"
+  },
+  {
+    "Guid": "936be125-5e7f-4542-9811-bc79f66a5ebd",
+    "Category": "otros",
+    "Text": "Cada día es un regalo y cada amigo, una joya.",
+    "Hash": "eca1370656649683d24d79fefe85ebe4f872efdf22ea135a7664bd30769d32d5"
+  },
+  {
+    "Guid": "412fb368-004f-4e24-91e8-6ac1a0f91309",
+    "Category": "otros",
+    "Text": "Me siento fuerte por mis logros pequeños cada día.",
+    "Hash": "f97e437f7f7ebc985421ade7ce3ea645d152e84dc36f2105e80d08ca00f96dcf"
+  },
+  {
+    "Guid": "410adf85-d25a-4619-b417-f7e5a693fb7b",
+    "Category": "morning",
+    "Text": "Comencemos el día con la energía y risa que se siente dentro de nosotros mismos.",
+    "Hash": "10f7998e3caa170f86f1db2cfc190dd0d0e7a59798c5220644b4711a4e580cf7"
+  },
+  {
+    "Guid": "52418d1e-123b-473a-bf29-545329766fcc",
+    "Category": "morning",
+    "Text": "Empezar el día con un nuevo esfuerzo y gratitud nos lleva a caminar más fuerte juntos.",
+    "Hash": "18effd0c3331db9280a38f6c40f9efccfd7f22f540fc21b46114295883d25570"
+  },
+  {
+    "Guid": "89d58145-d5f6-40e1-8691-eb1304f4dbe9",
+    "Category": "late",
+    "Text": "Cuando el sol se pone y las sombras crecen largo día; suavemente descanso mientras aprecio la vida cotidiana.",
+    "Hash": "b6321d5eedc2d4eba16b3d00556422dd895202cadfc523d4117244b8ea73800c"
+  },
+  {
+    "Guid": "099466ff-1f8c-4c84-b9f9-c1450036b74a",
+    "Category": "late",
+    "Text": "Mientras juguemos a la pelota hasta que el sol se acueste.",
+    "Hash": "9d06aa191f81b6851d35aa484eeed2000e40ae9ff1c7b5f66d3ff3fdc3099f73"
+  },
+  {
+    "Guid": "1c5ecdac-0a62-460e-9ca2-86ebfbf12ee0",
+    "Category": "night",
+    "Text": "Buenas noches, la paz se encuentra en cada sueño y risa.",
+    "Hash": "4bcbe251096f31d34c7332a165f778b5debc38657f4185ed186a017e33ed5dec"
+  },
+  {
+    "Guid": "a3802a55-f50b-4878-91e8-8c56495f700d",
+    "Category": "night",
+    "Text": "Buenas noches, la paz mental me trae una sonrisa suave y un sueño tranquilo.",
+    "Hash": "f8a323c7605cfdf0846cc686f3fa8cf236cc39de0fa34815e63cc5d2731dea6a"
   }
 ]
