@@ -2326,5 +2326,275 @@
     "Category": "otros",
     "Text": "Siempre hay tiempo para recordar y apreciar los pequeños placeres de la vida.",
     "Hash": "9bfa570d05804bf6fd2efed242348bfd2d2ebe95efa79748a64379e9a23da211"
+  },
+  {
+    "Guid": "dd2a77a6-a3fb-4121-838c-30d8bc2fac9d",
+    "Category": "tendencia",
+    "Text": "Eres fuerte como la madera del Norte; tu amistad es un refugio y belleza.",
+    "Hash": "f7f6bc396c4af12864e8b712e5f8d1400945d29388db1199840c20a2dd9d7c0c"
+  },
+  {
+    "Guid": "454d6573-f229-4619-9061-14118fb7b859",
+    "Category": "tendencia",
+    "Text": "Aprecio cada día por lo que aprendo y las risas compartidas con amigos.",
+    "Hash": "9f1e8f0c2dad9078ffffacfcfda1be39cfee1704ea55bf960f5c8deef1c0944b"
+  },
+  {
+    "Guid": "89978f7b-8fb0-4266-90e8-cde5beeba0fb",
+    "Category": "tendencia",
+    "Text": "Cada pequeño esfuerzo y risa diaria nos acerca más a nuestro propio yo mejorado.",
+    "Hash": "21c34eff90514729983a15b84a79fdedf30c74cd99b2cce07a1b909700a93a5c"
+  },
+  {
+    "Guid": "b5c52bc9-77fb-49ee-af02-42941a7eedc0",
+    "Category": "tendencia",
+    "Text": "El pequeño esfuerzo a menudo conduce al mayor disfrute y satisfacción.",
+    "Hash": "a285b1df6f704e0304f03a7ae847a1287471faa848e2839dd5ec39fcebe59b15"
+  },
+  {
+    "Guid": "c186aecb-2485-46b9-bbda-f85884e378e1",
+    "Category": "tendencia",
+    "Text": "Con cada paso que da más fuerte y de pie, se abre un mundo llena de posibilidades increíbles.",
+    "Hash": "6787096c0aafa1e8360baa2761dcb575950c2e3fdd2cb795112d73c0258e6cda"
+  },
+  {
+    "Guid": "cf48b8c5-4f0a-4272-b135-fc4037964fcd",
+    "Category": "amor",
+    "Text": "El amor verdadero se mide por la generosidad de nuestros actos hacia los demás.",
+    "Hash": "7cafc2f37e8eeb2c93ed41fad22110f5efa23328d3936d0b5dcd16aa4701c863"
+  },
+  {
+    "Guid": "4037664d-8814-4c16-bd84-de91ea08d520",
+    "Category": "amor",
+    "Text": "En cada desafío que enfrentamos juntos, creo encontrar nuevas razones para alegría y aprecio.",
+    "Hash": "ca6184c5d0c77f6f75edd7a6dc325646758eb4f801fdf57d4390bd8307655231"
+  },
+  {
+    "Guid": "167161b2-131d-47c6-9985-3dc37f915d91",
+    "Category": "amor",
+    "Text": "En cada pequeño esfuerzo y risa compartida, encuentro la verdadera belleza de nuestro corazón común.",
+    "Hash": "8a1dab3f51dfce2f4d0d7816a2a7c4e441b870aa467ba2a08a0feb572f960fcf"
+  },
+  {
+    "Guid": "01274dcb-f962-4b96-8696-02a10b302439",
+    "Category": "amor",
+    "Text": "Cada día que superamos nuestros propios miedos se cobra un poquito más del verdadero valor de la amistad.",
+    "Hash": "3a6c1f0d04eaf0af4cfa8a4477fde1f729f544434ad4cb4d73742a2dd00d6b93"
+  },
+  {
+    "Guid": "934a704e-1782-476d-bc78-7435c1f6b296",
+    "Category": "amor",
+    "Text": "El amor verdadero se fortalece con el tiempo y en medio de las adversidades.",
+    "Hash": "104d7786e4eb0c37343b12e2b60e5bd717bef59eb55f794a508239cb83dd1fbf"
+  },
+  {
+    "Guid": "175e5c88-4b2d-43b2-9b27-8abf92f322e8",
+    "Category": "amistad",
+    "Text": "Cada día que superamos nuestros propios obstáculos fortalece más la fuerte amistad compartida.",
+    "Hash": "12e14b74bc958068005aff4569c548eed76740f6756f0bfd21448a80d70d1771"
+  },
+  {
+    "Guid": "c970dd93-26e9-46af-aa03-3a2956e261a0",
+    "Category": "amistad",
+    "Text": "Aprecio nuestras amistades por brindarnos alegría y apoyo en los momentos difícries.",
+    "Hash": "1ea5a842ac27299f5358dd22c8214dcf59511d41e9fa40bdc20a2ee8ce359024"
+  },
+  {
+    "Guid": "9b58326e-b2d8-4564-9562-6eed051b158f",
+    "Category": "amistad",
+    "Text": "Aprecio nuestro amigo por siempre estar ahí para apoyarme en los momentos difícimes y celebrar las victorias pequeñas.",
+    "Hash": "a11d3420cffe60389dc3c555f86bbbb42776954f794937f3f3ddb01b465fe7e5"
+  },
+  {
+    "Guid": "3f539e4f-a1b0-4526-98d3-79ee401f4be3",
+    "Category": "amistad",
+    "Text": "Cada día que pasa es una nueva oportunidad para hacer algo hermoso con un amigo.",
+    "Hash": "bb6f3115289a469f8c94500ede8590cdf398aae9e6fc0573f6bef3c04cff0eab"
+  },
+  {
+    "Guid": "77adda8d-bbca-4a0b-8b89-df9d97e6c903",
+    "Category": "amistad",
+    "Text": "Siempre encuentro alegría en tu compañía; juntos superamos los obstáculos con fuerza.",
+    "Hash": "0fc815b60be8e00e9b37e40e0347799f18004fdcd6a235fee4c54c6ffb3d4552"
+  },
+  {
+    "Guid": "65e38601-156d-4421-aa2f-549ee3eafbd9",
+    "Category": "motivacion",
+    "Text": "Cada día que superamos nuestros propios retos nos acercamos más a ser la mejor versión de nosotros mismos.",
+    "Hash": "659861a9fbf4df5b1cab15b2c531f40637688585f89cf0033cb0ed5d47cceeee"
+  },
+  {
+    "Guid": "9e71bcca-4a3e-42b8-9f54-687ee2bc4e15",
+    "Category": "motivacion",
+    "Text": "A pesar del sudor y la fatiga, encontrarán paz en el duelo personal.",
+    "Hash": "b7570395f2765a8d137f48bd62117d0a8a674839d8c44c1faf5dcbdc5381039a"
+  },
+  {
+    "Guid": "3c94b630-9ce2-471e-938e-95c33061657f",
+    "Category": "motivacion",
+    "Text": "Cada día que superas una pequeña dificultad es un hito en tu camino hacia el éxito.",
+    "Hash": "74b4fab1b6085ed8292043fcbc4f36e21d8f2b89526d4c8a5ca85a727f929256"
+  },
+  {
+    "Guid": "bda719fe-6135-4ada-8c5b-87bb0316da95",
+    "Category": "motivacion",
+    "Text": "Cada día es una oportunidad para mejorar y divertirse; la vida vale cada suspiro.",
+    "Hash": "7e831913ac80bc949ec4836550aa700d324c67ca8f99fe661e557f9f8ff09876"
+  },
+  {
+    "Guid": "3bcb86fd-f748-4f7d-9b30-326376067871",
+    "Category": "motivacion",
+    "Text": "Cada pequeño esfuerzo cuenta y juntos crecemos más fuerte como amigos.",
+    "Hash": "2de240f3415a4d603fd7afcf6f0ef7c9df8cf4e74e195ddf84c699e96475c4b4"
+  },
+  {
+    "Guid": "ec659c68-de23-4949-b2f7-78b77189c8b7",
+    "Category": "alegria",
+    "Text": "En cada pequeño esfuerzo que hago en la mañana se disfruta el día y nos llena de alegría.",
+    "Hash": "11c1cd217dab335cd6589f1b552ffffc0ae4145760b975a1cecc0f1e1ba41b7b"
+  },
+  {
+    "Guid": "18f100dd-7f2c-449a-85ef-cbfa31ef8c3d",
+    "Category": "alegria",
+    "Text": "Con cada paso que damos en nuestra vida cotidiana, se nos despliega una nueva canción de alegría.",
+    "Hash": "04efd32082ea6c5bc08e144e8ab07e6da1d3d60a5147f48237b442554db3eda0"
+  },
+  {
+    "Guid": "bbf8fe6c-27ff-46de-a910-4600c550c1d2",
+    "Category": "alegria",
+    "Text": "Aunque el camino a menudo nos lleve por dificultades, la amistad y nuestra perseverancia siempre llevan al sol.",
+    "Hash": "c9d6218b9aa390b9efae4bbfa7a08fae76047252f30c2a5ef58c58deda0e0f04"
+  },
+  {
+    "Guid": "7abcc2e3-26d4-448e-a402-124a7feae4c6",
+    "Category": "alegria",
+    "Text": "Cada pequeño esfuerzo cuenta y juntos hacemos el mundo un lugar más hermoso.",
+    "Hash": "a55eac01dd4858e33f6f5271cac1dee87bf46ccd73abf0d07b08f02f30c20ee9"
+  },
+  {
+    "Guid": "d30e8bb6-eb9c-42d3-8d76-8bf837ab5401",
+    "Category": "alegria",
+    "Text": "Cada paso que doblamos es una victoria para mí.",
+    "Hash": "08af95a1706af8d4eafa83a2417a26addaf80c326607562190b9b15b5ebbcee5"
+  },
+  {
+    "Guid": "ffe8f474-a37c-4787-85f4-3adec502423e",
+    "Category": "secreto",
+    "Text": "Aunque el camino a veces es difícil, cada paso pequeño hacia nuestros objetivos nos rinde un gran placer.",
+    "Hash": "43babce20ebca6e781d76b8d050cad433f5003ca6078f8fc51aebf6146008559"
+  },
+  {
+    "Guid": "28910a65-3b23-47e7-b12e-f461d117a900",
+    "Category": "secreto",
+    "Text": "En cada pequeño esfuerzo hoy por mañana tendremos un mundo mejor.",
+    "Hash": "ac56465922250c1267f28a7f13d380e65b54debaaecc2f6abd6cdd7b9c143102"
+  },
+  {
+    "Guid": "69c346bf-bd7b-4b16-bd04-c6e8fac2ac19",
+    "Category": "secreto",
+    "Text": "Cada pequeño esfuerzo cuenta hacia la victoria final en el corazón.",
+    "Hash": "d287622599db536df0146b4b57330d0c8fe981a7c8d5e558c272105f57e443d3"
+  },
+  {
+    "Guid": "1c15b586-9355-402b-be36-f1bd181a9c60",
+    "Category": "secreto",
+    "Text": "Cada día que superamos pequeñas dificultades es como encontrar joyas ocultas en el camino del bien.",
+    "Hash": "57261417ae376c7a355fb650a0cba9100ec9d2a862b9a9e35015d849cf4411b4"
+  },
+  {
+    "Guid": "64d2f08e-5547-4396-942a-a78ebb2e80ed",
+    "Category": "secreto",
+    "Text": "Cada pequeño esfuerzo nos acerca a nuestras metas y fortalece nuestro corazón.",
+    "Hash": "a6775ea823592802c7186d211e3553e8755085bce8ed8e00952391a144c5eaa4"
+  },
+  {
+    "Guid": "8abf9f8f-b52e-4ef8-834a-66c577183ba2",
+    "Category": "viaje",
+    "Text": "Cada nuevo día es una oportunidad para aventurarnos hacia nuevas experiencias y descubrimientos que enriquecerán nuestra existencia.",
+    "Hash": "19849ba3a7ba8cc70223381608e2b8d8026384c76b640049484dca4aeacb91e5"
+  },
+  {
+    "Guid": "e6456efe-7efb-4f37-8aff-e51e6ee94ca3",
+    "Category": "viaje",
+    "Text": "Aventurando en nuevos lugares trae aportes impresionantes al corazón y mente.",
+    "Hash": "e5c09d2dfe46afba5fc40d6978c13be4674a5f807defd458f1e9a01864236e2e"
+  },
+  {
+    "Guid": "efe2e5c1-96d2-4e95-b0af-81aaf3fc521c",
+    "Category": "viaje",
+    "Text": "Cada aventura nos lleva más cerca de nuestros sueños y almas.",
+    "Hash": "bfeb06764189f34fe242bacfe711be3f65246531fb16282fe7c68a5e6e465e7f"
+  },
+  {
+    "Guid": "91d8ab35-e3d1-457f-9b9a-b51aa71ae9ae",
+    "Category": "viaje",
+    "Text": "El camino de la vida se llena con pequeños descansos que nos permiten apreciar el colorido del mundo.",
+    "Hash": "56dd3dcbbc2aec8e3d27fe9fb582553fad7e06cd2566c80b58131e64bbbcee1e"
+  },
+  {
+    "Guid": "96946439-28f9-4ca7-b40e-2ad4010fde20",
+    "Category": "viaje",
+    "Text": "Cada día es un nuevo viaje lleno de descubrimientos increíbles y momentos para crecer.",
+    "Hash": "c8961f6df3a0da268a9f56deb98247fb8e9d6cea40c87c1a3bb91e3a01666d68"
+  },
+  {
+    "Guid": "cff502c2-3d43-49b0-8fde-5d75bd95942d",
+    "Category": "gym",
+    "Text": "Cada día que entreno en la gimnasio me siento más fuerte y renovado.",
+    "Hash": "6242e53d8665de5aa5b18500385d092ee5f337c432c6630827a3db4eb63116c2"
+  },
+  {
+    "Guid": "4f5f0dfd-b491-446a-b933-e642a6787de1",
+    "Category": "gym",
+    "Text": "A cada ronda del gimnasio me siento más fuerte y hermosa que antes.",
+    "Hash": "7bd15dd2a18d4171d34e0274a0d0d6c58f3e9d158c1aaac4e8ea946aac5ee5f1"
+  },
+  {
+    "Guid": "1c5a74ec-e0c9-40f9-af75-da8be2e26f9c",
+    "Category": "gym",
+    "Text": "Cada rutina en el gimnasio es una carta hacia tu mejor versión.",
+    "Hash": "8b2520cae40b6e319fc870a32a9db494af95245971caf3f2726c434b2b5a90dd"
+  },
+  {
+    "Guid": "36fc6ca4-7137-4cf4-86cd-75144498a649",
+    "Category": "gym",
+    "Text": "Cada rutina en el gimnasio es una nueva oportunidad para superar mi mínimo.",
+    "Hash": "cf3e7e5de5b9a190129b3150a7001fa20c553b264938146d089bcba262a6858f"
+  },
+  {
+    "Guid": "dc1f0026-9c0a-4414-b7a9-71e79df1af48",
+    "Category": "gym",
+    "Text": "Cada repetición en la máquina es un paso hacia tu mejor versión de ti.",
+    "Hash": "c2472084c1199e1a5f4995a52a55376616b1048de3014a39918fd8c803fde325"
+  },
+  {
+    "Guid": "3c9bd95d-241b-4de6-abb9-69f97e6f3ef0",
+    "Category": "otros",
+    "Text": "Cada pequeño esfuerzo cuenta y juntos podemos alcanzar grandes maravillas.",
+    "Hash": "91aac436f2ccdabe291826eca7f60b9c738aba9090a180502959e8b4b896b2d4"
+  },
+  {
+    "Guid": "14c59237-3b01-4841-ae8c-28d22ea7711a",
+    "Category": "otros",
+    "Text": "El amor verdadero nunca te deja solo y siempre es más fuerte cuando se enfrenta a desafíos.",
+    "Hash": "253b14b8b45b981fac9d640f14164015fd57b4676d454b07c2b792b556f87a06"
+  },
+  {
+    "Guid": "22ae5ef2-1df4-4770-a2a8-ad60f7e42f3e",
+    "Category": "otros",
+    "Text": "Cada día que salimos a caminar juntos, encuentro un nuevo motivo para sonreír.",
+    "Hash": "cddab1ef31bc7799c2d08765727e6f5ca91a258e9311bd6aa5fc589cb3c480aa"
+  },
+  {
+    "Guid": "00f2394c-530c-4a58-9fc3-40a22ffe13df",
+    "Category": "otros",
+    "Text": "El trabajo duro es el precio que a veces debemos pagar por alcanzar nuestras metas personales.",
+    "Hash": "5c2ae93dcc5997e98ffcbbeb73f939219194e4e0e0beee384943cf589518a278"
+  },
+  {
+    "Guid": "33a95863-ffb5-4c12-b2cd-3b08fe1e717e",
+    "Category": "otros",
+    "Text": "Después de un día duro y lleno de esfuerzo, me siento más fuerte y satisfecho",
+    "Hash": "c7509729707239b8a8fa3eb7c8d63f78c8c8e66e69d32f2c454de2c8ba44fa9f"
   }
 ]
