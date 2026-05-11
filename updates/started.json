@@ -1,0 +1,1102 @@
+[
+  {
+    "Guid": "f7c8b3c1-1f8a-4b91-8f28-0d9d5e3c2a01",
+    "Category": "morning",
+    "Text": "Hoy puede ser el giro que estabas esperando. Levantate, que te lo merecés."
+  },
+  {
+    "Guid": "1d9b2d76-7c51-4b0c-9a2a-0f9d9d0b2a11",
+    "Category": "morning",
+    "Text": "Tenés más fuerza de la que recordás. Este día es tuyo."
+  },
+  {
+    "Guid": "c2a1f8a5-41f3-4f9f-9f4f-2e5a8b9d3c21",
+    "Category": "morning",
+    "Text": "Abrí los ojos, respirá hondo. Arranca con fe."
+  },
+  {
+    "Guid": "7a1e2b33-2b1a-4e7a-8b2a-5c4d3e2f1a31",
+    "Category": "morning",
+    "Text": "Lo que soñás está más cerca. Pero hay que moverse. Dale."
+  },
+  {
+    "Guid": "9b2c3d44-3c2b-4f8b-9c3b-6d5e4f3a2b41",
+    "Category": "morning",
+    "Text": "No dejes que las dudas te roben la mañana. Vos sabés lo que querés."
+  },
+  {
+    "Guid": "a3d4e555-4d3c-409c-8d4c-7e6f5a4b3c51",
+    "Category": "morning",
+    "Text": "Cada minuto que pasa es una oportunidad que sólo vos podés aprovechar."
+  },
+  {
+    "Guid": "b4e5f666-5e4d-41ad-9e5d-8f7a6b5c4d61",
+    "Category": "morning",
+    "Text": "Hoy podés demostrarte que sos capaz de mucho más."
+  },
+  {
+    "Guid": "c5f6a777-6f5e-42be-8f6e-9a8b7c6d5e71",
+    "Category": "morning",
+    "Text": "No lo pienses tanto. Empezá el día como si ya estuvieras ganando."
+  },
+  {
+    "Guid": "d6a7b888-706f-43cf-907f-0b9c8d7e6f81",
+    "Category": "morning",
+    "Text": "Este amanecer no se repite. Hacelo valer."
+  },
+  {
+    "Guid": "e7b8c999-8170-44d0-a180-1c0d9e8f7a91",
+    "Category": "morning",
+    "Text": "Si pudiste abrir los ojos, ya ganaste. Ahora, a por lo que sigue."
+  },
+  {
+    "Guid": "0a1b2c3d-9a8b-4c7d-8e6f-2d3c4b5a6f01",
+    "Category": "late",
+    "Text": "Ya hiciste mucho. No te olvides de lo que avanzaste."
+  },
+  {
+    "Guid": "1b2c3d4e-0b9c-4d8e-9f70-3e4d5c6b7a11",
+    "Category": "late",
+    "Text": "No aflojes justo ahora. Esta tarde puede sorprenderte."
+  },
+  {
+    "Guid": "2c3d4e5f-1c0d-4e9f-a081-4f5e6d7c8b21",
+    "Category": "late",
+    "Text": "Lo que lograste hoy tiene más valor de lo que pensás."
+  },
+  {
+    "Guid": "3d4e5f60-2d1e-4fa0-b192-506f7e8d9c31",
+    "Category": "late",
+    "Text": "Estás en camino. No te compares, enfocáte."
+  },
+  {
+    "Guid": "4e5f6071-3e2f-40b1-c2a3-617a8f9e0d41",
+    "Category": "late",
+    "Text": "No importa si estás cansado. Tenés más en vos todavía."
+  },
+  {
+    "Guid": "5f607182-4f30-41c2-d3b4-728b9a0f1e51",
+    "Category": "late",
+    "Text": "Tu esfuerzo está siendo visto, incluso si no te lo dicen."
+  },
+  {
+    "Guid": "60718293-5031-42d3-e4c5-839c0b1a2f61",
+    "Category": "late",
+    "Text": "Es ahora. Hoy. Aprovechá lo que te queda del día."
+  },
+  {
+    "Guid": "718293a4-6132-43e4-f5d6-94ad1c2b3a71",
+    "Category": "late",
+    "Text": "Ya venciste tantas veces. Esta es una más."
+  },
+  {
+    "Guid": "8293a4b5-7233-44f5-06e7-a5be2d3c4b81",
+    "Category": "late",
+    "Text": "No te detengas. Lo que querés, te está esperando."
+  },
+  {
+    "Guid": "93a4b5c6-8334-4506-17f8-b6cf3e4d5c91",
+    "Category": "late",
+    "Text": "La tarde no terminó. Y vos tampoco."
+  },
+  {
+    "Guid": "a4b5c6d7-9445-4617-28a9-c7d04f5e6d01",
+    "Category": "night",
+    "Text": "Descansá con orgullo. Hoy hiciste lo que pudiste, y eso cuenta."
+  },
+  {
+    "Guid": "b5c6d7e8-a556-4728-39ba-d8e15a6f7e11",
+    "Category": "night",
+    "Text": "Nadie más vivió tu día. Y lo llevaste adelante como un campeón."
+  },
+  {
+    "Guid": "c6d7e8f9-b667-4839-4acb-e9f26b7a8f21",
+    "Category": "night",
+    "Text": "Lo que lograste hoy no necesita aplausos. Necesita tu reconocimiento."
+  },
+  {
+    "Guid": "d7e8f90a-c778-494a-5bdc-f0a37c8b9a31",
+    "Category": "night",
+    "Text": "Ahora merecés calma. Todo lo que hiciste fue con el corazón."
+  },
+  {
+    "Guid": "e8f90a1b-d889-4a5b-6ced-01b48d9c0b41",
+    "Category": "night",
+    "Text": "No te castigues por lo pendiente. Celebrá lo logrado."
+  },
+  {
+    "Guid": "f90a1b2c-e99a-4b6c-7dfe-12c59e0d1c51",
+    "Category": "night",
+    "Text": "Tenés permiso para soltar el día. Lo hiciste bien."
+  },
+  {
+    "Guid": "0a1b2c3d-faab-4c7d-8e0f-23d6af1e2d61",
+    "Category": "night",
+    "Text": "Hoy sumaste, aunque no lo notes. Descansá con esa paz."
+  },
+  {
+    "Guid": "1b2c3d4e-0bbc-4d8e-9f10-34e7b02f3e71",
+    "Category": "night",
+    "Text": "Tu cuerpo pide pausa, tu alma también. Dale lo que necesitan."
+  },
+  {
+    "Guid": "2c3d4e5f-1ccd-4e9f-a221-45f8c1304f81",
+    "Category": "night",
+    "Text": "Cerrá los ojos sabiendo que este día no pudo contigo."
+  },
+  {
+    "Guid": "3d4e5f60-2dde-4fa0-b332-5609d2415a91",
+    "Category": "night",
+    "Text": "Hoy te elegiste. Mañana, el mundo vuelve a girar—y vos con él."
+  },
+  {
+    "Guid": "e4b7d9e4-1f00-49b4-b9b2-f1f2a1cf66a1",
+    "Category": "tendencia",
+    "Text": "Sigue la corriente, pero no olvides quién eres."
+  },
+  {
+    "Guid": "bf1a96d7-7c24-45d1-9a6f-0de3e6e0fa62",
+    "Category": "tendencia",
+    "Text": "Lo viral no siempre es lo vital."
+  },
+  {
+    "Guid": "c7b9c6a5-0ae7-4a4e-9187-7a11f8e3ea12",
+    "Category": "tendencia",
+    "Text": "Hoy todos lo siguen, mañana todos lo olvidan."
+  },
+  {
+    "Guid": "c2ddf589-4b52-4bfa-88de-03783be946ba",
+    "Category": "tendencia",
+    "Text": "Ser auténtico nunca pasa de moda."
+  },
+  {
+    "Guid": "73b215d0-c25f-49cd-a3c3-6237fc71d2a3",
+    "Category": "tendencia",
+    "Text": "La tendencia de hoy es la ironía de mañana."
+  },
+  {
+    "Guid": "a1c926e3-d55d-4560-8195-91be964c0e01",
+    "Category": "amor",
+    "Text": "El amor crece donde las palabras no alcanzan."
+  },
+  {
+    "Guid": "b2f72da1-c147-46a6-92aa-29fbdcd4680b",
+    "Category": "amor",
+    "Text": "No hay camino más corto entre dos almas que una mirada sincera."
+  },
+  {
+    "Guid": "fc65d0d7-1f2e-4a80-947c-d95b6ff5538a",
+    "Category": "amor",
+    "Text": "El amor no exige perfección, solo presencia."
+  },
+  {
+    "Guid": "c3ce847e-64e1-44c8-b460-416b47ef9b62",
+    "Category": "amor",
+    "Text": "Amar es bailar al ritmo de otro corazón."
+  },
+  {
+    "Guid": "f0bdb80d-902f-4463-8944-4466678c48c1",
+    "Category": "amor",
+    "Text": "El verdadero amor no tiene dueño, solo destino."
+  },
+  {
+    "Guid": "9053f195-d58c-4b43-88a6-28275365c398",
+    "Category": "amor",
+    "Text": "En el abrazo correcto, el mundo desaparece."
+  },
+  {
+    "Guid": "dd439b90-a391-4643-99e7-cd8a373de160",
+    "Category": "amor",
+    "Text": "Amar es elegir al otro incluso en los días grises."
+  },
+  {
+    "Guid": "bc4c2731-d82e-45de-95ec-20327c101342",
+    "Category": "amor",
+    "Text": "El amor se nota en los silencios compartidos."
+  },
+  {
+    "Guid": "e23fc809-caba-489e-a93f-d3321e0d9d32",
+    "Category": "amor",
+    "Text": "Quien ama no retiene, acompaña."
+  },
+  {
+    "Guid": "fdfe5bf9-e7e6-4385-8c4e-69b8f80eb11f",
+    "Category": "amor",
+    "Text": "Las cicatrices también cuentan historias de amor que valieron la pena."
+  },
+  {
+    "Guid": "fe41fc0f-21d0-4ad0-91ea-4e812e726a30",
+    "Category": "amor",
+    "Text": "El amor es eso que ocurre mientras haces otros planes."
+  },
+  {
+    "Guid": "89fd5eb0-d7bb-4c8e-83cf-fb30de7271e0",
+    "Category": "amor",
+    "Text": "Se ama sin saber cómo, cuándo ni desde dónde. Simplemente, se ama."
+  },
+  {
+    "Guid": "7cf1cded-1acb-4a70-a60a-288cf87f37dc",
+    "Category": "amor",
+    "Text": "Amar es un arte que se practica todos los días."
+  },
+  {
+    "Guid": "96ad0e39-281c-4cc8-9056-8e62a4fef408",
+    "Category": "amor",
+    "Text": "Nada es más libre que dos personas que se eligen sin atarse."
+  },
+  {
+    "Guid": "73e9640a-96cb-4197-8e01-e398b06e504c",
+    "Category": "amor",
+    "Text": "El amor no se busca, se encuentra cuando menos lo esperás."
+  },
+  {
+    "Guid": "144fa42e-caa4-447f-9a47-8f664dc2ccef",
+    "Category": "amor",
+    "Text": "En el amor no se trata de estar cerca, sino de estar ahí."
+  },
+  {
+    "Guid": "4d7b313a-74f3-43cb-9255-6dfd6c8c93f8",
+    "Category": "amor",
+    "Text": "El amor no resuelve todo, pero lo hace todo más llevadero."
+  },
+  {
+    "Guid": "ed34317b-d75e-45de-97e0-6337191d57e0",
+    "Category": "amor",
+    "Text": "Las palabras enamoran, los actos lo confirman."
+  },
+  {
+    "Guid": "0d423e52-b4f2-41b2-9129-5b8e960e47d6",
+    "Category": "amor",
+    "Text": "Una simple caricia puede decir más que mil poesías."
+  },
+  {
+    "Guid": "3afab7b0-d7a3-4c37-88a3-d9fa5ba3ca68",
+    "Category": "amor",
+    "Text": "Amar es recordar los detalles que nadie más nota."
+  },
+  {
+    "Guid": "8a0e0065-9ad1-4df3-98b1-3d810bfa74f1",
+    "Category": "amor",
+    "Text": "El amor no grita, susurra donde todos callan."
+  },
+  {
+    "Guid": "72d4cc58-2133-4577-8b5c-e22682f83d2b",
+    "Category": "amor",
+    "Text": "Amar es aceptar incluso las imperfecciones más ruidosas."
+  },
+  {
+    "Guid": "7d937444-ae6f-4e2f-a60a-4c339c2fb0d5",
+    "Category": "amor",
+    "Text": "Donde termina el juicio, empieza el amor real."
+  },
+  {
+    "Guid": "5e65f2bc-a93c-402f-a18a-3b4a83f5b8ec",
+    "Category": "amor",
+    "Text": "A veces amar es simplemente estar, sin decir una palabra."
+  },
+  {
+    "Guid": "2983a7a3-3dab-41d2-b7e9-0c105acb39cc",
+    "Category": "amor",
+    "Text": "El amor no pide razones, solo conexión."
+  },
+  {
+    "Guid": "663f71fa-417c-4027-b225-e5f4a518e210",
+    "Category": "amistad",
+    "Text": "La amistad no necesita palabras, se siente con el alma."
+  },
+  {
+    "Guid": "6bc82bd5-80f5-4041-b3f1-6d822b0e7894",
+    "Category": "amistad",
+    "Text": "Un amigo de verdad se queda cuando todos se van."
+  },
+  {
+    "Guid": "f2e9df5b-4fb7-440d-9fae-37b45d4a88c5",
+    "Category": "amistad",
+    "Text": "La amistad convierte los momentos simples en recuerdos eternos."
+  },
+  {
+    "Guid": "4e7ee305-50de-4688-b165-52c697246a1a",
+    "Category": "amistad",
+    "Text": "Quien te escucha sin juzgar, merece un lugar en tu vida."
+  },
+  {
+    "Guid": "64f2e841-0f78-4b11-9eb7-36c44a535614",
+    "Category": "amistad",
+    "Text": "La risa compartida entre amigos alivia cualquier tristeza."
+  },
+  {
+    "Guid": "00d10a27-6d85-47cf-a38d-8d8e718a3fd8",
+    "Category": "amistad",
+    "Text": "Los verdaderos amigos se reconocen en el silencio cómodo."
+  },
+  {
+    "Guid": "9c0d04fd-e19c-4a6d-b74b-b2d3ac1b00e3",
+    "Category": "amistad",
+    "Text": "Un amigo es ese refugio donde siempre podés volver."
+  },
+  {
+    "Guid": "1ca2d064-3c5a-474d-af8a-dae83a5f6b9c",
+    "Category": "amistad",
+    "Text": "Entre amigos no hay horarios, solo historias sin final."
+  },
+  {
+    "Guid": "9263e6cf-2416-41d1-83ae-e9f58c1dc02a",
+    "Category": "amistad",
+    "Text": "Una mirada cómplice entre amigos dice más que mil frases."
+  },
+  {
+    "Guid": "0eabf5a6-1e63-4f0f-b822-9a80cb31e694",
+    "Category": "amistad",
+    "Text": "Los buenos amigos no se buscan, se descubren."
+  },
+  {
+    "Guid": "a247e6e1-611c-4db0-8054-537dc2ea7636",
+    "Category": "amistad",
+    "Text": "La amistad sana heridas que el tiempo no puede."
+  },
+  {
+    "Guid": "e7b0f9fc-f540-433f-8203-45690e79a576",
+    "Category": "amistad",
+    "Text": "Un buen amigo convierte cualquier lugar en hogar."
+  },
+  {
+    "Guid": "96c2cbb0-c351-4301-96d5-2752c65b136f",
+    "Category": "amistad",
+    "Text": "La amistad se mide por los abrazos, no por los años."
+  },
+  {
+    "Guid": "a16d5f8f-b88f-4c7b-86a3-e113ae12f3eb",
+    "Category": "amistad",
+    "Text": "Los amigos verdaderos iluminan hasta los días nublados."
+  },
+  {
+    "Guid": "cd54cd0a-b56b-4c1a-932e-2d44c9c3cb41",
+    "Category": "amistad",
+    "Text": "Un mensaje de un amigo puede salvar todo un día."
+  },
+  {
+    "Guid": "f51dce31-9934-49ef-961c-fb52e2c98d0f",
+    "Category": "amistad",
+    "Text": "Entre amigos, los silencios se disfrutan igual que las palabras."
+  },
+  {
+    "Guid": "e1c41621-b163-41b6-b7f2-e39d0d4d57e2",
+    "Category": "amistad",
+    "Text": "Quien comparte tu locura, merece tu lealtad."
+  },
+  {
+    "Guid": "69051759-98ec-4765-961f-37424321bfa5",
+    "Category": "amistad",
+    "Text": "La amistad es la familia que elegimos sin papeles."
+  },
+  {
+    "Guid": "ad61a546-ff03-41df-81b2-6cae33c75942",
+    "Category": "amistad",
+    "Text": "Un café con un amigo vale más que mil terapias."
+  },
+  {
+    "Guid": "492fb2d3-3694-4386-b7e8-a2b1793653fd",
+    "Category": "amistad",
+    "Text": "A veces, un amigo no da soluciones, pero sí paz."
+  },
+  {
+    "Guid": "f25c9497-8ce7-4f80-987a-71caa7303b20",
+    "Category": "amistad",
+    "Text": "Una amistad sincera sobrevive a cualquier distancia."
+  },
+  {
+    "Guid": "fc20dd7a-20c2-4af9-b2c2-c0ae9f7e1bde",
+    "Category": "amistad",
+    "Text": "Los recuerdos con amigos nunca pasan de moda."
+  },
+  {
+    "Guid": "aa8c3e46-3b6a-4413-96ed-b8dbe20c1ca7",
+    "Category": "amistad",
+    "Text": "Amistad es compartir hasta los silencios incómodos."
+  },
+  {
+    "Guid": "62df1e93-9bcf-4a25-85ce-0dce6e447780",
+    "Category": "amistad",
+    "Text": "Los amigos no tienen precio, pero sí mucho valor."
+  },
+  {
+    "Guid": "87085d44-5980-4ec4-8777-f20aeae838e6",
+    "Category": "amistad",
+    "Text": "Con un amigo cerca, cualquier problema es más liviano."
+  },
+  {
+    "Guid": "ba1b2f87-54c3-4c2f-91e4-9c7b9de47ee0",
+    "Category": "amistad",
+    "Text": "Los amigos hacen brillar incluso los días comunes."
+  },
+  {
+    "Guid": "0e8b2cfc-1e8e-441e-a88c-cfc9a7cfab4d",
+    "Category": "amistad",
+    "Text": "Una amistad honesta no necesita filtros."
+  },
+  {
+    "Guid": "10e93608-621f-4204-b544-f6713f42eb94",
+    "Category": "amistad",
+    "Text": "Los amigos son los que se quedan cuando ya no fingís."
+  },
+  {
+    "Guid": "0fa38934-4b40-4bb8-81b0-a8d94d4bc23e",
+    "Category": "amistad",
+    "Text": "Si un amigo entiende tu meme sin explicaciones, es verdadero."
+  },
+  {
+    "Guid": "45a209c3-2d52-452c-b9e4-cc047c3311e3",
+    "Category": "amistad",
+    "Text": "La amistad se celebra en cada detalle compartido."
+  },
+  {
+    "Guid": "11706b44-bd71-4d85-a5e9-6cfdd6b4c40c",
+    "Category": "motivacion",
+    "Text": "No sueñes tu vida, vive tu sueño."
+  },
+  {
+    "Guid": "7c848af0-5e32-43d1-85f6-871bcbd85e6c",
+    "Category": "motivacion",
+    "Text": "El éxito es la suma de pequeños esfuerzos repetidos cada día."
+  },
+  {
+    "Guid": "df08bb5a-11e2-4012-a948-241529a8e35c",
+    "Category": "motivacion",
+    "Text": "Si puedes soñarlo, puedes hacerlo."
+  },
+  {
+    "Guid": "fc72ac1e-e39b-4c6d-875b-eae2ad2c6d71",
+    "Category": "motivacion",
+    "Text": "No te rindas. A veces, la última llave es la que abre la puerta."
+  },
+  {
+    "Guid": "69e9f5df-54d3-4878-8888-3777d4462a3b",
+    "Category": "motivacion",
+    "Text": "Cree en ti, incluso cuando nadie más lo haga."
+  },
+  {
+    "Guid": "f3d22312-a5e9-4fbd-91e5-2c0632b018d4",
+    "Category": "motivacion",
+    "Text": "La alegría es contagiosa. ¡Sé el inicio del brote!"
+  },
+  {
+    "Guid": "7bfbfa6c-3e07-4b1f-8dc4-7853c0efb4d8",
+    "Category": "motivacion",
+    "Text": "Hoy es el mejor día para sonreír sin razón."
+  },
+  {
+    "Guid": "d6a7f123-8b1f-4c66-aea6-364c9fbb9284",
+    "Category": "motivacion",
+    "Text": "La risa es el lenguaje del alma libre."
+  },
+  {
+    "Guid": "031d58c5-1c0e-4b71-9f20-c2cf515fa145",
+    "Category": "motivacion",
+    "Text": "Cuando tu corazón está contento, todo a tu alrededor brilla más."
+  },
+  {
+    "Guid": "840305a1-7c6b-4090-a390-4eb301ce095d",
+    "Category": "motivacion",
+    "Text": "Las pequeñas alegrías hacen grande la vida."
+  },
+  {
+    "Guid": "7dc7b6e9-e973-4ed1-8746-f620da04aafe",
+    "Category": "motivacion",
+    "Text": "Que la felicidad te encuentre bailando."
+  },
+  {
+    "Guid": "5c5ebdf2-912f-4d38-b2c6-d604cbd72501",
+    "Category": "motivacion",
+    "Text": "Recibir el día con una sonrisa es ya una victoria."
+  },
+  {
+    "Guid": "3925346b-c765-4d4b-b71d-4015e14353fa",
+    "Category": "motivacion",
+    "Text": "El entusiasmo transforma lo ordinario en extraordinario."
+  },
+  {
+    "Guid": "347be0d1-b306-4b8e-bf7f-4956db979881",
+    "Category": "motivacion",
+    "Text": "Alegrarte sin motivo también cuenta como motivo."
+  },
+  {
+    "Guid": "8860c437-3f62-4520-b4ca-c94d17b785da",
+    "Category": "motivacion",
+    "Text": "La vida siempre mejora cuando la mirás con gratitud."
+  },
+  {
+    "Guid": "69c9a0a6-21a8-4708-8401-d6dbf05ed9a9",
+    "Category": "motivacion",
+    "Text": "Tu alegría puede ser el sol que ilumine el día de otro."
+  },
+  {
+    "Guid": "f3b0ee3e-2f87-4955-9c19-a7369e8a558e",
+    "Category": "motivacion",
+    "Text": "¿Y si la felicidad está justo en este momento?"
+  },
+  {
+    "Guid": "e086b87d-ff8e-4dc2-a2e0-80fcbaabb962",
+    "Category": "motivacion",
+    "Text": "Donde hay esperanza, hay alegría esperando florecer."
+  },
+  {
+    "Guid": "c8bd107d-b718-4d36-888d-b0a77a3fe042",
+    "Category": "motivacion",
+    "Text": "Las carcajadas son los aplausos del alma."
+  },
+  {
+    "Guid": "1f6b6aaf-6a72-4ce1-ae2f-9aa50d14582c",
+    "Category": "motivacion",
+    "Text": "Cuando el corazón está liviano, todo se vuelve posible."
+  },
+  {
+    "Guid": "891ea156-022d-41f4-aec3-618c8f34b78b",
+    "Category": "motivacion",
+    "Text": "La alegría es más poderosa cuando se comparte."
+  },
+  {
+    "Guid": "e68e4c48-8f99-4d4b-aabe-53dc0ef8281d",
+    "Category": "motivacion",
+    "Text": "La luz que das vuelve a vos en forma de paz."
+  },
+  {
+    "Guid": "720b91eb-cabf-48f2-ae2a-0df5c148ee7b",
+    "Category": "motivacion",
+    "Text": "Vibrar alto es elegir sonreír a pesar de todo."
+  },
+  {
+    "Guid": "4f14aa38-361d-4902-b765-4f8d3768f8fc",
+    "Category": "motivacion",
+    "Text": "Cuando agradecés, la vida siempre te da más para celebrar."
+  },
+  {
+    "Guid": "f7b91f3d-d047-406e-aaf3-8e0c37df5fe0",
+    "Category": "motivacion",
+    "Text": "Que la alegría te encuentre donde menos lo esperás."
+  },
+  {
+    "Guid": "26222cf3-e92e-49b8-8a2e-9a62c4874fc1",
+    "Category": "alegria",
+    "Text": "La alegría no es algo que se pospone, es algo que se diseña para el presente."
+  },
+  {
+    "Guid": "c45df1b0-02b3-43d8-bfcb-31fc70ce4b75",
+    "Category": "alegria",
+    "Text": "Ríe cada día, es un regalo que te das a ti mismo."
+  },
+  {
+    "Guid": "02a38ef9-7741-4abf-9fe5-321b62c9f56e",
+    "Category": "alegria",
+    "Text": "La alegría es contagiosa. Pásala."
+  },
+  {
+    "Guid": "c902d340-2c84-4d62-bfa1-fcc1797d0fcf",
+    "Category": "alegria",
+    "Text": "Encuentra alegría en las cosas simples."
+  },
+  {
+    "Guid": "d7aef8de-b28e-4d0e-b57e-0bdb64a7e234",
+    "Category": "alegria",
+    "Text": "Ser feliz no es tener una vida perfecta, sino aprender a ver más allá de las imperfecciones."
+  },
+  {
+    "Guid": "727d2e4b-1e42-4662-aadc-1dff60de754a",
+    "Category": "secreto",
+    "Text": "Los secretos más profundos no se dicen, se intuyen."
+  },
+  {
+    "Guid": "d83eeb87-f8c7-4d9b-8383-bc2de37c97f2",
+    "Category": "secreto",
+    "Text": "A veces el silencio dice más que mil palabras."
+  },
+  {
+    "Guid": "f18c9d88-2ef8-4c9d-a8d2-5c10b912846b",
+    "Category": "secreto",
+    "Text": "Un secreto bien guardado es una historia a medias."
+  },
+  {
+    "Guid": "63a76c27-402b-471a-9253-7c3a9d1f0f4e",
+    "Category": "secreto",
+    "Text": "El misterio alimenta el alma curiosa."
+  },
+  {
+    "Guid": "5fd1a5bc-4f36-4bcf-aeb0-e6499e3a50c1",
+    "Category": "secreto",
+    "Text": "Lo invisible a los ojos es a veces lo más claro para el corazón."
+  },
+  {
+    "Guid": "a5c3e6c2-c55d-4c2b-a022-8c5c7a8e4e5d",
+    "Category": "secreto",
+    "Text": "No todo lo que callas debe ser revelado."
+  },
+  {
+    "Guid": "8f54a9a8-3fc8-4e2b-84fd-a1b9f22ea1d6",
+    "Category": "secreto",
+    "Text": "El verdadero poder no se muestra, se percibe."
+  },
+  {
+    "Guid": "d0db943e-5481-4f46-9dc9-0c73c0a79131",
+    "Category": "secreto",
+    "Text": "Hay respuestas que solo aparecen cuando te animás a no preguntar."
+  },
+  {
+    "Guid": "c2371b9c-c6e7-469f-bc78-3a6cf36d0733",
+    "Category": "secreto",
+    "Text": "Las verdades más profundas llegan en susurros."
+  },
+  {
+    "Guid": "d359f8b2-3965-412a-b99e-9d5947864826",
+    "Category": "secreto",
+    "Text": "Tu intuición sabe cosas que tu mente aún no entiende."
+  },
+  {
+    "Guid": "088b9ed4-e3a5-4fc3-98d5-58fd30d09b47",
+    "Category": "secreto",
+    "Text": "Lo que te transforma muchas veces no tiene explicación."
+  },
+  {
+    "Guid": "2e65eab1-a84d-41b3-9e9f-6cc60ebce9fc",
+    "Category": "secreto",
+    "Text": "El silencio también puede ser una respuesta poderosa."
+  },
+  {
+    "Guid": "2e799781-59e5-4c6a-b2b9-6bb3d3f6e0cf",
+    "Category": "secreto",
+    "Text": "La sabiduría oculta suele vivir en lo cotidiano."
+  },
+  {
+    "Guid": "04217fdc-f857-4aad-878c-c55f800b79a5",
+    "Category": "secreto",
+    "Text": "Hay puertas que solo se abren desde adentro."
+  },
+  {
+    "Guid": "ffb0e1f3-0d09-4a16-bafc-32027cf6bb26",
+    "Category": "secreto",
+    "Text": "Tu sombra también tiene mensajes que quieren ser escuchados."
+  },
+  {
+    "Guid": "a898d91e-2c87-4649-80eb-a0b4e7b2e0ca",
+    "Category": "secreto",
+    "Text": "El universo te habla. ¿Le estás prestando atención?"
+  },
+  {
+    "Guid": "7d019d2a-d7a7-4b5f-b6e5-378b1e9c470f",
+    "Category": "secreto",
+    "Text": "Las claves para avanzar a veces se esconden en la pausa."
+  },
+  {
+    "Guid": "c6e30d36-5c79-402c-bc2b-f41be54fb32a",
+    "Category": "secreto",
+    "Text": "Tu calma puede ser más revolucionaria que tu ruido."
+  },
+  {
+    "Guid": "1c83873b-75ae-457e-b6a0-e070c7d2bdf7",
+    "Category": "secreto",
+    "Text": "Lo secreto no siempre es oculto, a veces solo espera el momento."
+  },
+  {
+    "Guid": "1bb06ba8-2ed0-423f-a1e5-26bc7a0b236c",
+    "Category": "secreto",
+    "Text": "Si lo sentís, existe. Aunque nadie lo vea."
+  },
+  {
+    "Guid": "443bc2de-7bd3-412b-bdfd-1f8afc6ca236",
+    "Category": "secreto",
+    "Text": "Hay caminos invisibles que también llevan lejos."
+  },
+  {
+    "Guid": "35f8f7b5-e473-4c3e-9eab-a4ae8639c509",
+    "Category": "secreto",
+    "Text": "Tu propia energía crea puertas que aún no ves."
+  },
+  {
+    "Guid": "81af300b-e042-4994-b152-3e37f558d5e1",
+    "Category": "secreto",
+    "Text": "Lo que te inspira en secreto suele ser tu misión más genuina."
+  },
+  {
+    "Guid": "c63f0348-c825-4b54-bca5-f43537c6826e",
+    "Category": "secreto",
+    "Text": "El misterio no es confusión, es profundidad."
+  },
+  {
+    "Guid": "4bdb82d3-e458-46ff-bbee-d63f1c812829",
+    "Category": "secreto",
+    "Text": "Lo que susurra al alma tiene más fuerza que lo que grita al mundo."
+  },
+  {
+    "Guid": "bfadea6a-6c0a-4d35-938c-3ac9f353a730",
+    "Category": "viaje",
+    "Text": "Viajar es cambiarle la ropa al alma."
+  },
+  {
+    "Guid": "65095a61-c96e-4783-9152-cfdbab8a55f0",
+    "Category": "viaje",
+    "Text": "Cada destino tiene algo que enseñarte."
+  },
+  {
+    "Guid": "bc041896-98db-4cbf-bdc2-c13bc95b76b5",
+    "Category": "viaje",
+    "Text": "No viajamos para escapar de la vida, sino para que la vida no se nos escape."
+  },
+  {
+    "Guid": "37c980e4-bfe2-4eb4-8dbb-4cebc5aa5f92",
+    "Category": "viaje",
+    "Text": "Un viaje de mil millas comienza con un solo paso."
+  },
+  {
+    "Guid": "ef36f803-6115-490d-a1b8-e7bca0ad8d38",
+    "Category": "viaje",
+    "Text": "El mapa no es el territorio, ¡descúbrelo!"
+  },
+  {
+    "Guid": "9f3d8c01-7a73-4c1f-9caa-d5f2e3e1a34f",
+    "Category": "viaje",
+    "Text": "El mundo no se recorre con los pies, sino con la mente abierta."
+  },
+  {
+    "Guid": "6bd2b822-d089-48e5-ae60-507055c5bbf3",
+    "Category": "viaje",
+    "Text": "Las mejores postales son las que guardás en el alma."
+  },
+  {
+    "Guid": "c16d4e91-bc92-402e-b9fc-24c3ac4eebf0",
+    "Category": "viaje",
+    "Text": "No se trata de ir lejos, sino de ir profundo."
+  },
+  {
+    "Guid": "f476f7b1-c41b-4a91-806c-b2e429dfbe9b",
+    "Category": "viaje",
+    "Text": "Tu pasaporte no define tu aventura, tu curiosidad sí."
+  },
+  {
+    "Guid": "8b5f3856-ec5d-473c-8dd7-8e3d2413262c",
+    "Category": "viaje",
+    "Text": "No hay ruta equivocada cuando el corazón guía."
+  },
+  {
+    "Guid": "ac1a158b-64d6-4d56-b026-0e0880111f7e",
+    "Category": "viaje",
+    "Text": "A veces un nuevo paisaje es todo lo que necesitás para cambiar tu visión."
+  },
+  {
+    "Guid": "7619ba44-93be-4a8c-a7bb-99132fdf7a91",
+    "Category": "viaje",
+    "Text": "El viaje más largo puede comenzar con una pregunta."
+  },
+  {
+    "Guid": "266f0aeb-0f47-4cc4-911c-b9c50eb1a861",
+    "Category": "viaje",
+    "Text": "A donde vayas, llevá contigo tus ganas de aprender."
+  },
+  {
+    "Guid": "b1909ba2-d529-4b62-a7b1-7da7e4e0b575",
+    "Category": "viaje",
+    "Text": "La brújula más confiable es tu instinto."
+  },
+  {
+    "Guid": "06a7c3b5-cfd2-49ee-92d1-3feff7d08f37",
+    "Category": "viaje",
+    "Text": "Cada paso fuera de tu zona conocida es una historia nueva."
+  },
+  {
+    "Guid": "018d0a39-4d71-45fc-9f99-c732ebd234c6",
+    "Category": "viaje",
+    "Text": "El mejor souvenir es el que te transforma."
+  },
+  {
+    "Guid": "d3829cc4-f37e-44d8-9185-18d753e7b183",
+    "Category": "viaje",
+    "Text": "Viajar te enseña que hay mil formas de ver el mismo cielo."
+  },
+  {
+    "Guid": "257e74dc-cb5f-4c23-b05f-f5e79c5e9e31",
+    "Category": "viaje",
+    "Text": "No busques destinos, buscá experiencias."
+  },
+  {
+    "Guid": "36070be3-1ce7-4ad2-9772-62c4ae291f4e",
+    "Category": "viaje",
+    "Text": "Los caminos más bellos no siempre están en el GPS."
+  },
+  {
+    "Guid": "ac8e3ab0-4422-41e7-a5e2-e5e720f6aa9e",
+    "Category": "viaje",
+    "Text": "Cada viaje es una carta de amor a la curiosidad."
+  },
+  {
+    "Guid": "147bba62-b0dc-4e5f-8f59-6895d6c14539",
+    "Category": "viaje",
+    "Text": "Los recuerdos de viaje no se desgastan, se atesoran."
+  },
+  {
+    "Guid": "23a9ce84-b95c-46db-89f2-1f40dbb70cb2",
+    "Category": "viaje",
+    "Text": "Un nuevo lugar puede revelar una nueva parte de vos."
+  },
+  {
+    "Guid": "89ae0ca7-f92a-4695-84f4-3ab3d8b57394",
+    "Category": "viaje",
+    "Text": "La aventura no está allá afuera, está en tu decisión de salir."
+  },
+  {
+    "Guid": "08453d57-7047-4f0f-bb84-c90a5f3ec043",
+    "Category": "viaje",
+    "Text": "Viajar es coleccionar mundos en tu memoria."
+  },
+  {
+    "Guid": "2b550435-d917-4e7b-93b4-292f7f78dd6f",
+    "Category": "viaje",
+    "Text": "La mejor ruta siempre incluye sorpresa."
+  },
+  {
+    "Guid": "e65fbe2c-8e2f-4d9f-bb53-22ebad78cdaf",
+    "Category": "gym",
+    "Text": "Cada gota de sudor es un paso más cerca de tu meta."
+  },
+  {
+    "Guid": "34bdc969-d6e3-4eb8-bc1f-bdd4f3e56539",
+    "Category": "gym",
+    "Text": "No hay excusas, solo resultados."
+  },
+  {
+    "Guid": "85c7e1f0-82e3-4e27-8f93-1a6ec25fbd84",
+    "Category": "gym",
+    "Text": "Tu cuerpo puede soportarlo, es tu mente la que debes convencer."
+  },
+  {
+    "Guid": "ee4c2b64-8f7b-4b21-8174-4bb496c90db5",
+    "Category": "gym",
+    "Text": "Entrena como si tu vida dependiera de ello. Algún día podría ser así."
+  },
+  {
+    "Guid": "cd1f2d4a-c541-4b8a-87d1-59313a3e9274",
+    "Category": "gym",
+    "Text": "Sin dolor no hay progreso."
+  },
+  {
+    "Guid": "f4aa8371-d82a-4f0f-917a-cd6149a12c6d",
+    "Category": "gym",
+    "Text": "Cuando no tengas ganas, recordá por qué empezaste."
+  },
+  {
+    "Guid": "d3b68f53-c645-4d20-962a-2cbb6e36e5ea",
+    "Category": "gym",
+    "Text": "Tus límites existen solo si creés en ellos."
+  },
+  {
+    "Guid": "9058e9ae-b8ef-4c06-a694-29725a129f8e",
+    "Category": "gym",
+    "Text": "Cada repetición te hace más fuerte, no más cansado."
+  },
+  {
+    "Guid": "74ff1e8a-8d32-4454-9dc3-7ed8a0aa1fc2",
+    "Category": "gym",
+    "Text": "Esas pesas no se levantan solas. Dale, que podés."
+  },
+  {
+    "Guid": "a7f7bffc-b8e7-4c99-aec6-d943d3914071",
+    "Category": "gym",
+    "Text": "Lo fácil no transforma. Lo difícil, sí."
+  },
+  {
+    "Guid": "3cb2ba0c-e9a7-4e80-af01-c8f1c45d9d1f",
+    "Category": "gym",
+    "Text": "No es solo cuerpo, es disciplina, es actitud."
+  },
+  {
+    "Guid": "305f1d9b-0587-4dd1-8e7c-157c2a278147",
+    "Category": "gym",
+    "Text": "El sudor es tu marca de avance."
+  },
+  {
+    "Guid": "d01d2511-679a-46be-9d99-9fa3674f9566",
+    "Category": "gym",
+    "Text": "La constancia supera al talento cuando el talento no trabaja."
+  },
+  {
+    "Guid": "4c7dcd6e-5e5d-4899-bcd1-a2d90e82a2c1",
+    "Category": "gym",
+    "Text": "El dolor de hoy es la fuerza de mañana."
+  },
+  {
+    "Guid": "ed8d7411-0e8c-472e-b95f-225d3ed0972f",
+    "Category": "gym",
+    "Text": "Si querés resultados distintos, entrená distinto."
+  },
+  {
+    "Guid": "1b7e9d6d-7c45-4820-8d65-eedb4e87ff28",
+    "Category": "gym",
+    "Text": "La perseverancia se mide en repeticiones, no en palabras."
+  },
+  {
+    "Guid": "cba31920-680a-4c70-8d17-840fa28b3610",
+    "Category": "gym",
+    "Text": "Cuando el cuerpo duda, que la mente mande."
+  },
+  {
+    "Guid": "7ec708e6-4c19-4e91-af9a-0618e7e303ab",
+    "Category": "gym",
+    "Text": "No hay secreto: trabajo duro, constancia y actitud."
+  },
+  {
+    "Guid": "5f7537cd-0e69-4897-9b6b-b9a18d5066ae",
+    "Category": "gym",
+    "Text": "Tu progreso no se mide en kilos, sino en esfuerzo."
+  },
+  {
+    "Guid": "e05c1d55-2bc7-40be-b700-278e2b2cf35d",
+    "Category": "gym",
+    "Text": "No esperes resultados sin sacrificios."
+  },
+  {
+    "Guid": "916bd55e-f43e-44c0-8fda-cad00c4279b9",
+    "Category": "gym",
+    "Text": "Entrenar fuerte no te cambia solo el cuerpo, te cambia la mente."
+  },
+  {
+    "Guid": "7573d6cb-bb35-4cc1-bf70-8994ad14dfcd",
+    "Category": "gym",
+    "Text": "Cada fallo es aprendizaje, no retroceso."
+  },
+  {
+    "Guid": "eb3317e1-054c-4ea1-89c8-d45334f16785",
+    "Category": "gym",
+    "Text": "Tu única competencia sos vos mismo ayer."
+  },
+  {
+    "Guid": "5146e2be-7d3c-460b-82fc-3cc225cbb8e6",
+    "Category": "gym",
+    "Text": "No cuentes series. Hacé que cada una cuente."
+  },
+  {
+    "Guid": "ca89e05d-4922-4cf2-ad83-5ce389e74587",
+    "Category": "gym",
+    "Text": "El gimnasio no pide perfección, pide compromiso."
+  },
+  {
+    "Guid": "b835fb87-bb92-41fa-b7a7-8b7391d92b1c",
+    "Category": "otros",
+    "Text": "No todo cabe en una categoría. Y eso está bien."
+  },
+  {
+    "Guid": "a0b1c5f7-d5f3-4c91-a71f-8bb8f6eaac30",
+    "Category": "otros",
+    "Text": "La vida está hecha de matices, no de etiquetas."
+  },
+  {
+    "Guid": "8aeed97d-d45d-4c14-94fa-735207527c24",
+    "Category": "otros",
+    "Text": "La magia está en lo inesperado."
+  },
+  {
+    "Guid": "0a77cb4d-f43a-4439-b645-77e62e66df67",
+    "Category": "otros",
+    "Text": "No todo debe tener un nombre para tener sentido."
+  },
+  {
+    "Guid": "5a1265f5-83d1-4a55-a8d6-5be9eae8cf89",
+    "Category": "otros",
+    "Text": "A veces lo diferente es justo lo necesario."
+  },
+  {
+    "Guid": "a2e17456-d623-4bde-bf73-9eac4aa1151a",
+    "Category": "otros",
+    "Text": "Tu rareza es tu superpoder."
+  },
+  {
+    "Guid": "5d48d098-f8fd-4d9e-9061-199588504732",
+    "Category": "otros",
+    "Text": "No necesitas permiso para ser tú mismo."
+  },
+  {
+    "Guid": "b72a0d6b-7e79-4474-9763-0f4185ac7622",
+    "Category": "otros",
+    "Text": "El camino menos transitado guarda sorpresas valiosas."
+  },
+  {
+    "Guid": "d6fa4e93-a351-44cb-91fa-d4aef6f98738",
+    "Category": "otros",
+    "Text": "La autenticidad no tiene traducción."
+  },
+  {
+    "Guid": "e61e8045-2ebd-41e9-a590-aeb452f46f1c",
+    "Category": "otros",
+    "Text": "Ser distinto no es un error, es una declaración."
+  },
+  {
+    "Guid": "b884d116-d67f-47fe-af55-64692f099337",
+    "Category": "otros",
+    "Text": "Las reglas también se pueden reinventar."
+  },
+  {
+    "Guid": "cda34ba5-d026-49e9-b993-92b6cc5cf460",
+    "Category": "otros",
+    "Text": "A veces, perderse es la forma de encontrarse."
+  },
+  {
+    "Guid": "5a3f22a7-560e-44c9-8785-16613f493dbc",
+    "Category": "otros",
+    "Text": "Lo inesperado suele traer lo que más necesitás."
+  },
+  {
+    "Guid": "bd2b5395-d02a-4876-b00d-505e9c0fe4ec",
+    "Category": "otros",
+    "Text": "Tu historia es válida, incluso si no se parece a ninguna otra."
+  },
+  {
+    "Guid": "eeeb33a9-fcae-4160-83e3-dfbadadac733",
+    "Category": "otros",
+    "Text": "Cada día trae una página en blanco. ¿Qué vas a escribir hoy?"
+  },
+  {
+    "Guid": "d9243b4d-d449-43de-b8c7-6fa165e648d6",
+    "Category": "otros",
+    "Text": "No hay mapa para la originalidad."
+  },
+  {
+    "Guid": "1f60ad23-236b-4769-8e91-b591531dab3f",
+    "Category": "otros",
+    "Text": "Tu diferencia puede ser la chispa que ilumine el mundo."
+  },
+  {
+    "Guid": "5470ecdc-d4eb-4a34-a2f3-0cf1cc77f2b3",
+    "Category": "otros",
+    "Text": "Lo ordinario puede convertirse en extraordinario con tu visión."
+  },
+  {
+    "Guid": "50c3316e-bd35-4c29-a2b2-72f38fcd34f3",
+    "Category": "otros",
+    "Text": "No encajar puede ser lo mejor que te pase."
+  },
+  {
+    "Guid": "cbfbe5b9-55a2-44d0-9616-1a289e9ee1ff",
+    "Category": "otros",
+    "Text": "Tus ideas locas son más sabias de lo que parecen."
+  },
+  {
+    "Guid": "fdc942dd-4d78-414f-99a9-0f4cbd5f312b",
+    "Category": "otros",
+    "Text": "La belleza habita en los ángulos imperfectos."
+  },
+  {
+    "Guid": "a881660f-4105-41e0-a748-276cae28cf9c",
+    "Category": "otros",
+    "Text": "Si es raro pero te hace feliz, no necesita explicación."
+  },
+  {
+    "Guid": "3e0fd64b-54c7-4906-aecd-b3ac93e847be",
+    "Category": "otros",
+    "Text": "No estás obligado a seguir el guión."
+  },
+  {
+    "Guid": "71a205f2-56f4-4994-91f1-e3d406bd0f5e",
+    "Category": "otros",
+    "Text": "Lo que te hace único también te hace fuerte."
+  },
+  {
+    "Guid": "783dbecf-7993-4e31-b8e2-993c28a24114",
+    "Category": "otros",
+    "Text": "No seas normal. Sé tú."
+  }
+]
